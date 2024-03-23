@@ -1,0 +1,21 @@
+# Query for the ten stations closest to 30 Dane St.
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+PREFIX bike_taxonomy: <https://bluebikes.com/system-data/rdf/bike_taxonomy#>
+
+SELECT ?origLabel ?closeLabel ?distance WHERE {
+  bike_taxonomy:S32023
+    rdfs:label ?origLabel;
+    geo:asWKT ?origWKT .
+  ?close
+    rdfs:label ?closeLabel; 
+    geo:asWKT ?closeWKT .
+  BIND(geof:distance(?origWKT, ?closeWKT, uom:metre) AS ?distance)
+  FILTER (?origLabel != ?closeLabel)
+}
+ORDER BY ASC(geof:distance(?origWKT, ?closeWKT, uom:metre))
+LIMIT 10
+

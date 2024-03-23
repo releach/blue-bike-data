@@ -1,0 +1,10 @@
+
+<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32049> a <http://www.opengis.net/ont/sf#Point>,
+    <https://bluebikes.com/system-data/rdf/ontology#Station>;
+  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07242074 42.34954403)"^^<http://www.opengis.net/ont/geosparql#wktLiteral>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Stuart St at Berkeley St";
+  <https://bluebikes.com/system-data/rdf/ontology#district> <https://bluebikes.com/system-data/rdf/bike_taxonomy#Boston>;
+  <https://bluebikes.com/system-data/rdf/ontology#latitude> 42.34954403;
+  <https://bluebikes.com/system-data/rdf/ontology#longitude> -71.07242074;
+  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19;
+  <https://bluebikes.com/system-data/rdf/ontology#stationID> "D32049" .

@@ -1,0 +1,13 @@
+# Query for the 5 stations closest to the Isabella Stewart Gardner Museum
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+PREFIX bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+
+SELECT ?stationLabel (geof:distance(?location, "POINT(-71.099205 42.338146)"^^geo:wktLiteral, uom:metre) AS ?distance) WHERE {
+  ?station geo:asWKT ?location ; 
+           rdfs:label ?stationLabel. 
+}
+ORDER BY ?distance
+LIMIT 5

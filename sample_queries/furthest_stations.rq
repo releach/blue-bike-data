@@ -1,0 +1,19 @@
+# Query for the ten stations furthest from each other, using station IDs for unique comparisons
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+PREFIX bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+
+SELECT ?label1 ?label2 (geof:distance(?wkt1, ?wkt2, uom:metre) AS ?distance) WHERE {
+  ?station1 bike_ontology:stationID ?id1; 
+            rdfs:label ?label1;
+            geo:asWKT ?wkt1 .
+  ?station2 bike_ontology:stationID ?id2; 
+            rdfs:label ?label2; 
+            geo:asWKT ?wkt2 .
+
+  FILTER (?id1 < ?id2) 
+}
+ORDER BY DESC(?distance)
+LIMIT 10
