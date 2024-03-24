@@ -1,5 +1,5 @@
-# Bluebikes Data
+# Boston Bluebikes graph
 
-This repo contains an ontology, taxonomy, and instance data for a sample knowledge graph of Boston's Bluebikes bikeshare program data. Created for demo purposes. 
+This repo contains an ontology, taxonomy, instance data, sample queries, and a transformation script for an RDF graph of Boston's Bluebikes bikeshare program data. Created for CP demo. 
 
 
