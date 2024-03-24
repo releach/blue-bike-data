@@ -1,0 +1,18 @@
+# Longest distance, fastest time by trip
+
+PREFIX bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+PREFIX bike_data: <https://bluebikes.com/system-data/rdf/bike_data#>
+PREFIX bike_taxonomy: <https://bluebikes.com/system-data/rdf/bike_taxonomy#>
+PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+
+SELECT ?trip ?duration (geof:distance(?startLoc, ?endLoc, uom:metre) AS ?distance) ((?distance / ?duration) as ?speed) WHERE {
+?trip a bike_ontology:Trip ;
+    bike_ontology:tripDuration ?duration;
+    bike_ontology:startStation ?start ;
+	bike_ontology:endStation ?end . 
+    ?start geo:asWKT ?startLoc . 
+	?end geo:asWKT ?endLoc . 
+    FILTER (?start != ?end)
+} ORDER BY DESC(?speed)
