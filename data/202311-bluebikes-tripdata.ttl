@@ -1,1300 +1,1306 @@
-
-<https://bluebikes.com/system-data/rdf/bike_data#000102D7B245DFBB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "000102D7B245DFBB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-13T08:48:40-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#003063EC3C7F34AF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "003063EC3C7F34AF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-20T17:26:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#003F3621DF210217> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "003F3621DF210217";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-27T10:26:33-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#01C4D4553F2A804F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "01C4D4553F2A804F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-09T18:11:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0210BBC347DCA7D6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0210BBC347DCA7D6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32008>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T17:22:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0346A9F582C68C62> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0346A9F582C68C62";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-10T15:34:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#03496E283C633E0C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "03496E283C633E0C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-10T15:48:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0353988D4D141146> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0353988D4D141146";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-09T09:56:28-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#045A1E4010CE782F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "045A1E4010CE782F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32001>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-29T16:28:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#04FCCF7F9E4936FE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "04FCCF7F9E4936FE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-08T15:19:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#05D2D50B6C2E7BBE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "05D2D50B6C2E7BBE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T13:26:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0606D56699D09031> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0606D56699D09031";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32015>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-22T18:36:18-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0839B33F87C8FE59> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0839B33F87C8FE59";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-05T12:06:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#08CF70E406B56578> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "08CF70E406B56578";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-15T17:58:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0BC63CE36AD4BA73> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0BC63CE36AD4BA73";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T16:58:56-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0BC7D4C84A345C8A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0BC7D4C84A345C8A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32037>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T00:22:19-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0BF9F84336503A4F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0BF9F84336503A4F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32007>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-04T12:59:47-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0C079CF04F5F7E99> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0C079CF04F5F7E99";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T08:59:02-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0C284C14E9E1FB28> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0C284C14E9E1FB28";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T15:41:33-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0C634B1A90EF52AF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0C634B1A90EF52AF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32060>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-13T12:36:26-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0D7469CA97166B47> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0D7469CA97166B47";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-01T18:11:21-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0DC5A62EDEC760C9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0DC5A62EDEC760C9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T09:10:57-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0DFD267CC20D0D23> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0DFD267CC20D0D23";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32102>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-18T13:43:57-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0F16B3EFCB935D66> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0F16B3EFCB935D66";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T19:33:24-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0F3877017E68E855> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0F3877017E68E855";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-23T22:13:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#0F729C04D72ACFAF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "0F729C04D72ACFAF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-11T12:01:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1027B2E0FABFAC48> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1027B2E0FABFAC48";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T15:35:29-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#10479B6CBD76D9B8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "10479B6CBD76D9B8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32007>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-11T11:11:56-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#114E04773D95E70E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "114E04773D95E70E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32040>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T14:16:50-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#122FA2728B68FB82> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "122FA2728B68FB82";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-25T11:03:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#141F0C5CAD638943> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "141F0C5CAD638943";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32036>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T14:55:58-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#142526341426B298> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "142526341426B298";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32052>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-09T16:35:34-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#14BC0D9B5986F331> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "14BC0D9B5986F331";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32052>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T17:20:46-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#14CE38DC4D2078C6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "14CE38DC4D2078C6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-13T15:03:07-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#167E06184C805E54> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "167E06184C805E54";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T07:10:52-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#17222ACD15DB646D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "17222ACD15DB646D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32011>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-14T17:16:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#19840A98A15D027A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "19840A98A15D027A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-18T00:16:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#19FC691500F3129E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "19FC691500F3129E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32008>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-12T12:37:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1AB77A6DBA79B5E9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1AB77A6DBA79B5E9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-24T13:20:29-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1B09F00DF46BE255> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1B09F00DF46BE255";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32027>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-28T18:42:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1B54FF0B8541C6C9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1B54FF0B8541C6C9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#L32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-26T17:38:23-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1B98D705F6B77693> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1B98D705F6B77693";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-14T17:05:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1C28191C79CA344B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1C28191C79CA344B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-19T09:29:36-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1CFFE2DAA32369C8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1CFFE2DAA32369C8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-15T17:49:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#1E9F6160CE469422> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1E9F6160CE469422";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T22:25:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#20FA006060F9552F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "20FA006060F9552F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-14T17:28:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#21AB556AC7EF943C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "21AB556AC7EF943C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32039>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-08T16:58:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#22467F59EA3CF9F3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "22467F59EA3CF9F3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-01T19:02:54-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#276B58CD2240A3AF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "276B58CD2240A3AF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-15T23:17:53-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2B79A2BE835DCB59> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2B79A2BE835DCB59";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32997>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T14:48:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2BCD4B75B5B691DD> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2BCD4B75B5B691DD";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32061>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-10T17:15:58-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2C61E376831FC379> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2C61E376831FC379";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-23T15:08:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2C92ADEC20D2A6FC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2C92ADEC20D2A6FC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T17:20:49-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2C9A1594209CADDB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2C9A1594209CADDB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32036>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-29T18:02:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2D210F167D061FC9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2D210F167D061FC9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#K32006>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-25T10:01:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2D355FDA56B286F1> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2D355FDA56B286F1";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T07:08:54-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2D6E953EF01683C6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2D6E953EF01683C6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32048>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-05T18:08:55-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2E10CBC52F0DC3AA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2E10CBC52F0DC3AA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-29T09:11:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2EFFFF903CE6D011> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2EFFFF903CE6D011";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-01T19:47:18-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2FB9D96FB4D9324F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2FB9D96FB4D9324F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32007>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T15:09:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#2FFC1F0A2613FAD4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2FFC1F0A2613FAD4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T15:53:48-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#30325667A9701EB9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "30325667A9701EB9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32002>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T09:39:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3049A5DB2D28DB3B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3049A5DB2D28DB3B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T16:49:27-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#313930C20778FDBD> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "313930C20778FDBD";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T16:31:19-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3238C1278DAA738F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3238C1278DAA738F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T19:37:35-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#32FDEF5F9B85510B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "32FDEF5F9B85510B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-16T21:07:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3402CC125190090B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3402CC125190090B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T14:41:04-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#345C6B2C575B12A3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "345C6B2C575B12A3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-07T18:57:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#357D64920CADECE6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "357D64920CADECE6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32039>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T14:27:39-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#35D14DE94C00D4B8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "35D14DE94C00D4B8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32033>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-11T14:26:39-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#36D7C4758242973F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "36D7C4758242973F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T09:25:36-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#36E34FF5E0F93577> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "36E34FF5E0F93577";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-24T14:49:25-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#38830228227D83F5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "38830228227D83F5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32006>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-10T13:47:28-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#38F0D3370A90842F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "38F0D3370A90842F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T06:18:25-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3BBD8998C93FA545> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3BBD8998C93FA545";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-08T10:41:25-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3BC302DF298D312F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3BC302DF298D312F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-30T08:39:13-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3C10175E33A58681> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3C10175E33A58681";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-30T17:37:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3C6BB658C366804A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3C6BB658C366804A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32032>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-20T17:19:48-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3D3D4530E9BA7A37> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3D3D4530E9BA7A37";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T17:59:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3D3F9A3354A789F6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3D3F9A3354A789F6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32053>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-09T17:59:03-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3E1E3002916A7658> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3E1E3002916A7658";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-04T14:40:37-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3EC041147A4C50A4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3EC041147A4C50A4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32018>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-30T21:47:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#3FF53B1E9F9E779F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "3FF53B1E9F9E779F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-07T17:57:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#40965CBB554F9C82> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "40965CBB554F9C82";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32051>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-29T10:05:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#42B9E2DD57532BAB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "42B9E2DD57532BAB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-17T13:47:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4323013ED69C2E06> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4323013ED69C2E06";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-18T09:28:43-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4479C3D19CF5D47F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4479C3D19CF5D47F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-06T15:40:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#44827057AC2AAA61> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "44827057AC2AAA61";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32010>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-07T16:59:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#448308A0F86CD487> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "448308A0F86CD487";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-12T14:35:24-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#453331DB2CF41AEA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "453331DB2CF41AEA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32017>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-08T15:45:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4648652E953B8312> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4648652E953B8312";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-02T17:02:26-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#47AC921C9EA2DC33> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "47AC921C9EA2DC33";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32037>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-30T18:14:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#481A7684C38FC5A6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "481A7684C38FC5A6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32006>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-25T11:32:50-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4824DD4332277739> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4824DD4332277739";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-05T14:22:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#49569D35EEEACD44> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "49569D35EEEACD44";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-04T11:09:32-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4B1D0E3BD6FB4C87> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4B1D0E3BD6FB4C87";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-04T10:58:23-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4B4133BB1F2CDF59> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4B4133BB1F2CDF59";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-03T15:11:39-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4B48CF1089CEF912> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4B48CF1089CEF912";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-01T12:36:04-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4C8EACB059FE1043> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4C8EACB059FE1043";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-28T09:10:39-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4CA9C401A7435D03> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4CA9C401A7435D03";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-09T17:30:01-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4E183EACB9B42BBE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4E183EACB9B42BBE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022>;
-  <https://bluebikes.com/system-data/rdf/ontology#endedAt> "2023-11-08T16:46:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#4FB2D8BC4D984026> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "4FB2D8BC4D984026";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#50774CFF7FA4A6A3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "50774CFF7FA4A6A3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#52B07D6C377FE299> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "52B07D6C377FE299";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#V32007> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#52B699E13D8E4125> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "52B699E13D8E4125";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#53451E8EB7C52AC2> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "53451E8EB7C52AC2";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32042> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#544ED4D0D40DFF4A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "544ED4D0D40DFF4A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#V32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#549DF221FD014CE4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "549DF221FD014CE4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#554D92BB0F68FECB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "554D92BB0F68FECB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32039> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#555D8E20F2E1AB00> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "555D8E20F2E1AB00";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32039> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#55FDA41F368AD2BB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "55FDA41F368AD2BB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5722A187BEE549BF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5722A187BEE549BF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#57A92ABCB63C6B34> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "57A92ABCB63C6B34";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#58E7C802C5ECBCBD> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "58E7C802C5ECBCBD";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#594C0435F719D59B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "594C0435F719D59B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5A5CF4C10BD1C9B8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5A5CF4C10BD1C9B8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32032> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5A94731CFCF2C7DC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5A94731CFCF2C7DC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5AE076786421EF82> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5AE076786421EF82";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5B1200F738228A91> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5B1200F738228A91";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5CEA9C9FB27A5069> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5CEA9C9FB27A5069";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#5E753A6F1E41FE05> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "5E753A6F1E41FE05";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6019247940CEDAB0> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6019247940CEDAB0";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6386901760F267BC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6386901760F267BC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#645E23B7A96253A6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "645E23B7A96253A6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#64A19378613A0EAA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "64A19378613A0EAA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32059> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#64ACA6A1459907F6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "64ACA6A1459907F6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32042> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#65797DE364EBB249> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "65797DE364EBB249";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#65A567526D13BAA0> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "65A567526D13BAA0";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32073> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6613107F51D87D64> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6613107F51D87D64";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#66FA74C48C66AE12> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "66FA74C48C66AE12";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6991DA0067FA301A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6991DA0067FA301A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32025> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6D569590DF988129> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6D569590DF988129";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6E34C467FCD86D79> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6E34C467FCD86D79";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32060> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6EFA2B3F551FAA23> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6EFA2B3F551FAA23";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6F60B0A5D87B4B5E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6F60B0A5D87B4B5E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#6F76F95B20EC96EB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "6F76F95B20EC96EB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#70F9D8575C4B0C18> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "70F9D8575C4B0C18";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7110CA33BB322C17> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7110CA33BB322C17";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#L32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#716809BC49A8DD95> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "716809BC49A8DD95";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32047> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#73D0625CBFE1346F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "73D0625CBFE1346F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#73EE6095F784FA46> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "73EE6095F784FA46";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#74AF8C813C7D4AFA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "74AF8C813C7D4AFA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32007> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#755CACE19EB352FC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "755CACE19EB352FC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32083> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#75F2DF9571600809> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "75F2DF9571600809";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7AD765AC5C9787B5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7AD765AC5C9787B5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32048> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7AF50AADE0EE431D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7AF50AADE0EE431D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7C0A409AE37456ED> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7C0A409AE37456ED";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7E39340256CF2437> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7E39340256CF2437";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7EAF96734A46EA23> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7EAF96734A46EA23";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#7EB7F0DE35BD07D0> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7EB7F0DE35BD07D0";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#800C719319A1B7A4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "800C719319A1B7A4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#825F9E03D6159DE6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "825F9E03D6159DE6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#835EC468B50EBFF8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "835EC468B50EBFF8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#843EB86224D1BD7D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "843EB86224D1BD7D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#844D0BF903C1FCBC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "844D0BF903C1FCBC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32077> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#84E37816F60946C5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "84E37816F60946C5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#87158E832C7CB27A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "87158E832C7CB27A" .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8724305682455833> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8724305682455833";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#87446A1262317E2E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "87446A1262317E2E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#88879E42CC9F5FE8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "88879E42CC9F5FE8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#88E92962B7D89F40> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "88E92962B7D89F40";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#89998AB06F95A3DB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "89998AB06F95A3DB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8A6D62FAA30AFC40> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8A6D62FAA30AFC40";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8A7C2211416E75DC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8A7C2211416E75DC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32063> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8AAB55EF11E35A1B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8AAB55EF11E35A1B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8B7C4569A5835589> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8B7C4569A5835589";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8B820DD0FEE5FA4E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8B820DD0FEE5FA4E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8B8C24D4B476139C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8B8C24D4B476139C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32050> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8C9EB275C4FA1903> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8C9EB275C4FA1903";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8E147D9EF9127762> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8E147D9EF9127762";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8E32EE4AC811EE0D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8E32EE4AC811EE0D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#8E52CB1CB2BA3CE7> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "8E52CB1CB2BA3CE7";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#905E98D62CA4BA9C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "905E98D62CA4BA9C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#92338641D38172E6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "92338641D38172E6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#92E432FE73F5657D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "92E432FE73F5657D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#92FE3D37F0CF74C4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "92FE3D37F0CF74C4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#935321CC82B4C43C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "935321CC82B4C43C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#96AE554F82E80DBE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "96AE554F82E80DBE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#97DC2D14B6222E5E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "97DC2D14B6222E5E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#97EDC2CEA71CD08D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "97EDC2CEA71CD08D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32059> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#983740615BB51D3C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "983740615BB51D3C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32047> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#9E7A96B89B7F9F5E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "9E7A96B89B7F9F5E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#9E98106EB13D6205> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "9E98106EB13D6205";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#L32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A0CFDC313C99A81B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A0CFDC313C99A81B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32052> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A16A17ED9320827B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A16A17ED9320827B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A3D8DC614FC139D6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A3D8DC614FC139D6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A3E639902FB4DBEB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A3E639902FB4DBEB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A40B95836CA339BC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A40B95836CA339BC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A629D70A0D136F7D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A629D70A0D136F7D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A6793C6E2071A707> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A6793C6E2071A707";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A67EC03738947B7E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A67EC03738947B7E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32008> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A6D59D1F9FBC9D80> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A6D59D1F9FBC9D80";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A7AE257B24FEE1F5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A7AE257B24FEE1F5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A89D34063F462377> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A89D34063F462377";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A952B9A0CB5B35A0> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A952B9A0CB5B35A0";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A98844DEB0D7636A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A98844DEB0D7636A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32010> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#A9AACE775DE10B6B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "A9AACE775DE10B6B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32016> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AAEB75619FF11221> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AAEB75619FF11221";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AB350E0B09992D83> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AB350E0B09992D83";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AC61B4B478E37218> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AC61B4B478E37218";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AC931B8AB4AB35DD> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AC931B8AB4AB35DD";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32007> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ACCAB64D9B959CE5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ACCAB64D9B959CE5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ACDBEE1F8B12A928> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ACDBEE1F8B12A928";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AE2FBCF0040FAED6> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AE2FBCF0040FAED6";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AEB00BDC06D7B533> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AEB00BDC06D7B533";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#AF31758C66165AF8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "AF31758C66165AF8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B04DA0ACAF8F85DE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B04DA0ACAF8F85DE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B098F2F4CACF7744> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B098F2F4CACF7744";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B0A3442806C5AAAD> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B0A3442806C5AAAD";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B0C0C4D120BDF65F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B0C0C4D120BDF65F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B0DFC192A1A76867> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B0DFC192A1A76867";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B12EABD6332A6220> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B12EABD6332A6220";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B2F7F8818E3D2557> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B2F7F8818E3D2557";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B3A46EC501ADBD15> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B3A46EC501ADBD15";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B64AE9D7487EE4AE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B64AE9D7487EE4AE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B68435E2A1E93D11> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B68435E2A1E93D11";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B79CD99BC38531A3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B79CD99BC38531A3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#B9A01CF06EFEBA59> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B9A01CF06EFEBA59";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32093> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#BA21040F8FA9B2C9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "BA21040F8FA9B2C9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#BA308F68024FD85E> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "BA308F68024FD85E";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#BF4AD3863D054279> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "BF4AD3863D054279";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#BF9B3A7BFD1A2CA9> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "BF9B3A7BFD1A2CA9";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C0921112C3422FBB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C0921112C3422FBB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32018> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C228387D999CCE55> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C228387D999CCE55";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C243960539069B79> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C243960539069B79";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32045> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C38794D41E16AB58> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C38794D41E16AB58";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C645B6344DC54AC1> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C645B6344DC54AC1";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C6DCB8EC156C6459> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C6DCB8EC156C6459";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32021> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C70A1B12D945C15F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C70A1B12D945C15F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C7D4389FE0A8523A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C7D4389FE0A8523A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C840E2F1AB5F5081> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C840E2F1AB5F5081";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32022> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C856641681E0B922> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C856641681E0B922";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C8F94D3595F599C7> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C8F94D3595F599C7";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C946EA5B87098F74> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C946EA5B87098F74";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#C969CDC720F85614> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "C969CDC720F85614";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CAE2567774CA5F34> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CAE2567774CA5F34";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32020> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CD368F33A71F473A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CD368F33A71F473A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32008> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CE2C31CEEF4680C8> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CE2C31CEEF4680C8";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CE2CD39A1DF8C34D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CE2CD39A1DF8C34D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CE927322FD71EE16> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CE927322FD71EE16";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#CFE2F65F9A91BDDB> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CFE2F65F9A91BDDB";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32059> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D0B33DB3AD829648> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D0B33DB3AD829648";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32042> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D1295243E55D384A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D1295243E55D384A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D1420C28DC46C3F4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D1420C28DC46C3F4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#V32007> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D1E6072718E61DE3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D1E6072718E61DE3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32018> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D1F19310C1B333E2> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D1F19310C1B333E2";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D3903C4F36DAD807> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D3903C4F36DAD807";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D399F16BC0678374> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D399F16BC0678374";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32029> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D440C735317CAD5C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D440C735317CAD5C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D50A3984CF7C177A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D50A3984CF7C177A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D562E711C0D3B973> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D562E711C0D3B973";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32040> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D596A8B59F62751B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D596A8B59F62751B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D61A9F2E98898F0D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D61A9F2E98898F0D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D6597BA27AC8BD21> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D6597BA27AC8BD21";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32026> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D78034C4138964AA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D78034C4138964AA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D7EA7A3CF9049BE2> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D7EA7A3CF9049BE2";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32027> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#D9BED451FD01974B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "D9BED451FD01974B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#DBD8335DA575D131> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "DBD8335DA575D131";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#DBEF97C2885F4A91> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "DBEF97C2885F4A91";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#DE35B2A16581C350> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "DE35B2A16581C350";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#K32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#DF50598B218A7C61> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "DF50598B218A7C61";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E0B0858D3D3CB38D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E0B0858D3D3CB38D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E127F4D34DFA4432> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E127F4D34DFA4432";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E3000CFAEFDBCF93> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E3000CFAEFDBCF93";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32016> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E3ADF93BBFA46903> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E3ADF93BBFA46903";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E5D2A531F08D789F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E5D2A531F08D789F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32020> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E691892B74954879> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E691892B74954879";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E7C4743400AEA0F0> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E7C4743400AEA0F0";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E838CCCB75E957DE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E838CCCB75E957DE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#E911EF55E958B1D2> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "E911EF55E958B1D2";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#EC1B595D35771902> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "EC1B595D35771902";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ED0463C12A1F5F5D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ED0463C12A1F5F5D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ED295FC9A5DDEEC1> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ED295FC9A5DDEEC1";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ED8B356757EE82D5> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ED8B356757EE82D5";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32039> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#ED9D5185E2EA13AA> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ED9D5185E2EA13AA";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32002> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#EEC4B5509AEE9312> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "EEC4B5509AEE9312";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32081> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F0AF031BA48CF6BE> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F0AF031BA48CF6BE";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32020> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F0DFDB04F4441423> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F0DFDB04F4441423";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#C32060> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F0E2A530F412C880> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F0E2A530F412C880";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F187645CB8A794BF> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F187645CB8A794BF";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32047> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F207C92104C66009> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F207C92104C66009";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F2500FA424B400FC> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F2500FA424B400FC";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F26E319CE69D927F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F26E319CE69D927F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F2BFFFF245FAF23C> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F2BFFFF245FAF23C";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F36FA8D2B2DFDA8D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F36FA8D2B2DFDA8D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F38A79F6D3267798> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F38A79F6D3267798";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32002> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F51C516B6A285352> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F51C516B6A285352";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F57BD9613B4E581D> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F57BD9613B4E581D";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32006> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F6E04CA78BB08C20> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F6E04CA78BB08C20";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#E32008> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F6F0DFADFFFEE511> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F6F0DFADFFFEE511";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#A32030> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F7297E6DDB929D1A> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F7297E6DDB929D1A";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F82321990534EB65> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F82321990534EB65";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32006> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F8C00C4FD24CE91F> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F8C00C4FD24CE91F";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#F959E655FE354D01> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "F959E655FE354D01";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FA123EC1D9C4025B> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FA123EC1D9C4025B";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32083> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FBAE307466B6AC63> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FBAE307466B6AC63";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32077> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FD47BCB86A12C485> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FD47BCB86A12C485";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#S32039> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FD558E9F4B363EF4> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FD558E9F4B363EF4";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32011> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FE41851A7ACA3687> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FE41851A7ACA3687";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005> .
-
-<https://bluebikes.com/system-data/rdf/bike_data#FF082460FF4D3AA3> a <https://bluebikes.com/system-data/rdf/ontology#Trip>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "FF082460FF4D3AA3";
-  <https://bluebikes.com/system-data/rdf/ontology#endStation> <https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> .
+@prefix bike_taxonomy: <https://bluebikes.com/system-data/rdf/bike_taxonomy#>
+@prefix bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+@prefix bike_data: <https://bluebikes.com/system-data/rdf/bike_data#>
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+
+bike_data:000102D7B245DFBB a bike_ontology:Trip;
+  rdfs:label "000102D7B245DFBB";
+  bike_ontology:endStation bike_taxonomy:S32023;
+  bike_ontology:endedAt "2023-11-13T08:48:40-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:003063EC3C7F34AF a bike_ontology:Trip;
+  rdfs:label "003063EC3C7F34AF";
+  bike_ontology:endStation bike_taxonomy:D32036;
+  bike_ontology:endedAt "2023-11-20T17:26:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:003F3621DF210217 a bike_ontology:Trip;
+  rdfs:label "003F3621DF210217";
+  bike_ontology:endStation bike_taxonomy:W32004;
+  bike_ontology:endedAt "2023-11-27T10:26:33-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:01C4D4553F2A804F a bike_ontology:Trip;
+  rdfs:label "01C4D4553F2A804F";
+  bike_ontology:endStation bike_taxonomy:M32003;
+  bike_ontology:endedAt "2023-11-09T18:11:00-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0210BBC347DCA7D6 a bike_ontology:Trip;
+  rdfs:label "0210BBC347DCA7D6";
+  bike_ontology:endStation bike_taxonomy:E32008;
+  bike_ontology:endedAt "2023-11-17T17:22:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0346A9F582C68C62 a bike_ontology:Trip;
+  rdfs:label "0346A9F582C68C62";
+  bike_ontology:endStation bike_taxonomy:M32003;
+  bike_ontology:endedAt "2023-11-10T15:34:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:03496E283C633E0C a bike_ontology:Trip;
+  rdfs:label "03496E283C633E0C";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-10T15:48:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0353988D4D141146 a bike_ontology:Trip;
+  rdfs:label "0353988D4D141146";
+  bike_ontology:endStation bike_taxonomy:D32012;
+  bike_ontology:endedAt "2023-11-09T09:56:28-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:045A1E4010CE782F a bike_ontology:Trip;
+  rdfs:label "045A1E4010CE782F";
+  bike_ontology:endStation bike_taxonomy:C32001;
+  bike_ontology:endedAt "2023-11-29T16:28:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:04FCCF7F9E4936FE a bike_ontology:Trip;
+  rdfs:label "04FCCF7F9E4936FE";
+  bike_ontology:endStation bike_taxonomy:C32017;
+  bike_ontology:endedAt "2023-11-08T15:19:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:05D2D50B6C2E7BBE a bike_ontology:Trip;
+  rdfs:label "05D2D50B6C2E7BBE";
+  bike_ontology:endStation bike_taxonomy:D32041;
+  bike_ontology:endedAt "2023-11-16T13:26:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0606D56699D09031 a bike_ontology:Trip;
+  rdfs:label "0606D56699D09031";
+  bike_ontology:endStation bike_taxonomy:S32015;
+  bike_ontology:endedAt "2023-11-22T18:36:18-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0839B33F87C8FE59 a bike_ontology:Trip;
+  rdfs:label "0839B33F87C8FE59";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-05T12:06:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:08CF70E406B56578 a bike_ontology:Trip;
+  rdfs:label "08CF70E406B56578";
+  bike_ontology:endStation bike_taxonomy:C32056;
+  bike_ontology:endedAt "2023-11-15T17:58:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0BC63CE36AD4BA73 a bike_ontology:Trip;
+  rdfs:label "0BC63CE36AD4BA73";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-06T16:58:56-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0BC7D4C84A345C8A a bike_ontology:Trip;
+  rdfs:label "0BC7D4C84A345C8A";
+  bike_ontology:endStation bike_taxonomy:S32037;
+  bike_ontology:endedAt "2023-11-16T00:22:19-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0BF9F84336503A4F a bike_ontology:Trip;
+  rdfs:label "0BF9F84336503A4F";
+  bike_ontology:endStation bike_taxonomy:E32007;
+  bike_ontology:endedAt "2023-11-04T12:59:47-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0C079CF04F5F7E99 a bike_ontology:Trip;
+  rdfs:label "0C079CF04F5F7E99";
+  bike_ontology:endStation bike_taxonomy:E32003;
+  bike_ontology:endedAt "2023-11-16T08:59:02-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0C284C14E9E1FB28 a bike_ontology:Trip;
+  rdfs:label "0C284C14E9E1FB28";
+  bike_ontology:endStation bike_taxonomy:M32004;
+  bike_ontology:endedAt "2023-11-03T15:41:33-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0C634B1A90EF52AF a bike_ontology:Trip;
+  rdfs:label "0C634B1A90EF52AF";
+  bike_ontology:endStation bike_taxonomy:C32060;
+  bike_ontology:endedAt "2023-11-13T12:36:26-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0D7469CA97166B47 a bike_ontology:Trip;
+  rdfs:label "0D7469CA97166B47";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-01T18:11:21-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0DC5A62EDEC760C9 a bike_ontology:Trip;
+  rdfs:label "0DC5A62EDEC760C9";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-06T09:10:57-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0DFD267CC20D0D23 a bike_ontology:Trip;
+  rdfs:label "0DFD267CC20D0D23";
+  bike_ontology:endStation bike_taxonomy:C32102;
+  bike_ontology:endedAt "2023-11-18T13:43:57-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0F16B3EFCB935D66 a bike_ontology:Trip;
+  rdfs:label "0F16B3EFCB935D66";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-02T19:33:24-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0F3877017E68E855 a bike_ontology:Trip;
+  rdfs:label "0F3877017E68E855";
+  bike_ontology:endStation bike_taxonomy:S32017;
+  bike_ontology:endedAt "2023-11-23T22:13:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:0F729C04D72ACFAF a bike_ontology:Trip;
+  rdfs:label "0F729C04D72ACFAF";
+  bike_ontology:endStation bike_taxonomy:A32011;
+  bike_ontology:endedAt "2023-11-11T12:01:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1027B2E0FABFAC48 a bike_ontology:Trip;
+  rdfs:label "1027B2E0FABFAC48";
+  bike_ontology:endStation bike_taxonomy:B32005;
+  bike_ontology:endedAt "2023-11-02T15:35:29-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:10479B6CBD76D9B8 a bike_ontology:Trip;
+  rdfs:label "10479B6CBD76D9B8";
+  bike_ontology:endStation bike_taxonomy:B32007;
+  bike_ontology:endedAt "2023-11-11T11:11:56-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:114E04773D95E70E a bike_ontology:Trip;
+  rdfs:label "114E04773D95E70E";
+  bike_ontology:endStation bike_taxonomy:D32040;
+  bike_ontology:endedAt "2023-11-02T14:16:50-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:122FA2728B68FB82 a bike_ontology:Trip;
+  rdfs:label "122FA2728B68FB82";
+  bike_ontology:endStation bike_taxonomy:M32004;
+  bike_ontology:endedAt "2023-11-25T11:03:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:141F0C5CAD638943 a bike_ontology:Trip;
+  rdfs:label "141F0C5CAD638943";
+  bike_ontology:endStation bike_taxonomy:C32036;
+  bike_ontology:endedAt "2023-11-16T14:55:58-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:142526341426B298 a bike_ontology:Trip;
+  rdfs:label "142526341426B298";
+  bike_ontology:endStation bike_taxonomy:A32052;
+  bike_ontology:endedAt "2023-11-09T16:35:34-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:14BC0D9B5986F331 a bike_ontology:Trip;
+  rdfs:label "14BC0D9B5986F331";
+  bike_ontology:endStation bike_taxonomy:D32052;
+  bike_ontology:endedAt "2023-11-03T17:20:46-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:14CE38DC4D2078C6 a bike_ontology:Trip;
+  rdfs:label "14CE38DC4D2078C6";
+  bike_ontology:endStation bike_taxonomy:C32017;
+  bike_ontology:endedAt "2023-11-13T15:03:07-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:167E06184C805E54 a bike_ontology:Trip;
+  rdfs:label "167E06184C805E54";
+  bike_ontology:endStation bike_taxonomy:E32009;
+  bike_ontology:endedAt "2023-11-03T07:10:52-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:17222ACD15DB646D a bike_ontology:Trip;
+  rdfs:label "17222ACD15DB646D";
+  bike_ontology:endStation bike_taxonomy:M32011;
+  bike_ontology:endedAt "2023-11-14T17:16:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:19840A98A15D027A a bike_ontology:Trip;
+  rdfs:label "19840A98A15D027A";
+  bike_ontology:endStation bike_taxonomy:S32021;
+  bike_ontology:endedAt "2023-11-18T00:16:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:19FC691500F3129E a bike_ontology:Trip;
+  rdfs:label "19FC691500F3129E";
+  bike_ontology:endStation bike_taxonomy:E32008;
+  bike_ontology:endedAt "2023-11-12T12:37:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1AB77A6DBA79B5E9 a bike_ontology:Trip;
+  rdfs:label "1AB77A6DBA79B5E9";
+  bike_ontology:endStation bike_taxonomy:D32041;
+  bike_ontology:endedAt "2023-11-24T13:20:29-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1B09F00DF46BE255 a bike_ontology:Trip;
+  rdfs:label "1B09F00DF46BE255";
+  bike_ontology:endStation bike_taxonomy:B32027;
+  bike_ontology:endedAt "2023-11-28T18:42:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1B54FF0B8541C6C9 a bike_ontology:Trip;
+  rdfs:label "1B54FF0B8541C6C9";
+  bike_ontology:endStation bike_taxonomy:L32005;
+  bike_ontology:endedAt "2023-11-26T17:38:23-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1B98D705F6B77693 a bike_ontology:Trip;
+  rdfs:label "1B98D705F6B77693";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-14T17:05:44-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1C28191C79CA344B a bike_ontology:Trip;
+  rdfs:label "1C28191C79CA344B";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-19T09:29:36-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1CFFE2DAA32369C8 a bike_ontology:Trip;
+  rdfs:label "1CFFE2DAA32369C8";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-15T17:49:15-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:1E9F6160CE469422 a bike_ontology:Trip;
+  rdfs:label "1E9F6160CE469422";
+  bike_ontology:endStation bike_taxonomy:D32041;
+  bike_ontology:endedAt "2023-11-17T22:25:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:20FA006060F9552F a bike_ontology:Trip;
+  rdfs:label "20FA006060F9552F";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-14T17:28:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:21AB556AC7EF943C a bike_ontology:Trip;
+  rdfs:label "21AB556AC7EF943C";
+  bike_ontology:endStation bike_taxonomy:S32039;
+  bike_ontology:endedAt "2023-11-08T16:58:10-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:22467F59EA3CF9F3 a bike_ontology:Trip;
+  rdfs:label "22467F59EA3CF9F3";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-01T19:02:54-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:276B58CD2240A3AF a bike_ontology:Trip;
+  rdfs:label "276B58CD2240A3AF";
+  bike_ontology:endStation bike_taxonomy:D32036;
+  bike_ontology:endedAt "2023-11-15T23:17:53-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2B79A2BE835DCB59 a bike_ontology:Trip;
+  rdfs:label "2B79A2BE835DCB59";
+  bike_ontology:endStation bike_taxonomy:Z32997;
+  bike_ontology:endedAt "2023-11-17T14:48:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2BCD4B75B5B691DD a bike_ontology:Trip;
+  rdfs:label "2BCD4B75B5B691DD";
+  bike_ontology:endStation bike_taxonomy:M32061;
+  bike_ontology:endedAt "2023-11-10T17:15:58-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2C61E376831FC379 a bike_ontology:Trip;
+  rdfs:label "2C61E376831FC379";
+  bike_ontology:endStation bike_taxonomy:W32004;
+  bike_ontology:endedAt "2023-11-23T15:08:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2C92ADEC20D2A6FC a bike_ontology:Trip;
+  rdfs:label "2C92ADEC20D2A6FC";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-16T17:20:49-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2C9A1594209CADDB a bike_ontology:Trip;
+  rdfs:label "2C9A1594209CADDB";
+  bike_ontology:endStation bike_taxonomy:A32036;
+  bike_ontology:endedAt "2023-11-29T18:02:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2D210F167D061FC9 a bike_ontology:Trip;
+  rdfs:label "2D210F167D061FC9";
+  bike_ontology:endStation bike_taxonomy:K32006;
+  bike_ontology:endedAt "2023-11-25T10:01:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2D355FDA56B286F1 a bike_ontology:Trip;
+  rdfs:label "2D355FDA56B286F1";
+  bike_ontology:endStation bike_taxonomy:C32017;
+  bike_ontology:endedAt "2023-11-06T07:08:54-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2D6E953EF01683C6 a bike_ontology:Trip;
+  rdfs:label "2D6E953EF01683C6";
+  bike_ontology:endStation bike_taxonomy:D32048;
+  bike_ontology:endedAt "2023-11-05T18:08:55-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2E10CBC52F0DC3AA a bike_ontology:Trip;
+  rdfs:label "2E10CBC52F0DC3AA";
+  bike_ontology:endStation bike_taxonomy:S32021;
+  bike_ontology:endedAt "2023-11-29T09:11:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2EFFFF903CE6D011 a bike_ontology:Trip;
+  rdfs:label "2EFFFF903CE6D011";
+  bike_ontology:endStation bike_taxonomy:M32045;
+  bike_ontology:endedAt "2023-11-01T19:47:18-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2FB9D96FB4D9324F a bike_ontology:Trip;
+  rdfs:label "2FB9D96FB4D9324F";
+  bike_ontology:endStation bike_taxonomy:D32007;
+  bike_ontology:endedAt "2023-11-17T15:09:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:2FFC1F0A2613FAD4 a bike_ontology:Trip;
+  rdfs:label "2FFC1F0A2613FAD4";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-03T15:53:48-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:30325667A9701EB9 a bike_ontology:Trip;
+  rdfs:label "30325667A9701EB9";
+  bike_ontology:endStation bike_taxonomy:S32002;
+  bike_ontology:endedAt "2023-11-06T09:39:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3049A5DB2D28DB3B a bike_ontology:Trip;
+  rdfs:label "3049A5DB2D28DB3B";
+  bike_ontology:endStation bike_taxonomy:M32045;
+  bike_ontology:endedAt "2023-11-02T16:49:27-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:313930C20778FDBD a bike_ontology:Trip;
+  rdfs:label "313930C20778FDBD";
+  bike_ontology:endStation bike_taxonomy:E32005;
+  bike_ontology:endedAt "2023-11-16T16:31:19-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3238C1278DAA738F a bike_ontology:Trip;
+  rdfs:label "3238C1278DAA738F";
+  bike_ontology:endStation bike_taxonomy:A32011;
+  bike_ontology:endedAt "2023-11-06T19:37:35-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:32FDEF5F9B85510B a bike_ontology:Trip;
+  rdfs:label "32FDEF5F9B85510B";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-16T21:07:38-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3402CC125190090B a bike_ontology:Trip;
+  rdfs:label "3402CC125190090B";
+  bike_ontology:endStation bike_taxonomy:D32041;
+  bike_ontology:endedAt "2023-11-02T14:41:04-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:345C6B2C575B12A3 a bike_ontology:Trip;
+  rdfs:label "345C6B2C575B12A3";
+  bike_ontology:endStation bike_taxonomy:B32005;
+  bike_ontology:endedAt "2023-11-07T18:57:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:357D64920CADECE6 a bike_ontology:Trip;
+  rdfs:label "357D64920CADECE6";
+  bike_ontology:endStation bike_taxonomy:S32039;
+  bike_ontology:endedAt "2023-11-02T14:27:39-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:35D14DE94C00D4B8 a bike_ontology:Trip;
+  rdfs:label "35D14DE94C00D4B8";
+  bike_ontology:endStation bike_taxonomy:A32033;
+  bike_ontology:endedAt "2023-11-11T14:26:39-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:36D7C4758242973F a bike_ontology:Trip;
+  rdfs:label "36D7C4758242973F";
+  bike_ontology:endStation bike_taxonomy:M32003;
+  bike_ontology:endedAt "2023-11-17T09:25:36-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:36E34FF5E0F93577 a bike_ontology:Trip;
+  rdfs:label "36E34FF5E0F93577";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-24T14:49:25-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:38830228227D83F5 a bike_ontology:Trip;
+  rdfs:label "38830228227D83F5";
+  bike_ontology:endStation bike_taxonomy:A32006;
+  bike_ontology:endedAt "2023-11-10T13:47:28-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:38F0D3370A90842F a bike_ontology:Trip;
+  rdfs:label "38F0D3370A90842F";
+  bike_ontology:endStation bike_taxonomy:D32012;
+  bike_ontology:endedAt "2023-11-03T06:18:25-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3BBD8998C93FA545 a bike_ontology:Trip;
+  rdfs:label "3BBD8998C93FA545";
+  bike_ontology:endStation bike_taxonomy:M32017;
+  bike_ontology:endedAt "2023-11-08T10:41:25-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3BC302DF298D312F a bike_ontology:Trip;
+  rdfs:label "3BC302DF298D312F";
+  bike_ontology:endStation bike_taxonomy:M32003;
+  bike_ontology:endedAt "2023-11-30T08:39:13-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3C10175E33A58681 a bike_ontology:Trip;
+  rdfs:label "3C10175E33A58681";
+  bike_ontology:endStation bike_taxonomy:D32036;
+  bike_ontology:endedAt "2023-11-30T17:37:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3C6BB658C366804A a bike_ontology:Trip;
+  rdfs:label "3C6BB658C366804A";
+  bike_ontology:endStation bike_taxonomy:B32032;
+  bike_ontology:endedAt "2023-11-20T17:19:48-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3D3D4530E9BA7A37 a bike_ontology:Trip;
+  rdfs:label "3D3D4530E9BA7A37";
+  bike_ontology:endStation bike_taxonomy:M32045;
+  bike_ontology:endedAt "2023-11-17T17:59:30-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3D3F9A3354A789F6 a bike_ontology:Trip;
+  rdfs:label "3D3F9A3354A789F6";
+  bike_ontology:endStation bike_taxonomy:A32053;
+  bike_ontology:endedAt "2023-11-09T17:59:03-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3E1E3002916A7658 a bike_ontology:Trip;
+  rdfs:label "3E1E3002916A7658";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-04T14:40:37-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3EC041147A4C50A4 a bike_ontology:Trip;
+  rdfs:label "3EC041147A4C50A4";
+  bike_ontology:endStation bike_taxonomy:B32018;
+  bike_ontology:endedAt "2023-11-30T21:47:21-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:3FF53B1E9F9E779F a bike_ontology:Trip;
+  rdfs:label "3FF53B1E9F9E779F";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-07T17:57:45-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:40965CBB554F9C82 a bike_ontology:Trip;
+  rdfs:label "40965CBB554F9C82";
+  bike_ontology:endStation bike_taxonomy:M32051;
+  bike_ontology:endedAt "2023-11-29T10:05:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:42B9E2DD57532BAB a bike_ontology:Trip;
+  rdfs:label "42B9E2DD57532BAB";
+  bike_ontology:endStation bike_taxonomy:M32004;
+  bike_ontology:endedAt "2023-11-17T13:47:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4323013ED69C2E06 a bike_ontology:Trip;
+  rdfs:label "4323013ED69C2E06";
+  bike_ontology:endStation bike_taxonomy:M32045;
+  bike_ontology:endedAt "2023-11-18T09:28:43-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4479C3D19CF5D47F a bike_ontology:Trip;
+  rdfs:label "4479C3D19CF5D47F";
+  bike_ontology:endStation bike_taxonomy:C32017;
+  bike_ontology:endedAt "2023-11-06T15:40:09-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:44827057AC2AAA61 a bike_ontology:Trip;
+  rdfs:label "44827057AC2AAA61";
+  bike_ontology:endStation bike_taxonomy:B32010;
+  bike_ontology:endedAt "2023-11-07T16:59:51-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:448308A0F86CD487 a bike_ontology:Trip;
+  rdfs:label "448308A0F86CD487";
+  bike_ontology:endStation bike_taxonomy:E32005;
+  bike_ontology:endedAt "2023-11-12T14:35:24-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:453331DB2CF41AEA a bike_ontology:Trip;
+  rdfs:label "453331DB2CF41AEA";
+  bike_ontology:endStation bike_taxonomy:A32017;
+  bike_ontology:endedAt "2023-11-08T15:45:46-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4648652E953B8312 a bike_ontology:Trip;
+  rdfs:label "4648652E953B8312";
+  bike_ontology:endStation bike_taxonomy:E32005;
+  bike_ontology:endedAt "2023-11-02T17:02:26-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:47AC921C9EA2DC33 a bike_ontology:Trip;
+  rdfs:label "47AC921C9EA2DC33";
+  bike_ontology:endStation bike_taxonomy:B32037;
+  bike_ontology:endedAt "2023-11-30T18:14:08-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:481A7684C38FC5A6 a bike_ontology:Trip;
+  rdfs:label "481A7684C38FC5A6";
+  bike_ontology:endStation bike_taxonomy:W32006;
+  bike_ontology:endedAt "2023-11-25T11:32:50-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4824DD4332277739 a bike_ontology:Trip;
+  rdfs:label "4824DD4332277739";
+  bike_ontology:endStation bike_taxonomy:S32021;
+  bike_ontology:endedAt "2023-11-05T14:22:31-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:49569D35EEEACD44 a bike_ontology:Trip;
+  rdfs:label "49569D35EEEACD44";
+  bike_ontology:endStation bike_taxonomy:A32011;
+  bike_ontology:endedAt "2023-11-04T11:09:32-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4B1D0E3BD6FB4C87 a bike_ontology:Trip;
+  rdfs:label "4B1D0E3BD6FB4C87";
+  bike_ontology:endStation bike_taxonomy:D32001;
+  bike_ontology:endedAt "2023-11-04T10:58:23-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4B4133BB1F2CDF59 a bike_ontology:Trip;
+  rdfs:label "4B4133BB1F2CDF59";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-03T15:11:39-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4B48CF1089CEF912 a bike_ontology:Trip;
+  rdfs:label "4B48CF1089CEF912";
+  bike_ontology:endStation bike_taxonomy:M32003;
+  bike_ontology:endedAt "2023-11-01T12:36:04-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4C8EACB059FE1043 a bike_ontology:Trip;
+  rdfs:label "4C8EACB059FE1043";
+  bike_ontology:endStation bike_taxonomy:S32023;
+  bike_ontology:endedAt "2023-11-28T09:10:39-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4CA9C401A7435D03 a bike_ontology:Trip;
+  rdfs:label "4CA9C401A7435D03";
+  bike_ontology:endStation bike_taxonomy:M32012;
+  bike_ontology:endedAt "2023-11-09T17:30:01-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4E183EACB9B42BBE a bike_ontology:Trip;
+  rdfs:label "4E183EACB9B42BBE";
+  bike_ontology:endStation bike_taxonomy:D32022;
+  bike_ontology:endedAt "2023-11-08T16:46:06-05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+bike_data:4FB2D8BC4D984026 a bike_ontology:Trip;
+  rdfs:label "4FB2D8BC4D984026";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:50774CFF7FA4A6A3 a bike_ontology:Trip;
+  rdfs:label "50774CFF7FA4A6A3";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:52B07D6C377FE299 a bike_ontology:Trip;
+  rdfs:label "52B07D6C377FE299";
+  bike_ontology:endStation bike_taxonomy:V32007 .
+
+bike_data:52B699E13D8E4125 a bike_ontology:Trip;
+  rdfs:label "52B699E13D8E4125";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:53451E8EB7C52AC2 a bike_ontology:Trip;
+  rdfs:label "53451E8EB7C52AC2";
+  bike_ontology:endStation bike_taxonomy:D32042 .
+
+bike_data:544ED4D0D40DFF4A a bike_ontology:Trip;
+  rdfs:label "544ED4D0D40DFF4A";
+  bike_ontology:endStation bike_taxonomy:V32012 .
+
+bike_data:549DF221FD014CE4 a bike_ontology:Trip;
+  rdfs:label "549DF221FD014CE4";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:554D92BB0F68FECB a bike_ontology:Trip;
+  rdfs:label "554D92BB0F68FECB";
+  bike_ontology:endStation bike_taxonomy:S32039 .
+
+bike_data:555D8E20F2E1AB00 a bike_ontology:Trip;
+  rdfs:label "555D8E20F2E1AB00";
+  bike_ontology:endStation bike_taxonomy:S32039 .
+
+bike_data:55FDA41F368AD2BB a bike_ontology:Trip;
+  rdfs:label "55FDA41F368AD2BB";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:5722A187BEE549BF a bike_ontology:Trip;
+  rdfs:label "5722A187BEE549BF";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:57A92ABCB63C6B34 a bike_ontology:Trip;
+  rdfs:label "57A92ABCB63C6B34";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:58E7C802C5ECBCBD a bike_ontology:Trip;
+  rdfs:label "58E7C802C5ECBCBD";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:594C0435F719D59B a bike_ontology:Trip;
+  rdfs:label "594C0435F719D59B";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:5A5CF4C10BD1C9B8 a bike_ontology:Trip;
+  rdfs:label "5A5CF4C10BD1C9B8";
+  bike_ontology:endStation bike_taxonomy:A32032 .
+
+bike_data:5A94731CFCF2C7DC a bike_ontology:Trip;
+  rdfs:label "5A94731CFCF2C7DC";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:5AE076786421EF82 a bike_ontology:Trip;
+  rdfs:label "5AE076786421EF82";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:5B1200F738228A91 a bike_ontology:Trip;
+  rdfs:label "5B1200F738228A91";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:5CEA9C9FB27A5069 a bike_ontology:Trip;
+  rdfs:label "5CEA9C9FB27A5069";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:5E753A6F1E41FE05 a bike_ontology:Trip;
+  rdfs:label "5E753A6F1E41FE05";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:6019247940CEDAB0 a bike_ontology:Trip;
+  rdfs:label "6019247940CEDAB0";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:6386901760F267BC a bike_ontology:Trip;
+  rdfs:label "6386901760F267BC";
+  bike_ontology:endStation bike_taxonomy:M32005 .
+
+bike_data:645E23B7A96253A6 a bike_ontology:Trip;
+  rdfs:label "645E23B7A96253A6";
+  bike_ontology:endStation bike_taxonomy:M32056 .
+
+bike_data:64A19378613A0EAA a bike_ontology:Trip;
+  rdfs:label "64A19378613A0EAA";
+  bike_ontology:endStation bike_taxonomy:B32059 .
+
+bike_data:64ACA6A1459907F6 a bike_ontology:Trip;
+  rdfs:label "64ACA6A1459907F6";
+  bike_ontology:endStation bike_taxonomy:D32042 .
+
+bike_data:65797DE364EBB249 a bike_ontology:Trip;
+  rdfs:label "65797DE364EBB249";
+  bike_ontology:endStation bike_taxonomy:D32001 .
+
+bike_data:65A567526D13BAA0 a bike_ontology:Trip;
+  rdfs:label "65A567526D13BAA0";
+  bike_ontology:endStation bike_taxonomy:M32073 .
+
+bike_data:6613107F51D87D64 a bike_ontology:Trip;
+  rdfs:label "6613107F51D87D64";
+  bike_ontology:endStation bike_taxonomy:B32023 .
+
+bike_data:66FA74C48C66AE12 a bike_ontology:Trip;
+  rdfs:label "66FA74C48C66AE12";
+  bike_ontology:endStation bike_taxonomy:A32003 .
+
+bike_data:6991DA0067FA301A a bike_ontology:Trip;
+  rdfs:label "6991DA0067FA301A";
+  bike_ontology:endStation bike_taxonomy:M32025 .
+
+bike_data:6D569590DF988129 a bike_ontology:Trip;
+  rdfs:label "6D569590DF988129";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:6E34C467FCD86D79 a bike_ontology:Trip;
+  rdfs:label "6E34C467FCD86D79";
+  bike_ontology:endStation bike_taxonomy:C32060 .
+
+bike_data:6EFA2B3F551FAA23 a bike_ontology:Trip;
+  rdfs:label "6EFA2B3F551FAA23";
+  bike_ontology:endStation bike_taxonomy:A32001 .
+
+bike_data:6F60B0A5D87B4B5E a bike_ontology:Trip;
+  rdfs:label "6F60B0A5D87B4B5E";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:6F76F95B20EC96EB a bike_ontology:Trip;
+  rdfs:label "6F76F95B20EC96EB";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:70F9D8575C4B0C18 a bike_ontology:Trip;
+  rdfs:label "70F9D8575C4B0C18";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:7110CA33BB322C17 a bike_ontology:Trip;
+  rdfs:label "7110CA33BB322C17";
+  bike_ontology:endStation bike_taxonomy:L32001 .
+
+bike_data:716809BC49A8DD95 a bike_ontology:Trip;
+  rdfs:label "716809BC49A8DD95";
+  bike_ontology:endStation bike_taxonomy:S32047 .
+
+bike_data:73D0625CBFE1346F a bike_ontology:Trip;
+  rdfs:label "73D0625CBFE1346F";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:73EE6095F784FA46 a bike_ontology:Trip;
+  rdfs:label "73EE6095F784FA46";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:74AF8C813C7D4AFA a bike_ontology:Trip;
+  rdfs:label "74AF8C813C7D4AFA";
+  bike_ontology:endStation bike_taxonomy:B32007 .
+
+bike_data:755CACE19EB352FC a bike_ontology:Trip;
+  rdfs:label "755CACE19EB352FC";
+  bike_ontology:endStation bike_taxonomy:M32083 .
+
+bike_data:75F2DF9571600809 a bike_ontology:Trip;
+  rdfs:label "75F2DF9571600809";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:7AD765AC5C9787B5 a bike_ontology:Trip;
+  rdfs:label "7AD765AC5C9787B5";
+  bike_ontology:endStation bike_taxonomy:D32048 .
+
+bike_data:7AF50AADE0EE431D a bike_ontology:Trip;
+  rdfs:label "7AF50AADE0EE431D";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:7C0A409AE37456ED a bike_ontology:Trip;
+  rdfs:label "7C0A409AE37456ED";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:7E39340256CF2437 a bike_ontology:Trip;
+  rdfs:label "7E39340256CF2437";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:7EAF96734A46EA23 a bike_ontology:Trip;
+  rdfs:label "7EAF96734A46EA23";
+  bike_ontology:endStation bike_taxonomy:D32001 .
+
+bike_data:7EB7F0DE35BD07D0 a bike_ontology:Trip;
+  rdfs:label "7EB7F0DE35BD07D0";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:800C719319A1B7A4 a bike_ontology:Trip;
+  rdfs:label "800C719319A1B7A4";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:825F9E03D6159DE6 a bike_ontology:Trip;
+  rdfs:label "825F9E03D6159DE6";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:835EC468B50EBFF8 a bike_ontology:Trip;
+  rdfs:label "835EC468B50EBFF8";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:843EB86224D1BD7D a bike_ontology:Trip;
+  rdfs:label "843EB86224D1BD7D";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:844D0BF903C1FCBC a bike_ontology:Trip;
+  rdfs:label "844D0BF903C1FCBC";
+  bike_ontology:endStation bike_taxonomy:M32077 .
+
+bike_data:84E37816F60946C5 a bike_ontology:Trip;
+  rdfs:label "84E37816F60946C5";
+  bike_ontology:endStation bike_taxonomy:C32023 .
+
+bike_data:87158E832C7CB27A a bike_ontology:Trip;
+  rdfs:label "87158E832C7CB27A" .
+
+bike_data:8724305682455833 a bike_ontology:Trip;
+  rdfs:label "8724305682455833";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:87446A1262317E2E a bike_ontology:Trip;
+  rdfs:label "87446A1262317E2E";
+  bike_ontology:endStation bike_taxonomy:B32005 .
+
+bike_data:88879E42CC9F5FE8 a bike_ontology:Trip;
+  rdfs:label "88879E42CC9F5FE8";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:88E92962B7D89F40 a bike_ontology:Trip;
+  rdfs:label "88E92962B7D89F40";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:89998AB06F95A3DB a bike_ontology:Trip;
+  rdfs:label "89998AB06F95A3DB";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:8A6D62FAA30AFC40 a bike_ontology:Trip;
+  rdfs:label "8A6D62FAA30AFC40";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:8A7C2211416E75DC a bike_ontology:Trip;
+  rdfs:label "8A7C2211416E75DC";
+  bike_ontology:endStation bike_taxonomy:M32063 .
+
+bike_data:8AAB55EF11E35A1B a bike_ontology:Trip;
+  rdfs:label "8AAB55EF11E35A1B";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:8B7C4569A5835589 a bike_ontology:Trip;
+  rdfs:label "8B7C4569A5835589";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:8B820DD0FEE5FA4E a bike_ontology:Trip;
+  rdfs:label "8B820DD0FEE5FA4E";
+  bike_ontology:endStation bike_taxonomy:D32001 .
+
+bike_data:8B8C24D4B476139C a bike_ontology:Trip;
+  rdfs:label "8B8C24D4B476139C";
+  bike_ontology:endStation bike_taxonomy:M32050 .
+
+bike_data:8C9EB275C4FA1903 a bike_ontology:Trip;
+  rdfs:label "8C9EB275C4FA1903";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:8E147D9EF9127762 a bike_ontology:Trip;
+  rdfs:label "8E147D9EF9127762";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:8E32EE4AC811EE0D a bike_ontology:Trip;
+  rdfs:label "8E32EE4AC811EE0D";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:8E52CB1CB2BA3CE7 a bike_ontology:Trip;
+  rdfs:label "8E52CB1CB2BA3CE7";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:905E98D62CA4BA9C a bike_ontology:Trip;
+  rdfs:label "905E98D62CA4BA9C";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:92338641D38172E6 a bike_ontology:Trip;
+  rdfs:label "92338641D38172E6";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:92E432FE73F5657D a bike_ontology:Trip;
+  rdfs:label "92E432FE73F5657D";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:92FE3D37F0CF74C4 a bike_ontology:Trip;
+  rdfs:label "92FE3D37F0CF74C4";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:935321CC82B4C43C a bike_ontology:Trip;
+  rdfs:label "935321CC82B4C43C";
+  bike_ontology:endStation bike_taxonomy:C32017 .
+
+bike_data:96AE554F82E80DBE a bike_ontology:Trip;
+  rdfs:label "96AE554F82E80DBE";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:97DC2D14B6222E5E a bike_ontology:Trip;
+  rdfs:label "97DC2D14B6222E5E";
+  bike_ontology:endStation bike_taxonomy:D32022 .
+
+bike_data:97EDC2CEA71CD08D a bike_ontology:Trip;
+  rdfs:label "97EDC2CEA71CD08D";
+  bike_ontology:endStation bike_taxonomy:B32059 .
+
+bike_data:983740615BB51D3C a bike_ontology:Trip;
+  rdfs:label "983740615BB51D3C";
+  bike_ontology:endStation bike_taxonomy:S32047 .
+
+bike_data:9E7A96B89B7F9F5E a bike_ontology:Trip;
+  rdfs:label "9E7A96B89B7F9F5E";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:9E98106EB13D6205 a bike_ontology:Trip;
+  rdfs:label "9E98106EB13D6205";
+  bike_ontology:endStation bike_taxonomy:L32005 .
+
+bike_data:A0CFDC313C99A81B a bike_ontology:Trip;
+  rdfs:label "A0CFDC313C99A81B";
+  bike_ontology:endStation bike_taxonomy:M32052 .
+
+bike_data:A16A17ED9320827B a bike_ontology:Trip;
+  rdfs:label "A16A17ED9320827B";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:A3D8DC614FC139D6 a bike_ontology:Trip;
+  rdfs:label "A3D8DC614FC139D6";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:A3E639902FB4DBEB a bike_ontology:Trip;
+  rdfs:label "A3E639902FB4DBEB";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:A40B95836CA339BC a bike_ontology:Trip;
+  rdfs:label "A40B95836CA339BC";
+  bike_ontology:endStation bike_taxonomy:M32005 .
+
+bike_data:A629D70A0D136F7D a bike_ontology:Trip;
+  rdfs:label "A629D70A0D136F7D";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:A6793C6E2071A707 a bike_ontology:Trip;
+  rdfs:label "A6793C6E2071A707";
+  bike_ontology:endStation bike_taxonomy:E32009 .
+
+bike_data:A67EC03738947B7E a bike_ontology:Trip;
+  rdfs:label "A67EC03738947B7E";
+  bike_ontology:endStation bike_taxonomy:E32008 .
+
+bike_data:A6D59D1F9FBC9D80 a bike_ontology:Trip;
+  rdfs:label "A6D59D1F9FBC9D80";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:A7AE257B24FEE1F5 a bike_ontology:Trip;
+  rdfs:label "A7AE257B24FEE1F5";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:A89D34063F462377 a bike_ontology:Trip;
+  rdfs:label "A89D34063F462377";
+  bike_ontology:endStation bike_taxonomy:C32023 .
+
+bike_data:A952B9A0CB5B35A0 a bike_ontology:Trip;
+  rdfs:label "A952B9A0CB5B35A0";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:A98844DEB0D7636A a bike_ontology:Trip;
+  rdfs:label "A98844DEB0D7636A";
+  bike_ontology:endStation bike_taxonomy:D32010 .
+
+bike_data:A9AACE775DE10B6B a bike_ontology:Trip;
+  rdfs:label "A9AACE775DE10B6B";
+  bike_ontology:endStation bike_taxonomy:C32016 .
+
+bike_data:AAEB75619FF11221 a bike_ontology:Trip;
+  rdfs:label "AAEB75619FF11221";
+  bike_ontology:endStation bike_taxonomy:M32005 .
+
+bike_data:AB350E0B09992D83 a bike_ontology:Trip;
+  rdfs:label "AB350E0B09992D83";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:AC61B4B478E37218 a bike_ontology:Trip;
+  rdfs:label "AC61B4B478E37218";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:AC931B8AB4AB35DD a bike_ontology:Trip;
+  rdfs:label "AC931B8AB4AB35DD";
+  bike_ontology:endStation bike_taxonomy:B32007 .
+
+bike_data:ACCAB64D9B959CE5 a bike_ontology:Trip;
+  rdfs:label "ACCAB64D9B959CE5";
+  bike_ontology:endStation bike_taxonomy:A32004 .
+
+bike_data:ACDBEE1F8B12A928 a bike_ontology:Trip;
+  rdfs:label "ACDBEE1F8B12A928";
+  bike_ontology:endStation bike_taxonomy:A32017 .
+
+bike_data:AE2FBCF0040FAED6 a bike_ontology:Trip;
+  rdfs:label "AE2FBCF0040FAED6";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:AEB00BDC06D7B533 a bike_ontology:Trip;
+  rdfs:label "AEB00BDC06D7B533";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:AF31758C66165AF8 a bike_ontology:Trip;
+  rdfs:label "AF31758C66165AF8";
+  bike_ontology:endStation bike_taxonomy:S32023 .
+
+bike_data:B04DA0ACAF8F85DE a bike_ontology:Trip;
+  rdfs:label "B04DA0ACAF8F85DE";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:B098F2F4CACF7744 a bike_ontology:Trip;
+  rdfs:label "B098F2F4CACF7744";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:B0A3442806C5AAAD a bike_ontology:Trip;
+  rdfs:label "B0A3442806C5AAAD";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:B0C0C4D120BDF65F a bike_ontology:Trip;
+  rdfs:label "B0C0C4D120BDF65F";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:B0DFC192A1A76867 a bike_ontology:Trip;
+  rdfs:label "B0DFC192A1A76867";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:B12EABD6332A6220 a bike_ontology:Trip;
+  rdfs:label "B12EABD6332A6220";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:B2F7F8818E3D2557 a bike_ontology:Trip;
+  rdfs:label "B2F7F8818E3D2557";
+  bike_ontology:endStation bike_taxonomy:E32009 .
+
+bike_data:B3A46EC501ADBD15 a bike_ontology:Trip;
+  rdfs:label "B3A46EC501ADBD15";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:B64AE9D7487EE4AE a bike_ontology:Trip;
+  rdfs:label "B64AE9D7487EE4AE";
+  bike_ontology:endStation bike_taxonomy:E32009 .
+
+bike_data:B68435E2A1E93D11 a bike_ontology:Trip;
+  rdfs:label "B68435E2A1E93D11";
+  bike_ontology:endStation bike_taxonomy:B32023 .
+
+bike_data:B79CD99BC38531A3 a bike_ontology:Trip;
+  rdfs:label "B79CD99BC38531A3";
+  bike_ontology:endStation bike_taxonomy:D32022 .
+
+bike_data:B9A01CF06EFEBA59 a bike_ontology:Trip;
+  rdfs:label "B9A01CF06EFEBA59";
+  bike_ontology:endStation bike_taxonomy:C32093 .
+
+bike_data:BA21040F8FA9B2C9 a bike_ontology:Trip;
+  rdfs:label "BA21040F8FA9B2C9";
+  bike_ontology:endStation bike_taxonomy:E32005 .
+
+bike_data:BA308F68024FD85E a bike_ontology:Trip;
+  rdfs:label "BA308F68024FD85E";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:BF4AD3863D054279 a bike_ontology:Trip;
+  rdfs:label "BF4AD3863D054279";
+  bike_ontology:endStation bike_taxonomy:M32045 .
+
+bike_data:BF9B3A7BFD1A2CA9 a bike_ontology:Trip;
+  rdfs:label "BF9B3A7BFD1A2CA9";
+  bike_ontology:endStation bike_taxonomy:C32056 .
+
+bike_data:C0921112C3422FBB a bike_ontology:Trip;
+  rdfs:label "C0921112C3422FBB";
+  bike_ontology:endStation bike_taxonomy:M32018 .
+
+bike_data:C228387D999CCE55 a bike_ontology:Trip;
+  rdfs:label "C228387D999CCE55";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:C243960539069B79 a bike_ontology:Trip;
+  rdfs:label "C243960539069B79";
+  bike_ontology:endStation bike_taxonomy:D32045 .
+
+bike_data:C38794D41E16AB58 a bike_ontology:Trip;
+  rdfs:label "C38794D41E16AB58";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:C645B6344DC54AC1 a bike_ontology:Trip;
+  rdfs:label "C645B6344DC54AC1";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:C6DCB8EC156C6459 a bike_ontology:Trip;
+  rdfs:label "C6DCB8EC156C6459";
+  bike_ontology:endStation bike_taxonomy:S32021 .
+
+bike_data:C70A1B12D945C15F a bike_ontology:Trip;
+  rdfs:label "C70A1B12D945C15F";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:C7D4389FE0A8523A a bike_ontology:Trip;
+  rdfs:label "C7D4389FE0A8523A";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:C840E2F1AB5F5081 a bike_ontology:Trip;
+  rdfs:label "C840E2F1AB5F5081";
+  bike_ontology:endStation bike_taxonomy:C32022 .
+
+bike_data:C856641681E0B922 a bike_ontology:Trip;
+  rdfs:label "C856641681E0B922";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:C8F94D3595F599C7 a bike_ontology:Trip;
+  rdfs:label "C8F94D3595F599C7";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:C946EA5B87098F74 a bike_ontology:Trip;
+  rdfs:label "C946EA5B87098F74";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:C969CDC720F85614 a bike_ontology:Trip;
+  rdfs:label "C969CDC720F85614";
+  bike_ontology:endStation bike_taxonomy:B32017 .
+
+bike_data:CAE2567774CA5F34 a bike_ontology:Trip;
+  rdfs:label "CAE2567774CA5F34";
+  bike_ontology:endStation bike_taxonomy:B32020 .
+
+bike_data:CD368F33A71F473A a bike_ontology:Trip;
+  rdfs:label "CD368F33A71F473A";
+  bike_ontology:endStation bike_taxonomy:E32008 .
+
+bike_data:CE2C31CEEF4680C8 a bike_ontology:Trip;
+  rdfs:label "CE2C31CEEF4680C8";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:CE2CD39A1DF8C34D a bike_ontology:Trip;
+  rdfs:label "CE2CD39A1DF8C34D";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:CE927322FD71EE16 a bike_ontology:Trip;
+  rdfs:label "CE927322FD71EE16";
+  bike_ontology:endStation bike_taxonomy:A32017 .
+
+bike_data:CFE2F65F9A91BDDB a bike_ontology:Trip;
+  rdfs:label "CFE2F65F9A91BDDB";
+  bike_ontology:endStation bike_taxonomy:B32059 .
+
+bike_data:D0B33DB3AD829648 a bike_ontology:Trip;
+  rdfs:label "D0B33DB3AD829648";
+  bike_ontology:endStation bike_taxonomy:D32042 .
+
+bike_data:D1295243E55D384A a bike_ontology:Trip;
+  rdfs:label "D1295243E55D384A";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:D1420C28DC46C3F4 a bike_ontology:Trip;
+  rdfs:label "D1420C28DC46C3F4";
+  bike_ontology:endStation bike_taxonomy:V32007 .
+
+bike_data:D1E6072718E61DE3 a bike_ontology:Trip;
+  rdfs:label "D1E6072718E61DE3";
+  bike_ontology:endStation bike_taxonomy:M32018 .
+
+bike_data:D1F19310C1B333E2 a bike_ontology:Trip;
+  rdfs:label "D1F19310C1B333E2";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:D3903C4F36DAD807 a bike_ontology:Trip;
+  rdfs:label "D3903C4F36DAD807";
+  bike_ontology:endStation bike_taxonomy:B32005 .
+
+bike_data:D399F16BC0678374 a bike_ontology:Trip;
+  rdfs:label "D399F16BC0678374";
+  bike_ontology:endStation bike_taxonomy:B32029 .
+
+bike_data:D440C735317CAD5C a bike_ontology:Trip;
+  rdfs:label "D440C735317CAD5C";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:D50A3984CF7C177A a bike_ontology:Trip;
+  rdfs:label "D50A3984CF7C177A";
+  bike_ontology:endStation bike_taxonomy:M32045 .
+
+bike_data:D562E711C0D3B973 a bike_ontology:Trip;
+  rdfs:label "D562E711C0D3B973";
+  bike_ontology:endStation bike_taxonomy:M32040 .
+
+bike_data:D596A8B59F62751B a bike_ontology:Trip;
+  rdfs:label "D596A8B59F62751B";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:D61A9F2E98898F0D a bike_ontology:Trip;
+  rdfs:label "D61A9F2E98898F0D";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:D6597BA27AC8BD21 a bike_ontology:Trip;
+  rdfs:label "D6597BA27AC8BD21";
+  bike_ontology:endStation bike_taxonomy:M32026 .
+
+bike_data:D78034C4138964AA a bike_ontology:Trip;
+  rdfs:label "D78034C4138964AA";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:D7EA7A3CF9049BE2 a bike_ontology:Trip;
+  rdfs:label "D7EA7A3CF9049BE2";
+  bike_ontology:endStation bike_taxonomy:M32027 .
+
+bike_data:D9BED451FD01974B a bike_ontology:Trip;
+  rdfs:label "D9BED451FD01974B";
+  bike_ontology:endStation bike_taxonomy:E32005 .
+
+bike_data:DBD8335DA575D131 a bike_ontology:Trip;
+  rdfs:label "DBD8335DA575D131";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:DBEF97C2885F4A91 a bike_ontology:Trip;
+  rdfs:label "DBEF97C2885F4A91";
+  bike_ontology:endStation bike_taxonomy:D32036 .
+
+bike_data:DE35B2A16581C350 a bike_ontology:Trip;
+  rdfs:label "DE35B2A16581C350";
+  bike_ontology:endStation bike_taxonomy:K32003 .
+
+bike_data:DF50598B218A7C61 a bike_ontology:Trip;
+  rdfs:label "DF50598B218A7C61";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:E0B0858D3D3CB38D a bike_ontology:Trip;
+  rdfs:label "E0B0858D3D3CB38D";
+  bike_ontology:endStation bike_taxonomy:M32011 .
+
+bike_data:E127F4D34DFA4432 a bike_ontology:Trip;
+  rdfs:label "E127F4D34DFA4432";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:E3000CFAEFDBCF93 a bike_ontology:Trip;
+  rdfs:label "E3000CFAEFDBCF93";
+  bike_ontology:endStation bike_taxonomy:C32016 .
+
+bike_data:E3ADF93BBFA46903 a bike_ontology:Trip;
+  rdfs:label "E3ADF93BBFA46903";
+  bike_ontology:endStation bike_taxonomy:M32017 .
+
+bike_data:E5D2A531F08D789F a bike_ontology:Trip;
+  rdfs:label "E5D2A531F08D789F";
+  bike_ontology:endStation bike_taxonomy:B32020 .
+
+bike_data:E691892B74954879 a bike_ontology:Trip;
+  rdfs:label "E691892B74954879";
+  bike_ontology:endStation bike_taxonomy:D32012 .
+
+bike_data:E7C4743400AEA0F0 a bike_ontology:Trip;
+  rdfs:label "E7C4743400AEA0F0";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:E838CCCB75E957DE a bike_ontology:Trip;
+  rdfs:label "E838CCCB75E957DE";
+  bike_ontology:endStation bike_taxonomy:D32001 .
+
+bike_data:E911EF55E958B1D2 a bike_ontology:Trip;
+  rdfs:label "E911EF55E958B1D2";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:EC1B595D35771902 a bike_ontology:Trip;
+  rdfs:label "EC1B595D35771902";
+  bike_ontology:endStation bike_taxonomy:M32004 .
+
+bike_data:ED0463C12A1F5F5D a bike_ontology:Trip;
+  rdfs:label "ED0463C12A1F5F5D";
+  bike_ontology:endStation bike_taxonomy:C32012 .
+
+bike_data:ED295FC9A5DDEEC1 a bike_ontology:Trip;
+  rdfs:label "ED295FC9A5DDEEC1";
+  bike_ontology:endStation bike_taxonomy:M32005 .
+
+bike_data:ED8B356757EE82D5 a bike_ontology:Trip;
+  rdfs:label "ED8B356757EE82D5";
+  bike_ontology:endStation bike_taxonomy:M32039 .
+
+bike_data:ED9D5185E2EA13AA a bike_ontology:Trip;
+  rdfs:label "ED9D5185E2EA13AA";
+  bike_ontology:endStation bike_taxonomy:B32002 .
+
+bike_data:EEC4B5509AEE9312 a bike_ontology:Trip;
+  rdfs:label "EEC4B5509AEE9312";
+  bike_ontology:endStation bike_taxonomy:M32081 .
+
+bike_data:F0AF031BA48CF6BE a bike_ontology:Trip;
+  rdfs:label "F0AF031BA48CF6BE";
+  bike_ontology:endStation bike_taxonomy:B32020 .
+
+bike_data:F0DFDB04F4441423 a bike_ontology:Trip;
+  rdfs:label "F0DFDB04F4441423";
+  bike_ontology:endStation bike_taxonomy:C32060 .
+
+bike_data:F0E2A530F412C880 a bike_ontology:Trip;
+  rdfs:label "F0E2A530F412C880";
+  bike_ontology:endStation bike_taxonomy:B32004 .
+
+bike_data:F187645CB8A794BF a bike_ontology:Trip;
+  rdfs:label "F187645CB8A794BF";
+  bike_ontology:endStation bike_taxonomy:S32047 .
+
+bike_data:F207C92104C66009 a bike_ontology:Trip;
+  rdfs:label "F207C92104C66009";
+  bike_ontology:endStation bike_taxonomy:A32011 .
+
+bike_data:F2500FA424B400FC a bike_ontology:Trip;
+  rdfs:label "F2500FA424B400FC";
+  bike_ontology:endStation bike_taxonomy:M32045 .
+
+bike_data:F26E319CE69D927F a bike_ontology:Trip;
+  rdfs:label "F26E319CE69D927F";
+  bike_ontology:endStation bike_taxonomy:E32005 .
+
+bike_data:F2BFFFF245FAF23C a bike_ontology:Trip;
+  rdfs:label "F2BFFFF245FAF23C";
+  bike_ontology:endStation bike_taxonomy:D32001 .
+
+bike_data:F36FA8D2B2DFDA8D a bike_ontology:Trip;
+  rdfs:label "F36FA8D2B2DFDA8D";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:F38A79F6D3267798 a bike_ontology:Trip;
+  rdfs:label "F38A79F6D3267798";
+  bike_ontology:endStation bike_taxonomy:M32002 .
+
+bike_data:F51C516B6A285352 a bike_ontology:Trip;
+  rdfs:label "F51C516B6A285352";
+  bike_ontology:endStation bike_taxonomy:M32012 .
+
+bike_data:F57BD9613B4E581D a bike_ontology:Trip;
+  rdfs:label "F57BD9613B4E581D";
+  bike_ontology:endStation bike_taxonomy:E32006 .
+
+bike_data:F6E04CA78BB08C20 a bike_ontology:Trip;
+  rdfs:label "F6E04CA78BB08C20";
+  bike_ontology:endStation bike_taxonomy:E32008 .
+
+bike_data:F6F0DFADFFFEE511 a bike_ontology:Trip;
+  rdfs:label "F6F0DFADFFFEE511";
+  bike_ontology:endStation bike_taxonomy:A32030 .
+
+bike_data:F7297E6DDB929D1A a bike_ontology:Trip;
+  rdfs:label "F7297E6DDB929D1A";
+  bike_ontology:endStation bike_taxonomy:M32003 .
+
+bike_data:F82321990534EB65 a bike_ontology:Trip;
+  rdfs:label "F82321990534EB65";
+  bike_ontology:endStation bike_taxonomy:W32006 .
+
+bike_data:F8C00C4FD24CE91F a bike_ontology:Trip;
+  rdfs:label "F8C00C4FD24CE91F";
+  bike_ontology:endStation bike_taxonomy:W32004 .
+
+bike_data:F959E655FE354D01 a bike_ontology:Trip;
+  rdfs:label "F959E655FE354D01";
+  bike_ontology:endStation bike_taxonomy:S32023 .
+
+bike_data:FA123EC1D9C4025B a bike_ontology:Trip;
+  rdfs:label "FA123EC1D9C4025B";
+  bike_ontology:endStation bike_taxonomy:M32083 .
+
+bike_data:FBAE307466B6AC63 a bike_ontology:Trip;
+  rdfs:label "FBAE307466B6AC63";
+  bike_ontology:endStation bike_taxonomy:M32077 .
+
+bike_data:FD47BCB86A12C485 a bike_ontology:Trip;
+  rdfs:label "FD47BCB86A12C485";
+  bike_ontology:endStation bike_taxonomy:S32039 .
+
+bike_data:FD558E9F4B363EF4 a bike_ontology:Trip;
+  rdfs:label "FD558E9F4B363EF4";
+  bike_ontology:endStation bike_taxonomy:M32011 .
+
+bike_data:FE41851A7ACA3687 a bike_ontology:Trip;
+  rdfs:label "FE41851A7ACA3687";
+  bike_ontology:endStation bike_taxonomy:B32005 .
+
+bike_data:FF082460FF4D3AA3 a bike_ontology:Trip;
+  rdfs:label "FF082460FF4D3AA3";
+  bike_ontology:endStation bike_taxonomy:M32017 .

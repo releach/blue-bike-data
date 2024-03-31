@@ -1,1263 +1,1268 @@
+@prefix bike_taxonomy: <https://bluebikes.com/system-data/rdf/bike_taxonomy#>
+@prefix bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+@prefix geo: <http://www.opengis.net/ont/geosparql#>
+@prefix sf: <http://www.opengis.net/ont/sf#>
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32000> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0445714 42.35339051)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32000 a sf:Point;
+  geo:asWKT "POINT(-71.0445714 42.35339051)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.137313 42.353334)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32001 a sf:Point;
+  geo:asWKT "POINT(-71.137313 42.353334)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11903489 42.35169202)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32002 a sf:Point;
+  geo:asWKT "POINT(-71.11903489 42.35169202)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.108279 42.350406)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32003 a sf:Point;
+  geo:asWKT "POINT(-71.108279 42.350406)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1065 42.338629)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32004 a sf:Point;
+  geo:asWKT "POINT(-71.1065 42.338629)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13776207 42.36154571)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32005 a sf:Point;
+  geo:asWKT "POINT(-71.13776207 42.36154571)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1182757 42.36426344)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32006 a sf:Point;
+  geo:asWKT "POINT(-71.1182757 42.36426344)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.105301 42.347241)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32008 a sf:Point;
+  geo:asWKT "POINT(-71.105301 42.347241)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.076847 42.341332)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32009 a sf:Point;
+  geo:asWKT "POINT(-71.076847 42.341332)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.055547 42.352175)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32010 a sf:Point;
+  geo:asWKT "POINT(-71.055547 42.352175)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12459779 42.36371276)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32011 a sf:Point;
+  geo:asWKT "POINT(-71.12459779 42.36371276)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.123831 42.352261)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32012 a sf:Point;
+  geo:asWKT "POINT(-71.123831 42.352261)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.052163 42.358155)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32013 a sf:Point;
+  geo:asWKT "POINT(-71.052163 42.358155)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13275303 42.34922469)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32017 a sf:Point;
+  geo:asWKT "POINT(-71.13275303 42.34922469)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32019> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12840831 42.36447457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32019 a sf:Point;
+  geo:asWKT "POINT(-71.12840831 42.36447457)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.068607 42.378965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32022 a sf:Point;
+  geo:asWKT "POINT(-71.068607 42.378965)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06905997 42.37408991)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32023 a sf:Point;
+  geo:asWKT "POINT(-71.06905997 42.37408991)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32025> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.064263 42.365673)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32025 a sf:Point;
+  geo:asWKT "POINT(-71.064263 42.365673)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32026> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.053181 42.354659)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32026 a sf:Point;
+  geo:asWKT "POINT(-71.053181 42.354659)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32028> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.01619095 42.38353252)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32028 a sf:Point;
+  geo:asWKT "POINT(-71.01619095 42.38353252)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32030> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03977829 42.36884408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32030 a sf:Point;
+  geo:asWKT "POINT(-71.03977829 42.36884408)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32031> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.039431 42.369536)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32031 a sf:Point;
+  geo:asWKT "POINT(-71.039431 42.369536)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32032> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03276253 42.37410622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32032 a sf:Point;
+  geo:asWKT "POINT(-71.03276253 42.37410622)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32033> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.044201 42.370744)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32033 a sf:Point;
+  geo:asWKT "POINT(-71.044201 42.370744)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.006098 42.386781)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32035 a sf:Point;
+  geo:asWKT "POINT(-71.006098 42.386781)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04102008 42.37331213)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32036 a sf:Point;
+  geo:asWKT "POINT(-71.04102008 42.37331213)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32039> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.01063069 42.38522394)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32039 a sf:Point;
+  geo:asWKT "POINT(-71.01063069 42.38522394)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32040> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12852452 42.3602737)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32040 a sf:Point;
+  geo:asWKT "POINT(-71.12852452 42.3602737)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32041> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03918549 42.37544913)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32041 a sf:Point;
+  geo:asWKT "POINT(-71.03918549 42.37544913)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32042> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05656401 42.3529457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32042 a sf:Point;
+  geo:asWKT "POINT(-71.05656401 42.3529457)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32044> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03335975 42.36774122)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32044 a sf:Point;
+  geo:asWKT "POINT(-71.03335975 42.36774122)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32045> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14167538 42.35656092)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32045 a sf:Point;
+  geo:asWKT "POINT(-71.14167538 42.35656092)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32049> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0355854 42.37057753)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32049 a sf:Point;
+  geo:asWKT "POINT(-71.0355854 42.37057753)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32050> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.02876782 42.36411904)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32050 a sf:Point;
+  geo:asWKT "POINT(-71.02876782 42.36411904)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32051> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.027733 42.379295)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32051 a sf:Point;
+  geo:asWKT "POINT(-71.027733 42.379295)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32052> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1242 42.368019)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32052 a sf:Point;
+  geo:asWKT "POINT(-71.1242 42.368019)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32053> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05934903 42.36473899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32053 a sf:Point;
+  geo:asWKT "POINT(-71.05934903 42.36473899)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32056> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1100468 42.33661006)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32056 a sf:Point;
+  geo:asWKT "POINT(-71.1100468 42.33661006)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32057> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04030132 42.36567871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32057 a sf:Point;
+  geo:asWKT "POINT(-71.04030132 42.36567871)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32058> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.059624 42.359322)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:A32058 a sf:Point;
+  geo:asWKT "POINT(-71.059624 42.359322)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08798563 42.33624445)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32002 a sf:Point;
+  geo:asWKT "POINT(-71.08798563 42.33624445)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10286117 42.33741748)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32003 a sf:Point;
+  geo:asWKT "POINT(-71.10286117 42.33741748)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0504394 42.36044136)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32004 a sf:Point;
+  geo:asWKT "POINT(-71.0504394 42.36044136)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08582377 42.34366582)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32005 a sf:Point;
+  geo:asWKT "POINT(-71.08582377 42.34366582)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10061884 42.34011512)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32006 a sf:Point;
+  geo:asWKT "POINT(-71.10061884 42.34011512)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04436085 42.35148193)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32007 a sf:Point;
+  geo:asWKT "POINT(-71.04436085 42.35148193)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.057629 42.35892)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32008 a sf:Point;
+  geo:asWKT "POINT(-71.057629 42.35892)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.097009 42.348706)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32010 a sf:Point;
+  geo:asWKT "POINT(-71.097009 42.348706)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10407918 42.33462893)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32013 a sf:Point;
+  geo:asWKT "POINT(-71.10407918 42.33462893)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04167744 42.34881026)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32014 a sf:Point;
+  geo:asWKT "POINT(-71.04167744 42.34881026)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10235287 42.34369056)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32015 a sf:Point;
+  geo:asWKT "POINT(-71.10235287 42.34369056)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08386572 42.32984299)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32017 a sf:Point;
+  geo:asWKT "POINT(-71.08386572 42.32984299)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08678415 42.34740621)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32018 a sf:Point;
+  geo:asWKT "POINT(-71.08678415 42.34740621)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32020> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.100694 42.345733)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32020 a sf:Point;
+  geo:asWKT "POINT(-71.100694 42.345733)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32021> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09627098 42.33758601)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32021 a sf:Point;
+  geo:asWKT "POINT(-71.09627098 42.33758601)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08243078 42.31787329)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32022 a sf:Point;
+  geo:asWKT "POINT(-71.08243078 42.31787329)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09126061 42.32143814)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32023 a sf:Point;
+  geo:asWKT "POINT(-71.09126061 42.32143814)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32026> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.081198 42.332817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32026 a sf:Point;
+  geo:asWKT "POINT(-71.081198 42.332817)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32027> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.091946 42.316902)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32027 a sf:Point;
+  geo:asWKT "POINT(-71.091946 42.316902)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32028> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.080952 42.30791)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32028 a sf:Point;
+  geo:asWKT "POINT(-71.080952 42.30791)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32029> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0729 42.309572)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32029 a sf:Point;
+  geo:asWKT "POINT(-71.0729 42.309572)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32031> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06512249 42.30785224)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32031 a sf:Point;
+  geo:asWKT "POINT(-71.06512249 42.30785224)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32032> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05979576 42.3598254)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32032 a sf:Point;
+  geo:asWKT "POINT(-71.05979576 42.3598254)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32033> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09886996 42.33658555)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32033 a sf:Point;
+  geo:asWKT "POINT(-71.09886996 42.33658555)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32034> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09732501 42.34465063)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32034 a sf:Point;
+  geo:asWKT "POINT(-71.09732501 42.34465063)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1506152 42.33554308)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32035 a sf:Point;
+  geo:asWKT "POINT(-71.1506152 42.33554308)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10446509 42.3339227)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32036 a sf:Point;
+  geo:asWKT "POINT(-71.10446509 42.3339227)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32037> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0972821 42.34924377)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32037 a sf:Point;
+  geo:asWKT "POINT(-71.0972821 42.34924377)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32055> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0901582 42.3294633)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32055 a sf:Point;
+  geo:asWKT "POINT(-71.0901582 42.3294633)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32056> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06166646 42.35668335)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32056 a sf:Point;
+  geo:asWKT "POINT(-71.06166646 42.35668335)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32058> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10016808 42.34734473)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32058 a sf:Point;
+  geo:asWKT "POINT(-71.10016808 42.34734473)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32059> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09218862 42.33286288)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32059 a sf:Point;
+  geo:asWKT "POINT(-71.09218862 42.33286288)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32060> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10391524 42.34960945)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32060 a sf:Point;
+  geo:asWKT "POINT(-71.10391524 42.34960945)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32061> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0613513 42.35847764)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32061 a sf:Point;
+  geo:asWKT "POINT(-71.0613513 42.35847764)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32062> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.090511 42.339202)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32062 a sf:Point;
+  geo:asWKT "POINT(-71.090511 42.339202)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32063> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10124648 42.33329255)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32063 a sf:Point;
+  geo:asWKT "POINT(-71.10124648 42.33329255)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32064> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08767617 42.33420351)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:B32064 a sf:Point;
+  geo:asWKT "POINT(-71.08767617 42.33420351)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C23109> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0602212 42.2796076)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C23109 a sf:Point;
+  geo:asWKT "POINT(-71.0602212 42.2796076)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32000> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.069616 42.345392)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32000 a sf:Point;
+  geo:asWKT "POINT(-71.069616 42.345392)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.095171 42.331184)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32001 a sf:Point;
+  geo:asWKT "POINT(-71.095171 42.331184)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07657015 42.34807412)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32003 a sf:Point;
+  geo:asWKT "POINT(-71.07657015 42.34807412)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0816197 42.340835)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32004 a sf:Point;
+  geo:asWKT "POINT(-71.0816197 42.340835)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07903779 42.33509899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32005 a sf:Point;
+  geo:asWKT "POINT(-71.07903779 42.33509899)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07404083 42.3385146)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32006 a sf:Point;
+  geo:asWKT "POINT(-71.07404083 42.3385146)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08065777 42.34652004)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32007 a sf:Point;
+  geo:asWKT "POINT(-71.08065777 42.34652004)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08236909 42.34880382)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32008 a sf:Point;
+  geo:asWKT "POINT(-71.08236909 42.34880382)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05737627 42.34404051)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32009 a sf:Point;
+  geo:asWKT "POINT(-71.05737627 42.34404051)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05118036 42.32033974)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32013 a sf:Point;
+  geo:asWKT "POINT(-71.05118036 42.32033974)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03648586 42.31218918)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32014 a sf:Point;
+  geo:asWKT "POINT(-71.03648586 42.31218918)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.075354 42.325333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32015 a sf:Point;
+  geo:asWKT "POINT(-71.075354 42.325333)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.046229 42.33595898)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32016 a sf:Point;
+  geo:asWKT "POINT(-71.046229 42.33595898)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03877 42.335741)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32017 a sf:Point;
+  geo:asWKT "POINT(-71.03877 42.335741)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32020> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.028664 42.344827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32020 a sf:Point;
+  geo:asWKT "POINT(-71.028664 42.344827)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32021> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.031614 42.344796)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32021 a sf:Point;
+  geo:asWKT "POINT(-71.031614 42.344796)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.066498 42.326599)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32022 a sf:Point;
+  geo:asWKT "POINT(-71.066498 42.326599)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.023739 42.336448)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32023 a sf:Point;
+  geo:asWKT "POINT(-71.023739 42.336448)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32024> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.052608 42.344137)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32024 a sf:Point;
+  geo:asWKT "POINT(-71.052608 42.344137)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32025> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.063187 42.345901)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32025 a sf:Point;
+  geo:asWKT "POINT(-71.063187 42.345901)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32027> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.092225 42.309796)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32027 a sf:Point;
+  geo:asWKT "POINT(-71.092225 42.309796)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32028> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.044024 42.344792)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32028 a sf:Point;
+  geo:asWKT "POINT(-71.044024 42.344792)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32029> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0514432 42.3391085)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32029 a sf:Point;
+  geo:asWKT "POINT(-71.0514432 42.3391085)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32030> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.085347 42.303469)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32030 a sf:Point;
+  geo:asWKT "POINT(-71.085347 42.303469)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32032> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03764 42.3481)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32032 a sf:Point;
+  geo:asWKT "POINT(-71.03764 42.3481)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32033> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0539 42.3106)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32033 a sf:Point;
+  geo:asWKT "POINT(-71.0539 42.3106)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32034> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04569256 42.351586)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32034 a sf:Point;
+  geo:asWKT "POINT(-71.04569256 42.351586)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.062256 42.343749)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32035 a sf:Point;
+  geo:asWKT "POINT(-71.062256 42.343749)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04817357 42.35317809)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32036 a sf:Point;
+  geo:asWKT "POINT(-71.04817357 42.35317809)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32037> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07929528 42.30412793)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32037 a sf:Point;
+  geo:asWKT "POINT(-71.07929528 42.30412793)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32038> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.071806 42.290333)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32038 a sf:Point;
+  geo:asWKT "POINT(-71.071806 42.290333)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32040> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05466698 42.28297568)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32040 a sf:Point;
+  geo:asWKT "POINT(-71.05466698 42.28297568)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32041> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06068976 42.29963349)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32041 a sf:Point;
+  geo:asWKT "POINT(-71.06068976 42.29963349)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32043> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.087111 42.2945833)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32043 a sf:Point;
+  geo:asWKT "POINT(-71.087111 42.2945833)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32044> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09372552 42.27462067)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32044 a sf:Point;
+  geo:asWKT "POINT(-71.09372552 42.27462067)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32045> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.093641 42.267902)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32045 a sf:Point;
+  geo:asWKT "POINT(-71.093641 42.267902)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32046> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12820532 42.28630716)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32046 a sf:Point;
+  geo:asWKT "POINT(-71.12820532 42.28630716)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32047> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.127754 42.287072)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32047 a sf:Point;
+  geo:asWKT "POINT(-71.127754 42.287072)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32048> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12119539 42.29266593)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32048 a sf:Point;
+  geo:asWKT "POINT(-71.12119539 42.29266593)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32050> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09325 42.2773889)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32050 a sf:Point;
+  geo:asWKT "POINT(-71.09325 42.2773889)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32051> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.02495 42.3334)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32051 a sf:Point;
+  geo:asWKT "POINT(-71.02495 42.3334)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32052> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05060093 42.33023071)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32052 a sf:Point;
+  geo:asWKT "POINT(-71.05060093 42.33023071)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32053> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0580343 42.34304858)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32053 a sf:Point;
+  geo:asWKT "POINT(-71.0580343 42.34304858)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32055> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.071111 42.2873611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32055 a sf:Point;
+  geo:asWKT "POINT(-71.071111 42.2873611)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0816905 42.3384318)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32056 a sf:Point;
+  geo:asWKT "POINT(-71.0816905 42.3384318)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32057> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06384031 42.34521562)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32057 a sf:Point;
+  geo:asWKT "POINT(-71.06384031 42.34521562)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32059> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1367213 42.28634589)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32059 a sf:Point;
+  geo:asWKT "POINT(-71.1367213 42.28634589)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32060> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07421449 42.34254914)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32060 a sf:Point;
+  geo:asWKT "POINT(-71.07421449 42.34254914)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32061> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0689446 42.33664795)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32061 a sf:Point;
+  geo:asWKT "POINT(-71.0689446 42.33664795)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32062> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0641389 42.2856944)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32062 a sf:Point;
+  geo:asWKT "POINT(-71.0641389 42.2856944)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32063> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08336953 42.34135616)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32063 a sf:Point;
+  geo:asWKT "POINT(-71.08336953 42.34135616)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32064> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05355408 42.32039374)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32064 a sf:Point;
+  geo:asWKT "POINT(-71.05355408 42.32039374)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32066> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.062571 42.291718)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32066 a sf:Point;
+  geo:asWKT "POINT(-71.062571 42.291718)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32077> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07648162 42.34474225)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32077 a sf:Point;
+  geo:asWKT "POINT(-71.07648162 42.34474225)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32079> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11687703 42.27881158)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32079 a sf:Point;
+  geo:asWKT "POINT(-71.11687703 42.27881158)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32085> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15344755 42.28633199)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32085 a sf:Point;
+  geo:asWKT "POINT(-71.15344755 42.28633199)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32086> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15728851 42.28277901)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32086 a sf:Point;
+  geo:asWKT "POINT(-71.15728851 42.28277901)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32087> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.16341468 42.27748444)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32087 a sf:Point;
+  geo:asWKT "POINT(-71.16341468 42.27748444)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32089> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.116012 42.29606705)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32089 a sf:Point;
+  geo:asWKT "POINT(-71.116012 42.29606705)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32090> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04536798 42.31886468)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32090 a sf:Point;
+  geo:asWKT "POINT(-71.04536798 42.31886468)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32091> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03987017 42.34178089)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32091 a sf:Point;
+  geo:asWKT "POINT(-71.03987017 42.34178089)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32092> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.090986 42.286012)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32092 a sf:Point;
+  geo:asWKT "POINT(-71.090986 42.286012)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32093> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06975 42.339194)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32093 a sf:Point;
+  geo:asWKT "POINT(-71.06975 42.339194)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32094> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.095003 42.28887)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32094 a sf:Point;
+  geo:asWKT "POINT(-71.095003 42.28887)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32099> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09171927 42.29704126)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32099 a sf:Point;
+  geo:asWKT "POINT(-71.09171927 42.29704126)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32102> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09616905 42.31242399)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32102 a sf:Point;
+  geo:asWKT "POINT(-71.09616905 42.31242399)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32103> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.080286 42.278747)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32103 a sf:Point;
+  geo:asWKT "POINT(-71.080286 42.278747)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32104> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12444 42.2556)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32104 a sf:Point;
+  geo:asWKT "POINT(-71.12444 42.2556)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32105> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.109725 42.28578)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32105 a sf:Point;
+  geo:asWKT "POINT(-71.109725 42.28578)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32106> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11924 42.2681)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32106 a sf:Point;
+  geo:asWKT "POINT(-71.11924 42.2681)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32107> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0446705 42.3502102)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32107 a sf:Point;
+  geo:asWKT "POINT(-71.0446705 42.3502102)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32108> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05425954 42.30367409)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32108 a sf:Point;
+  geo:asWKT "POINT(-71.05425954 42.30367409)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32110> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07797205 42.29225148)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32110 a sf:Point;
+  geo:asWKT "POINT(-71.07797205 42.29225148)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32111> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07820988 42.30321535)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32111 a sf:Point;
+  geo:asWKT "POINT(-71.07820988 42.30321535)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32112> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05889978 42.31870275)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32112 a sf:Point;
+  geo:asWKT "POINT(-71.05889978 42.31870275)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32113> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06019938 42.30981925)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:C32113 a sf:Point;
+  geo:asWKT "POINT(-71.06019938 42.30981925)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32000> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06528744 42.36125722)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32000 a sf:Point;
+  geo:asWKT "POINT(-71.06528744 42.36125722)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1467354 42.35732922)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32001 a sf:Point;
+  geo:asWKT "POINT(-71.1467354 42.35732922)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0689044 42.34157472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32002 a sf:Point;
+  geo:asWKT "POINT(-71.0689044 42.34157472)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07739207 42.34992828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32005 a sf:Point;
+  geo:asWKT "POINT(-71.07739207 42.34992828)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.050877 42.363871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32006 a sf:Point;
+  geo:asWKT "POINT(-71.050877 42.363871)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07046366 42.35206005)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32007 a sf:Point;
+  geo:asWKT "POINT(-71.07046366 42.35206005)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.050699 42.357143)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32008 a sf:Point;
+  geo:asWKT "POINT(-71.050699 42.357143)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05752244 42.36041775)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32009 a sf:Point;
+  geo:asWKT "POINT(-71.05752244 42.36041775)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.056067 42.362811)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32010 a sf:Point;
+  geo:asWKT "POINT(-71.056067 42.362811)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.066289 42.351146)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32011 a sf:Point;
+  geo:asWKT "POINT(-71.066289 42.351146)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07329249 42.35114198)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32013 a sf:Point;
+  geo:asWKT "POINT(-71.07329249 42.35114198)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.063348 42.354979)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32014 a sf:Point;
+  geo:asWKT "POINT(-71.063348 42.354979)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.059367 42.351356)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32015 a sf:Point;
+  geo:asWKT "POINT(-71.059367 42.351356)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07118962 42.36079297)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32016 a sf:Point;
+  geo:asWKT "POINT(-71.07118962 42.36079297)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0728687 42.35553628)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32017 a sf:Point;
+  geo:asWKT "POINT(-71.0728687 42.35553628)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04535997 42.34776345)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32018 a sf:Point;
+  geo:asWKT "POINT(-71.04535997 42.34776345)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32019> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.062679 42.352409)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32019 a sf:Point;
+  geo:asWKT "POINT(-71.062679 42.352409)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32020> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.064608 42.375603)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32020 a sf:Point;
+  geo:asWKT "POINT(-71.064608 42.375603)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32021> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.060292 42.371848)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32021 a sf:Point;
+  geo:asWKT "POINT(-71.060292 42.371848)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06446669 42.36590788)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32022 a sf:Point;
+  geo:asWKT "POINT(-71.06446669 42.36590788)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.048927 42.378338)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32023 a sf:Point;
+  geo:asWKT "POINT(-71.048927 42.378338)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32024> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.069849 42.356052)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32024 a sf:Point;
+  geo:asWKT "POINT(-71.069849 42.356052)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32028> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15027189 42.34894857)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32028 a sf:Point;
+  geo:asWKT "POINT(-71.15027189 42.34894857)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32029> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.16031677 42.34895285)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32029 a sf:Point;
+  geo:asWKT "POINT(-71.16031677 42.34895285)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32031> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.166491 42.35057)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32031 a sf:Point;
+  geo:asWKT "POINT(-71.166491 42.35057)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32032> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10057592 42.349496)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32032 a sf:Point;
+  geo:asWKT "POINT(-71.10057592 42.349496)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32033> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15168806 42.34024645)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32033 a sf:Point;
+  geo:asWKT "POINT(-71.15168806 42.34024645)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32034> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13997217 42.34835863)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32034 a sf:Point;
+  geo:asWKT "POINT(-71.13997217 42.34835863)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13022771 42.34953017)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32035 a sf:Point;
+  geo:asWKT "POINT(-71.13022771 42.34953017)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.070629 42.380857)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32036 a sf:Point;
+  geo:asWKT "POINT(-71.070629 42.380857)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32037> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06055722 42.38042947)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32037 a sf:Point;
+  geo:asWKT "POINT(-71.06055722 42.38042947)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32038> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06383499 42.37487847)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32038 a sf:Point;
+  geo:asWKT "POINT(-71.06383499 42.37487847)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32039> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.054812 42.37412455)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32039 a sf:Point;
+  geo:asWKT "POINT(-71.054812 42.37412455)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32040> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.107669 42.306539)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32040 a sf:Point;
+  geo:asWKT "POINT(-71.107669 42.306539)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.104374 42.316966)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32041 a sf:Point;
+  geo:asWKT "POINT(-71.104374 42.316966)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32042> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06781138 42.35182807)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32042 a sf:Point;
+  geo:asWKT "POINT(-71.06781138 42.35182807)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32043> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0620996 42.3494261)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32043 a sf:Point;
+  geo:asWKT "POINT(-71.0620996 42.3494261)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32045> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07782811 42.35096144)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32045 a sf:Point;
+  geo:asWKT "POINT(-71.07782811 42.35096144)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32046> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07946779 42.34958942)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32046 a sf:Point;
+  geo:asWKT "POINT(-71.07946779 42.34958942)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32048> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06559185 42.34854543)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32048 a sf:Point;
+  geo:asWKT "POINT(-71.06559185 42.34854543)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32049> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07242074 42.34954403)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32049 a sf:Point;
+  geo:asWKT "POINT(-71.07242074 42.34954403)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32052> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11570891 42.30604563)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32052 a sf:Point;
+  geo:asWKT "POINT(-71.11570891 42.30604563)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32053> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07514855 42.38445226)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32053 a sf:Point;
+  geo:asWKT "POINT(-71.07514855 42.38445226)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32054> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14549814 42.34679008)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32054 a sf:Point;
+  geo:asWKT "POINT(-71.14549814 42.34679008)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32057> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05524927 42.36070284)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32057 a sf:Point;
+  geo:asWKT "POINT(-71.05524927 42.36070284)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32059> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08038157 42.33584613)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32059 a sf:Point;
+  geo:asWKT "POINT(-71.08038157 42.33584613)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32060> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07304573 42.38004535)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32060 a sf:Point;
+  geo:asWKT "POINT(-71.07304573 42.38004535)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32061> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08255059 42.33759485)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:D32061 a sf:Point;
+  geo:asWKT "POINT(-71.08255059 42.33759485)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11543 42.309054)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32001 a sf:Point;
+  geo:asWKT "POINT(-71.11543 42.309054)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10984161 42.32176526)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32003 a sf:Point;
+  geo:asWKT "POINT(-71.10984161 42.32176526)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.098634 42.315692)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32004 a sf:Point;
+  geo:asWKT "POINT(-71.098634 42.315692)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.107341 42.310579)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32005 a sf:Point;
+  geo:asWKT "POINT(-71.107341 42.310579)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10014141 42.32293117)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32006 a sf:Point;
+  geo:asWKT "POINT(-71.10014141 42.32293117)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1108917 42.32760387)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32007 a sf:Point;
+  geo:asWKT "POINT(-71.1108917 42.32760387)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06575 42.292917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32009 a sf:Point;
+  geo:asWKT "POINT(-71.06575 42.292917)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.114249 42.300923)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32010 a sf:Point;
+  geo:asWKT "POINT(-71.114249 42.300923)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09639924 42.31930943)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32011 a sf:Point;
+  geo:asWKT "POINT(-71.09639924 42.31930943)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10196 42.324173)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32012 a sf:Point;
+  geo:asWKT "POINT(-71.10196 42.324173)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.122509 42.2568376)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32013 a sf:Point;
+  geo:asWKT "POINT(-71.122509 42.2568376)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1145523 42.2645666)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:E32014 a sf:Point;
+  geo:asWKT "POINT(-71.1145523 42.2645666)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.110444 42.411709)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32001 a sf:Point;
+  geo:asWKT "POINT(-71.110444 42.411709)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.108102 42.417724)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32002 a sf:Point;
+  geo:asWKT "POINT(-71.108102 42.417724)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.106128 42.401697)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32003 a sf:Point;
+  geo:asWKT "POINT(-71.106128 42.401697)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08152866 42.41081837)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32004 a sf:Point;
+  geo:asWKT "POINT(-71.08152866 42.41081837)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09124541 42.42333137)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32005 a sf:Point;
+  geo:asWKT "POINT(-71.09124541 42.42333137)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09651506 42.40721644)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:F32006 a sf:Point;
+  geo:asWKT "POINT(-71.09651506 42.40721644)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.073179 42.426541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:G32001 a sf:Point;
+  geo:asWKT "POINT(-71.073179 42.426541)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.067793 42.42386)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:G32002 a sf:Point;
+  geo:asWKT "POINT(-71.067793 42.42386)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06393695 42.42653766)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:G32003 a sf:Point;
+  geo:asWKT "POINT(-71.06393695 42.42653766)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03070972 42.39813565)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32001 a sf:Point;
+  geo:asWKT "POINT(-71.03070972 42.39813565)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0334456 42.39319611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32002 a sf:Point;
+  geo:asWKT "POINT(-71.0334456 42.39319611)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03857018 42.39022671)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32003 a sf:Point;
+  geo:asWKT "POINT(-71.03857018 42.39022671)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03085594 42.39453079)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32004 a sf:Point;
+  geo:asWKT "POINT(-71.03085594 42.39453079)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.03987179 42.39636528)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32005 a sf:Point;
+  geo:asWKT "POINT(-71.03987179 42.39636528)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.02390923 42.39841773)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:H32006 a sf:Point;
+  geo:asWKT "POINT(-71.02390923 42.39841773)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.123338 42.341598)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32001 a sf:Point;
+  geo:asWKT "POINT(-71.123338 42.341598)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13894682 42.3382668)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32002 a sf:Point;
+  geo:asWKT "POINT(-71.13894682 42.3382668)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11626681 42.33274392)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32003 a sf:Point;
+  geo:asWKT "POINT(-71.11626681 42.33274392)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12833211 42.34655124)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32004 a sf:Point;
+  geo:asWKT "POINT(-71.12833211 42.34655124)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12046447 42.33376473)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32005 a sf:Point;
+  geo:asWKT "POINT(-71.12046447 42.33376473)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12126246 42.35154735)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32006 a sf:Point;
+  geo:asWKT "POINT(-71.12126246 42.35154735)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10728681 42.34619708)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32007 a sf:Point;
+  geo:asWKT "POINT(-71.10728681 42.34619708)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12688361 42.33137017)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32008 a sf:Point;
+  geo:asWKT "POINT(-71.12688361 42.33137017)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12536222 42.32784317)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32009 a sf:Point;
+  geo:asWKT "POINT(-71.12536222 42.32784317)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12135231 42.32464511)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32010 a sf:Point;
+  geo:asWKT "POINT(-71.12135231 42.32464511)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13421171 42.33985827)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32011 a sf:Point;
+  geo:asWKT "POINT(-71.13421171 42.33985827)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12070564 42.34012243)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32012 a sf:Point;
+  geo:asWKT "POINT(-71.12070564 42.34012243)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11467361 42.34414899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32015 a sf:Point;
+  geo:asWKT "POINT(-71.11467361 42.34414899)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12490356 42.34435176)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:K32017 a sf:Point;
+  geo:asWKT "POINT(-71.12490356 42.34435176)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15336637 42.41606457)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:L32001 a sf:Point;
+  geo:asWKT "POINT(-71.15336637 42.41606457)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14906519 42.40935396)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:L32002 a sf:Point;
+  geo:asWKT "POINT(-71.14906519 42.40935396)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14456963 42.40016805)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:L32005 a sf:Point;
+  geo:asWKT "POINT(-71.14456963 42.40016805)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09169 42.366277)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32002 a sf:Point;
+  geo:asWKT "POINT(-71.09169 42.366277)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08311072 42.36224179)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32003 a sf:Point;
+  geo:asWKT "POINT(-71.08311072 42.36224179)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08495474 42.36242784)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32004 a sf:Point;
+  geo:asWKT "POINT(-71.08495474 42.36242784)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09115601 42.36213123)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32005 a sf:Point;
+  geo:asWKT "POINT(-71.09115601 42.36213123)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.093198 42.3581)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32006 a sf:Point;
+  geo:asWKT "POINT(-71.093198 42.3581)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.094445 42.372969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32007 a sf:Point;
+  geo:asWKT "POINT(-71.094445 42.372969)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10057324 42.36346469)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32009 a sf:Point;
+  geo:asWKT "POINT(-71.10057324 42.36346469)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1031 42.36507)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32011 a sf:Point;
+  geo:asWKT "POINT(-71.1031 42.36507)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.105495 42.366426)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32012 a sf:Point;
+  geo:asWKT "POINT(-71.105495 42.366426)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.111075 42.373379)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32013 a sf:Point;
+  geo:asWKT "POINT(-71.111075 42.373379)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.114214 42.366621)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32014 a sf:Point;
+  geo:asWKT "POINT(-71.114214 42.366621)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12188071 42.3722168)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32016 a sf:Point;
+  geo:asWKT "POINT(-71.12188071 42.3722168)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12098601 42.3733288)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32017 a sf:Point;
+  geo:asWKT "POINT(-71.12098601 42.3733288)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.118579 42.373268)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32018 a sf:Point;
+  geo:asWKT "POINT(-71.118579 42.373268)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32019> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07679278 42.36707407)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32019 a sf:Point;
+  geo:asWKT "POINT(-71.07679278 42.36707407)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32020> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.119945 42.379011)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32020 a sf:Point;
+  geo:asWKT "POINT(-71.119945 42.379011)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32021> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.114025 42.376369)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32021 a sf:Point;
+  geo:asWKT "POINT(-71.114025 42.376369)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11387163 42.3572185)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32022 a sf:Point;
+  geo:asWKT "POINT(-71.11387163 42.3572185)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.116865 42.377945)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32023 a sf:Point;
+  geo:asWKT "POINT(-71.116865 42.377945)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32024> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.125107 42.380287)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32024 a sf:Point;
+  geo:asWKT "POINT(-71.125107 42.380287)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32025> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.130516 42.397828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32025 a sf:Point;
+  geo:asWKT "POINT(-71.130516 42.397828)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32026> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.104412 42.370803)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32026 a sf:Point;
+  geo:asWKT "POINT(-71.104412 42.370803)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32027> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08633604 42.36608797)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32027 a sf:Point;
+  geo:asWKT "POINT(-71.08633604 42.36608797)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32029> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.119084 42.387995)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32029 a sf:Point;
+  geo:asWKT "POINT(-71.119084 42.387995)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32030> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10809952 42.36178044)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32030 a sf:Point;
+  geo:asWKT "POINT(-71.10809952 42.36178044)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32031> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.132788 42.388966)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32031 a sf:Point;
+  geo:asWKT "POINT(-71.132788 42.388966)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32032> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08216792 42.36356016)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32032 a sf:Point;
+  geo:asWKT "POINT(-71.08216792 42.36356016)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32033> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.139459 42.396105)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32033 a sf:Point;
+  geo:asWKT "POINT(-71.139459 42.396105)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32034> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.069957 42.369885)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32034 a sf:Point;
+  geo:asWKT "POINT(-71.069957 42.369885)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07654601 42.36644674)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32035 a sf:Point;
+  geo:asWKT "POINT(-71.07654601 42.36644674)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.129042 42.392766)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32036 a sf:Point;
+  geo:asWKT "POINT(-71.129042 42.392766)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32037> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08822 42.3625)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32037 a sf:Point;
+  geo:asWKT "POINT(-71.08822 42.3625)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32038> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11687034 42.36923907)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32038 a sf:Point;
+  geo:asWKT "POINT(-71.11687034 42.36923907)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32039> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11901879 42.38674802)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32039 a sf:Point;
+  geo:asWKT "POINT(-71.11901879 42.38674802)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32040> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10006094 42.36264779)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32040 a sf:Point;
+  geo:asWKT "POINT(-71.10006094 42.36264779)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32041> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10129476 42.3595732)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32041 a sf:Point;
+  geo:asWKT "POINT(-71.10129476 42.3595732)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32042> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10394478 42.35560121)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32042 a sf:Point;
+  geo:asWKT "POINT(-71.10394478 42.35560121)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32043> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13320231 42.37478629)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32043 a sf:Point;
+  geo:asWKT "POINT(-71.13320231 42.37478629)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32044> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13426981 42.38165061)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32044 a sf:Point;
+  geo:asWKT "POINT(-71.13426981 42.38165061)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07116282 42.36769018)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32045 a sf:Point;
+  geo:asWKT "POINT(-71.07116282 42.36769018)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32046> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14260614 42.39558846)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32046 a sf:Point;
+  geo:asWKT "POINT(-71.14260614 42.39558846)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32047> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10393405 42.35775309)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32047 a sf:Point;
+  geo:asWKT "POINT(-71.10393405 42.35775309)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32048> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08277142 42.36544486)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32048 a sf:Point;
+  geo:asWKT "POINT(-71.08277142 42.36544486)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32049> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07200496 42.37197678)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32049 a sf:Point;
+  geo:asWKT "POINT(-71.07200496 42.37197678)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32050> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11305356 42.37250865)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32050 a sf:Point;
+  geo:asWKT "POINT(-71.11305356 42.37250865)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32051> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14347895 42.38267828)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32051 a sf:Point;
+  geo:asWKT "POINT(-71.14347895 42.38267828)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32052> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09759867 42.37119728)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32052 a sf:Point;
+  geo:asWKT "POINT(-71.09759867 42.37119728)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32053> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08043551 42.36161932)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32053 a sf:Point;
+  geo:asWKT "POINT(-71.08043551 42.36161932)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32054> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14871614 42.37500235)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32054 a sf:Point;
+  geo:asWKT "POINT(-71.14871614 42.37500235)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32055> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09522222 42.36599433)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32055 a sf:Point;
+  geo:asWKT "POINT(-71.09522222 42.36599433)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32056> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12260755 42.39120972)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32056 a sf:Point;
+  geo:asWKT "POINT(-71.12260755 42.39120972)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32057> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.13775671 42.38536765)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32057 a sf:Point;
+  geo:asWKT "POINT(-71.13775671 42.38536765)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32058> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.143941 42.3936)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32058 a sf:Point;
+  geo:asWKT "POINT(-71.143941 42.3936)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32059> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0875672 42.3636929)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32059 a sf:Point;
+  geo:asWKT "POINT(-71.0875672 42.3636929)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32060> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15412891 42.38078817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32060 a sf:Point;
+  geo:asWKT "POINT(-71.15412891 42.38078817)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32061> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09670274 42.36135838)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32061 a sf:Point;
+  geo:asWKT "POINT(-71.09670274 42.36135838)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32062> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10026479 42.37426714)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32062 a sf:Point;
+  geo:asWKT "POINT(-71.10026479 42.37426714)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32063> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09930186 42.36860524)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32063 a sf:Point;
+  geo:asWKT "POINT(-71.09930186 42.36860524)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32064> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0801376 42.36550729)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32064 a sf:Point;
+  geo:asWKT "POINT(-71.0801376 42.36550729)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32065> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08579015 42.36955298)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32065 a sf:Point;
+  geo:asWKT "POINT(-71.08579015 42.36955298)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32066> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14797131 42.39790817)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32066 a sf:Point;
+  geo:asWKT "POINT(-71.14797131 42.39790817)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32067> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08995434 42.37207658)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32067 a sf:Point;
+  geo:asWKT "POINT(-71.08995434 42.37207658)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32068> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12449831 42.3829443)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32068 a sf:Point;
+  geo:asWKT "POINT(-71.12449831 42.3829443)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32069> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15058332 42.39239749)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32069 a sf:Point;
+  geo:asWKT "POINT(-71.15058332 42.39239749)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32070> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08669817 42.36054174)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32070 a sf:Point;
+  geo:asWKT "POINT(-71.08669817 42.36054174)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32071> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08551858 42.36085937)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32071 a sf:Point;
+  geo:asWKT "POINT(-71.08551858 42.36085937)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32072> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08974038 42.36300378)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32072 a sf:Point;
+  geo:asWKT "POINT(-71.08974038 42.36300378)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32073> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1099878 42.36895181)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32073 a sf:Point;
+  geo:asWKT "POINT(-71.1099878 42.36895181)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32074> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1538877 42.390719)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32074 a sf:Point;
+  geo:asWKT "POINT(-71.1538877 42.390719)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32075> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.139019 42.389456)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32075 a sf:Point;
+  geo:asWKT "POINT(-71.139019 42.389456)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32076> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10841334 42.35766248)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32076 a sf:Point;
+  geo:asWKT "POINT(-71.10841334 42.35766248)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32077> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.076198 42.371141)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32077 a sf:Point;
+  geo:asWKT "POINT(-71.076198 42.371141)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32078> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0885418 42.3664204)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32078 a sf:Point;
+  geo:asWKT "POINT(-71.0885418 42.3664204)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32079> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12761001 42.38736954)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32079 a sf:Point;
+  geo:asWKT "POINT(-71.12761001 42.38736954)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32080> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0915669 42.3629016)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32080 a sf:Point;
+  geo:asWKT "POINT(-71.0915669 42.3629016)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32081> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08634234 42.3730798)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32081 a sf:Point;
+  geo:asWKT "POINT(-71.08634234 42.3730798)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32082> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08287079 42.3630455)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32082 a sf:Point;
+  geo:asWKT "POINT(-71.08287079 42.3630455)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32083> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0863096 42.36903567)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32083 a sf:Point;
+  geo:asWKT "POINT(-71.0863096 42.36903567)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32084> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.14421904 42.39522187)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32084 a sf:Point;
+  geo:asWKT "POINT(-71.14421904 42.39522187)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32085> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10044184 42.36356499)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32085 a sf:Point;
+  geo:asWKT "POINT(-71.10044184 42.36356499)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32086> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07585847 42.37197726)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32086 a sf:Point;
+  geo:asWKT "POINT(-71.07585847 42.37197726)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32087> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11966431 42.37433925)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32087 a sf:Point;
+  geo:asWKT "POINT(-71.11966431 42.37433925)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32088> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.143946 42.390821)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:M32088 a sf:Point;
+  geo:asWKT "POINT(-71.143946 42.390821)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32000> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.18641943 42.35574335)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32000 a sf:Point;
+  geo:asWKT "POINT(-71.18641943 42.35574335)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.19943707 42.35389024)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32001 a sf:Point;
+  geo:asWKT "POINT(-71.19943707 42.35389024)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.201462 42.36068456)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32002 a sf:Point;
+  geo:asWKT "POINT(-71.201462 42.36068456)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.18604537 42.35711921)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32003 a sf:Point;
+  geo:asWKT "POINT(-71.18604537 42.35711921)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.22627497 42.3496005)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32005 a sf:Point;
+  geo:asWKT "POINT(-71.22627497 42.3496005)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.21382214 42.35410408)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32006 a sf:Point;
+  geo:asWKT "POINT(-71.21382214 42.35410408)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.192861 42.330528)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32008 a sf:Point;
+  geo:asWKT "POINT(-71.192861 42.330528)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.16708934 42.33987892)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32009 a sf:Point;
+  geo:asWKT "POINT(-71.16708934 42.33987892)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.20637298 42.32206566)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32010 a sf:Point;
+  geo:asWKT "POINT(-71.20637298 42.32206566)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.20236039 42.36514871)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32011 a sf:Point;
+  geo:asWKT "POINT(-71.20236039 42.36514871)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.20668411 42.33006232)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32012 a sf:Point;
+  geo:asWKT "POINT(-71.20668411 42.33006232)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.20779455 42.33620337)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32013 a sf:Point;
+  geo:asWKT "POINT(-71.20779455 42.33620337)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.20764971 42.35145812)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32014 a sf:Point;
+  geo:asWKT "POINT(-71.20764971 42.35145812)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.24775946 42.34805541)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32015 a sf:Point;
+  geo:asWKT "POINT(-71.24775946 42.34805541)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1934421 42.3362358)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:N32018 a sf:Point;
+  geo:asWKT "POINT(-71.1934421 42.3362358)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.99804848 42.40833706)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:R32001 a sf:Point;
+  geo:asWKT "POINT(-70.99804848 42.40833706)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.9927243 42.40715656)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:R32002 a sf:Point;
+  geo:asWKT "POINT(-70.9927243 42.40715656)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0139 42.40741)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:R32006 a sf:Point;
+  geo:asWKT "POINT(-71.0139 42.40741)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.008942 42.408088)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:R32007 a sf:Point;
+  geo:asWKT "POINT(-71.008942 42.408088)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09812 42.386844)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32001 a sf:Point;
+  geo:asWKT "POINT(-71.09812 42.386844)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09540476 42.3796479)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32002 a sf:Point;
+  geo:asWKT "POINT(-71.09540476 42.3796479)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10853672 42.38363895)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32004 a sf:Point;
+  geo:asWKT "POINT(-71.10853672 42.38363895)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11412136 42.38567579)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32005 a sf:Point;
+  geo:asWKT "POINT(-71.11412136 42.38567579)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.123024 42.396969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32006 a sf:Point;
+  geo:asWKT "POINT(-71.123024 42.396969)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11111522 42.39936816)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32007 a sf:Point;
+  geo:asWKT "POINT(-71.11111522 42.39936816)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.116772 42.400877)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32008 a sf:Point;
+  geo:asWKT "POINT(-71.116772 42.400877)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.123413 42.40449)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32009 a sf:Point;
+  geo:asWKT "POINT(-71.123413 42.40449)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.132446 42.406302)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32010 a sf:Point;
+  geo:asWKT "POINT(-71.132446 42.406302)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12590793 42.4008795)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32011 a sf:Point;
+  geo:asWKT "POINT(-71.12590793 42.4008795)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10594004 42.3977834)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32013 a sf:Point;
+  geo:asWKT "POINT(-71.10594004 42.3977834)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0782814 42.38614141)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32014 a sf:Point;
+  geo:asWKT "POINT(-71.0782814 42.38614141)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09039426 42.39108438)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32015 a sf:Point;
+  geo:asWKT "POINT(-71.09039426 42.39108438)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09850592 42.3951715)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32016 a sf:Point;
+  geo:asWKT "POINT(-71.09850592 42.3951715)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08318716 42.38762811)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32017 a sf:Point;
+  geo:asWKT "POINT(-71.08318716 42.38762811)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07746601 42.39223284)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32018 a sf:Point;
+  geo:asWKT "POINT(-71.07746601 42.39223284)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32019> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12011306 42.39638681)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32019 a sf:Point;
+  geo:asWKT "POINT(-71.12011306 42.39638681)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32020> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10856622 42.39044622)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32020 a sf:Point;
+  geo:asWKT "POINT(-71.10856622 42.39044622)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32022> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.11133695 42.39407224)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32022 a sf:Point;
+  geo:asWKT "POINT(-71.11133695 42.39407224)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10402523 42.38100143)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32023 a sf:Point;
+  geo:asWKT "POINT(-71.10402523 42.38100143)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32034> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10341903 42.37927325)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32034 a sf:Point;
+  geo:asWKT "POINT(-71.10341903 42.37927325)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32035> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10878613 42.38032335)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32035 a sf:Point;
+  geo:asWKT "POINT(-71.10878613 42.38032335)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32036> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09745376 42.39189812)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32036 a sf:Point;
+  geo:asWKT "POINT(-71.09745376 42.39189812)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32038> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08714389 42.38717463)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32038 a sf:Point;
+  geo:asWKT "POINT(-71.08714389 42.38717463)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32040> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.105587 42.392525)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32040 a sf:Point;
+  geo:asWKT "POINT(-71.105587 42.392525)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32041> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.090098 42.380078)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32041 a sf:Point;
+  geo:asWKT "POINT(-71.090098 42.380078)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32042> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.107833 42.398444)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32042 a sf:Point;
+  geo:asWKT "POINT(-71.107833 42.398444)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32043> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08709779 42.38103732)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32043 a sf:Point;
+  geo:asWKT "POINT(-71.08709779 42.38103732)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32045> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.1077106 42.3834575)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32045 a sf:Point;
+  geo:asWKT "POINT(-71.1077106 42.3834575)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32046> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0946444 42.3867355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32046 a sf:Point;
+  geo:asWKT "POINT(-71.0946444 42.3867355)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32047> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08071685 42.3930184)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32047 a sf:Point;
+  geo:asWKT "POINT(-71.08071685 42.3930184)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32048> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09601 42.3864)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32048 a sf:Point;
+  geo:asWKT "POINT(-71.09601 42.3864)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32049> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.10606909 42.38322727)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32049 a sf:Point;
+  geo:asWKT "POINT(-71.10606909 42.38322727)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32050> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09117389 42.3754476)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:S32050 a sf:Point;
+  geo:asWKT "POINT(-71.09117389 42.3754476)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.88952363 42.51836788)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32003 a sf:Point;
+  geo:asWKT "POINT(-70.88952363 42.51836788)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89570075 42.5180352)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32004 a sf:Point;
+  geo:asWKT "POINT(-70.89570075 42.5180352)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89611113 42.52345239)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32005 a sf:Point;
+  geo:asWKT "POINT(-70.89611113 42.52345239)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89183301 42.51142784)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32006 a sf:Point;
+  geo:asWKT "POINT(-70.89183301 42.51142784)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89478076 42.50182399)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32007 a sf:Point;
+  geo:asWKT "POINT(-70.89478076 42.50182399)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.8903331 42.5223714)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32008 a sf:Point;
+  geo:asWKT "POINT(-70.8903331 42.5223714)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32010> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.88693 42.506395)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32010 a sf:Point;
+  geo:asWKT "POINT(-70.88693 42.506395)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.905535 42.516223)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32011 a sf:Point;
+  geo:asWKT "POINT(-70.905535 42.516223)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89684 42.523994)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32012 a sf:Point;
+  geo:asWKT "POINT(-70.89684 42.523994)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.906271 42.520136)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32013 a sf:Point;
+  geo:asWKT "POINT(-70.906271 42.520136)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.910528 42.520897)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32014 a sf:Point;
+  geo:asWKT "POINT(-70.910528 42.520897)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.90614259 42.52989965)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32015 a sf:Point;
+  geo:asWKT "POINT(-70.90614259 42.52989965)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.88971138 42.52810052)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32016 a sf:Point;
+  geo:asWKT "POINT(-70.88971138 42.52810052)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32017> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.90166733 42.48628785)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32017 a sf:Point;
+  geo:asWKT "POINT(-70.90166733 42.48628785)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32018> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-70.89139044 42.52009618)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:T32018 a sf:Point;
+  geo:asWKT "POINT(-70.89139044 42.52009618)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06823265 42.41143223)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32001 a sf:Point;
+  geo:asWKT "POINT(-71.06823265 42.41143223)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32003> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05645001 42.40701602)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32003 a sf:Point;
+  geo:asWKT "POINT(-71.05645001 42.40701602)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0654676 42.39648358)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32004 a sf:Point;
+  geo:asWKT "POINT(-71.0654676 42.39648358)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0724476 42.39329263)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32005 a sf:Point;
+  geo:asWKT "POINT(-71.0724476 42.39329263)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04479656 42.41427294)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32006 a sf:Point;
+  geo:asWKT "POINT(-71.04479656 42.41427294)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05842225 42.41250451)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32007 a sf:Point;
+  geo:asWKT "POINT(-71.05842225 42.41250451)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32008> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.05260458 42.41034691)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32008 a sf:Point;
+  geo:asWKT "POINT(-71.05260458 42.41034691)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32009> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04419768 42.4203487)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32009 a sf:Point;
+  geo:asWKT "POINT(-71.04419768 42.4203487)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32011> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06373843 42.3983606)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32011 a sf:Point;
+  geo:asWKT "POINT(-71.06373843 42.3983606)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32012> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0528183 42.4153271)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32012 a sf:Point;
+  geo:asWKT "POINT(-71.0528183 42.4153271)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32013> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.06041655 42.40616124)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32013 a sf:Point;
+  geo:asWKT "POINT(-71.06041655 42.40616124)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32014> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.07573182 42.4023682)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32014 a sf:Point;
+  geo:asWKT "POINT(-71.07573182 42.4023682)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32015> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.0429 42.408156)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32015 a sf:Point;
+  geo:asWKT "POINT(-71.0429 42.408156)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32016> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.04731441 42.40336946)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:V32016 a sf:Point;
+  geo:asWKT "POINT(-71.04731441 42.40336946)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32001> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15683131 42.37207611)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32001 a sf:Point;
+  geo:asWKT "POINT(-71.15683131 42.37207611)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32002> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.18573324 42.36526032)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32002 a sf:Point;
+  geo:asWKT "POINT(-71.18573324 42.36526032)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15764854 42.36277389)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32004 a sf:Point;
+  geo:asWKT "POINT(-71.15764854 42.36277389)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32005> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.18751436 42.36759308)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32005 a sf:Point;
+  geo:asWKT "POINT(-71.18751436 42.36759308)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32006> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.17569387 42.36466403)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32006 a sf:Point;
+  geo:asWKT "POINT(-71.17569387 42.36466403)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32007> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.15656637 42.36762049)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:W32007 a sf:Point;
+  geo:asWKT "POINT(-71.15656637 42.36762049)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32997> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09261138 42.33848849)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:Z32997 a sf:Point;
+  geo:asWKT "POINT(-71.09261138 42.33848849)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32998> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.08738632 42.36412659)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:Z32998 a sf:Point;
+  geo:asWKT "POINT(-71.08738632 42.36412659)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32999> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.09746183 42.26998847)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:Z32999 a sf:Point;
+  geo:asWKT "POINT(-71.09746183 42.26998847)"^^geo:wktLiteral .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#ZZ32996> a <http://www.opengis.net/ont/sf#Point>;
-  <http://www.opengis.net/ont/geosparql#asWKT> "POINT(-71.12608128 42.4175909)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+bike_taxonomy:ZZ32996 a sf:Point;
+  geo:asWKT "POINT(-71.12608128 42.4175909)"^^geo:wktLiteral .

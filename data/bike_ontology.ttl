@@ -1,7 +1,7 @@
 # baseURI: https://bluebikes.com/system-data/rdf/ontology#
 
 @base          <https://bluebikes.com/system-data/rdf/ontology#> .
-@prefix bikeontology: <https://bluebikes.com/system-data/rdf/ontology#> .
+@prefix bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#> .
 @prefix metadata: <http://topbraid.org/metadata#> .
 @prefix teamwork: <http://topbraid.org/teamwork#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -19,140 +19,139 @@
         sh:path      <urn:x-evn-master:bike_ontology/latitude> ;
         sh:maxCount  1 .
 
-bikeontology:District
+bike_ontology:District
         rdfs:label       "District" ;
         rdf:type         owl:Class ;
         rdf:type         sh:NodeShape ;
         rdfs:subClassOf  skos:Concept .
 
-bikeontology:Rideable
+bike_ontology:Rideable
         rdfs:label       "Rideable" ;
         rdf:type         owl:Class ;
         rdf:type         sh:NodeShape ;
         rdfs:subClassOf  skos:Concept .
 
-bikeontology:Rider  rdfs:label  "Rider" ;
+bike_ontology:Rider  rdfs:label  "Rider" ;
         rdf:type         owl:Class ;
         rdf:type         sh:NodeShape ;
         rdfs:subClassOf  skos:Concept .
 
-bikeontology:Station  rdfs:label  "Station" ;
+bike_ontology:Station  rdfs:label  "Station" ;
         rdf:type         owl:Class ;
         rdf:type         sh:NodeShape ;
         rdfs:subClassOf  skos:Concept ;
-        sh:property      bikeontology:numDocks ;
-        sh:property      bikeontology:latitude ;
-        sh:property      bikeontology:dateEstablished ;
-        sh:property      bikeontology:longitude ;
-        sh:property      bikeontology:district ;
-        sh:property      bikeontology:stationID ;
-        sh:property      bikeontology:label .
+        sh:property      bike_ontology:numDocks ;
+        sh:property      bike_ontology:latitude ;
+        sh:property      bike_ontology:dateEstablished ;
+        sh:property      bike_ontology:longitude ;
+        sh:property      bike_ontology:district ;
+        sh:property      bike_ontology:stationID ;
+        sh:property      bike_ontology:label .
 
-bikeontology:Trip  rdfs:label  "Trip" ;
+bike_ontology:Trip  rdfs:label  "Trip" ;
         rdf:type         owl:Class ;
         rdf:type         sh:NodeShape ;
         rdfs:subClassOf  owl:Thing ;
-        sh:property      bikeontology:endedAt ;
-        sh:property      bikeontology:endStation ;
-        sh:property      bikeontology:rideableType ;
-        sh:property      bikeontology:startedAt ;
-        sh:property      bikeontology:startStation ;
-        sh:property      bikeontology:tripDuration ;
-        sh:property      bikeontology:tripID ;
-        sh:property      bikeontology:label .
+        sh:property      bike_ontology:endedAt ;
+        sh:property      bike_ontology:endStation ;
+        sh:property      bike_ontology:rideableType ;
+        sh:property      bike_ontology:startedAt ;
+        sh:property      bike_ontology:startStation ;
+        sh:property      bike_ontology:tripDuration ;
+        sh:property      bike_ontology:tripID ;
+        sh:property      bike_ontology:label .
 
-bikeontology:endedAt  rdf:type  sh:PropertyShape ;
+bike_ontology:endedAt  rdf:type  sh:PropertyShape ;
         sh:datatype  xsd:dateTime ;
         sh:name      "endedAt" ;
-        sh:path      bikeontology:endedAt .
+        sh:path      bike_ontology:endedAt .
 
-bikeontology:endStation
+bike_ontology:endStation
         rdf:type  sh:PropertyShape ;
-        sh:class  bikeontology:Station ;
+        sh:class  bike_ontology:Station ;
         sh:name   "endStation" ;
-        sh:path   bikeontology:endStation ;
-        sh:node   bikeontology:Station .
+        sh:path   bike_ontology:endStation ;
+        sh:node   bike_ontology:Station .
 
-bikeontology:rideableType
+bike_ontology:rideableType
         rdf:type  sh:PropertyShape ;
-        sh:class  bikeontology:Rideable ;
+        sh:class  bike_ontology:Rideable ;
         sh:name   "rideableType" ;
-        sh:path   bikeontology:rideableType ;
-        sh:node   bikeontology:Rideable .
+        sh:path   bike_ontology:rideableType ;
+        sh:node   bike_ontology:Rideable .
 
-bikeontology:startedAt
+bike_ontology:startedAt
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:dateTime ;
         sh:name      "startedAt" ;
-        sh:path      bikeontology:startedAt .
+        sh:path      bike_ontology:startedAt .
 
-bikeontology:startStation
+bike_ontology:startStation
         rdf:type  sh:PropertyShape ;
-        sh:class  bikeontology:Station ;
+        sh:class  bike_ontology:Station ;
         sh:name   "startStation" ;
-        sh:path   bikeontology:startStation ;
-        sh:node   bikeontology:Station .
+        sh:path   bike_ontology:startStation ;
+        sh:node   bike_ontology:Station .
 
-bikeontology:tripDuration
+bike_ontology:tripDuration
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:integer ;
         sh:name      "tripDuration" ;
-        sh:path      bikeontology:tripDuration .
+        sh:path      bike_ontology:tripDuration .
 
-bikeontology:tripID  rdf:type  sh:PropertyShape ;
+bike_ontology:tripID  rdf:type  sh:PropertyShape ;
         sh:datatype  xsd:string ;
         sh:name      "tripID" ;
-        sh:path      bikeontology:tripID .
+        sh:path      bike_ontology:tripID .
 
-bikeontology:numDocks
+bike_ontology:numDocks
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:integer ;
         sh:name      "numDocks" ;
-        sh:path      bikeontology:numDocks .
+        sh:path      bike_ontology:numDocks .
 
-bikeontology:latitude
+bike_ontology:latitude
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:decimal ;
         sh:name      "latitude" ;
-        sh:path      bikeontology:latitude ;
+        sh:path      bike_ontology:latitude ;
         sh:maxCount  1 .
 
-bikeontology:dateEstablished
+bike_ontology:dateEstablished
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:date ;
         sh:name      "dateEstablished" ;
-        sh:path      bikeontology:dateEstablished .
+        sh:path      bike_ontology:dateEstablished .
 
-bikeontology:longitude
+bike_ontology:longitude
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:decimal ;
         sh:name      "longitude" ;
-        sh:path      bikeontology:longitude ;
+        sh:path      bike_ontology:longitude ;
         sh:maxCount  1 .
 
-bikeontology:district
+bike_ontology:district
         rdf:type  sh:PropertyShape ;
-        sh:class  bikeontology:District ;
+        sh:class  bike_ontology:District ;
         sh:name   "district" ;
-        sh:path   bikeontology:district ;
-        sh:node   bikeontology:District .
+        sh:path   bike_ontology:district ;
+        sh:node   bike_ontology:District .
 
-bikeontology:stationID
+bike_ontology:stationID
         rdf:type     sh:PropertyShape ;
         sh:datatype  xsd:string ;
         sh:name      "stationID" ;
-        sh:path      bikeontology:stationID ;
-        sh:maxCount  1 ;
-        sh:minCount  1 .
+        sh:path      bike_ontology:stationID ;
+        sh:maxCount  1 .
 
-bikeontology:label  rdf:type  sh:PropertyShape ;
+bike_ontology:label  rdf:type  sh:PropertyShape ;
         sh:datatype  xsd:string ;
         sh:name      "label" ;
         sh:path      rdfs:label ;
         sh:maxCount  1 ;
         sh:minCount  1 .
 
-bikeontology:  graphql:publicClass  owl:Thing ;
+bike_ontology:  graphql:publicClass  owl:Thing ;
         owl:imports          <http://datashapes.org/graphql> ;
         owl:imports          <http://topbraid.org/skos.shapes> ;
         rdf:type             owl:Ontology ;

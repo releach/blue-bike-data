@@ -1,0 +1,2163 @@
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix poi_data: <https://bluebikes.com/system-data/rdf/poi_data#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+
+poi_data:00000 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Lower Mills" ;
+    geo:asWKT "POINT(-71.0689206 42.2730736)"^^geo:wktLiteral .
+
+poi_data:00001 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Long Island Head Light" ;
+    geo:asWKT "POINT(-70.9576735 42.3302159)"^^geo:wktLiteral .
+
+poi_data:00002 a schema:Library ;
+    rdfs:label "Campbell Resource Center Library" ;
+    geo:asWKT "POINT(-71.0561422 42.3088801)"^^geo:wktLiteral .
+
+poi_data:00003 a schema:Library ;
+    rdfs:label "Morton R. Godine Library" ;
+    geo:asWKT "POINT(-71.098744 42.3368236)"^^geo:wktLiteral .
+
+poi_data:00004 a schema:Library ;
+    rdfs:label "New England School of Law Library" ;
+    geo:asWKT "POINT(-71.0665318 42.3508011)"^^geo:wktLiteral .
+
+poi_data:00005 a schema:Library ;
+    rdfs:label "WGBH Media Library and Archives" ;
+    schema:url <https://openvault.wgbh.org/visiting-the-archives> ;
+    geo:asWKT "POINT(-71.148036 42.3570746)"^^geo:wktLiteral .
+
+poi_data:00006 a schema:Library ;
+    rdfs:label "Treadwell Library" ;
+    geo:asWKT "POINT(-71.0674149 42.3627265)"^^geo:wktLiteral .
+
+poi_data:00007 a schema:Library ;
+    rdfs:label "Massachusetts State Transportation Library" ;
+    geo:asWKT "POINT(-71.0674336 42.3517086)"^^geo:wktLiteral .
+
+poi_data:00008 a schema:Library ;
+    rdfs:label "W. Van Alan Clark, Jr. Library" ;
+    geo:asWKT "POINT(-71.0967338 42.3388012)"^^geo:wktLiteral .
+
+poi_data:00009 a schema:Library ;
+    rdfs:label "Charlestown High School Library" ;
+    geo:asWKT "POINT(-71.0608723 42.3812739)"^^geo:wktLiteral .
+
+poi_data:00010 a schema:Library ;
+    rdfs:label "Corcoran Library" ;
+    geo:asWKT "POINT(-71.0456409 42.3167344)"^^geo:wktLiteral .
+
+poi_data:00011 a schema:Library ;
+    rdfs:label "Paul E. Woodard Health Sciences Library" ;
+    geo:asWKT "POINT(-71.10667 42.33007)"^^geo:wktLiteral .
+
+poi_data:00012 a schema:Library ;
+    rdfs:label "Winsor School Library" ;
+    geo:asWKT "POINT(-71.1075466 42.3410229)"^^geo:wktLiteral .
+
+poi_data:00013 a schema:Library ;
+    rdfs:label "Mildred F. Sawyer Library" ;
+    schema:url <https://www.suffolk.edu/sawlib/> ;
+    geo:asWKT "POINT(-71.061772 42.3589785)"^^geo:wktLiteral .
+
+poi_data:00014 a schema:Library ;
+    rdfs:label "Quincy Dickerman Elementary School Library" ;
+    geo:asWKT "POINT(-71.0733773 42.3114342)"^^geo:wktLiteral .
+
+poi_data:00015 a schema:Library ;
+    rdfs:label "Mount Saint Joseph Academy Library" ;
+    geo:asWKT "POINT(-71.143259 42.3524539)"^^geo:wktLiteral .
+
+poi_data:00016 a schema:Library ;
+    rdfs:label "Albert Alphin Library" ;
+    geo:asWKT "POINT(-71.0903462 42.3454876)"^^geo:wktLiteral .
+
+poi_data:00017 a schema:Library ;
+    rdfs:label "Emerson College Library" ;
+    geo:asWKT "POINT(-71.0655492 42.3522439)"^^geo:wktLiteral .
+
+poi_data:00018 a schema:Library ;
+    rdfs:label "Mather Elementary School Library" ;
+    geo:asWKT "POINT(-71.0609723 42.3083577)"^^geo:wktLiteral .
+
+poi_data:00019 a schema:Museum ;
+    rdfs:label "New England Historic Genealogical Society" ;
+    schema:url <https://www.americanancestors.org/index.aspx> ;
+    geo:asWKT "POINT(-71.0753026 42.3517414)"^^geo:wktLiteral .
+
+poi_data:00020 a schema:Library ;
+    rdfs:label "Sylvan Engineering Information Center" ;
+    geo:asWKT "POINT(-71.06345 42.34609)"^^geo:wktLiteral .
+
+poi_data:00021 a schema:Library ;
+    rdfs:label "Adult Literacy Resource Center" ;
+    geo:asWKT "POINT(-71.1203123 42.3520334)"^^geo:wktLiteral .
+
+poi_data:00022 a schema:Library ;
+    rdfs:label "Greater Boston Center For Healthy Communities Resource Library" ;
+    geo:asWKT "POINT(-71.07146 42.28995)"^^geo:wktLiteral .
+
+poi_data:00023 a schema:Library ;
+    rdfs:label "The Boston Globe Library" ;
+    schema:url <https://globe.library.northeastern.edu/> ;
+    geo:asWKT "POINT(-71.0875505 42.3384719)"^^geo:wktLiteral .
+
+poi_data:00024 a schema:Library ;
+    rdfs:label "Massachusetts Department of Public Health Central Library" ;
+    geo:asWKT "POINT(-71.0577759 42.3578104)"^^geo:wktLiteral .
+
+poi_data:00025 a schema:Library ;
+    rdfs:label "Urban College of Boston Learning Resource Center" ;
+    geo:asWKT "POINT(-71.0629688 42.3520191)"^^geo:wktLiteral .
+
+poi_data:00026 a schema:Library ;
+    rdfs:label "Boston Latin Academy Library" ;
+    geo:asWKT "POINT(-71.0851334 42.3163726)"^^geo:wktLiteral .
+
+poi_data:00027 a schema:Library ;
+    rdfs:label "Congregational Library and Archives" ;
+    schema:url <https://www.congregationallibrary.org/> ;
+    geo:asWKT "POINT(-71.0624482 42.3578627)"^^geo:wktLiteral .
+
+poi_data:00028 a schema:Library ;
+    rdfs:label "The Bostonian Society Library and Special Collections" ;
+    geo:asWKT "POINT(-71.0575878 42.3586922)"^^geo:wktLiteral .
+
+poi_data:00029 a schema:Library ;
+    rdfs:label "The Libraries" ;
+    geo:asWKT "POINT(-71.0694278 42.3633915)"^^geo:wktLiteral .
+
+poi_data:00030 a schema:Library ;
+    rdfs:label "Research And Training Institute Library" ;
+    geo:asWKT "POINT(-71.0486803 42.3514733)"^^geo:wktLiteral .
+
+poi_data:00031 a schema:Library ;
+    rdfs:label "Lufkin Library" ;
+    geo:asWKT "POINT(-71.0702198 42.3462039)"^^geo:wktLiteral .
+
+poi_data:00032 a schema:Library ;
+    rdfs:label "Herman G. Dresser Library" ;
+    geo:asWKT "POINT(-71.0553015 42.3589283)"^^geo:wktLiteral .
+
+poi_data:00033 a schema:Library ;
+    rdfs:label "Medical Library" ;
+    geo:asWKT "POINT(-71.1282428 42.301215)"^^geo:wktLiteral .
+
+poi_data:00034 a schema:Library ;
+    rdfs:label "Suffolk County House of Corrections Library" ;
+    geo:asWKT "POINT(-71.0709394 42.3329215)"^^geo:wktLiteral .
+
+poi_data:00035 a schema:Library ;
+    rdfs:label "Bettencourt Medical Library" ;
+    geo:asWKT "POINT(-71.1015014 42.2991367)"^^geo:wktLiteral .
+
+poi_data:00036 a schema:Library ;
+    rdfs:label "EPA Region 1 Library" ;
+    schema:url <https://www.epa.gov/libraries/region-1-library-services> ;
+    geo:asWKT "POINT(-71.0568523 42.3569831)"^^geo:wktLiteral .
+
+poi_data:00037 a schema:Library ;
+    rdfs:label "Resource Center" ;
+    geo:asWKT "POINT(-71.0485784 42.3515705)"^^geo:wktLiteral .
+
+poi_data:00038 a schema:Library ;
+    rdfs:label "Massachusetts Environmental Library" ;
+    geo:asWKT "POINT(-71.06053 42.35559)"^^geo:wktLiteral .
+
+poi_data:00039 a schema:Library ;
+    rdfs:label "Wayne S. Wright Community Resource Cent" ;
+    geo:asWKT "POINT(-71.08225 42.33834)"^^geo:wktLiteral .
+
+poi_data:00040 a schema:Library ;
+    rdfs:label "Medical Library Veterans Administration Medical Center" ;
+    geo:asWKT "POINT(-71.1721988 42.275538)"^^geo:wktLiteral .
+
+poi_data:00041 a schema:Library ;
+    rdfs:label "Brigham and Women's Medical Library" ;
+    geo:asWKT "POINT(-71.1069506 42.336164)"^^geo:wktLiteral .
+
+poi_data:00042 a schema:Library ;
+    rdfs:label "Catholic Memorial High & Lower School Library" ;
+    geo:asWKT "POINT(-71.1657802 42.2776923)"^^geo:wktLiteral .
+
+poi_data:00043 a schema:Library ;
+    rdfs:label "Social Law Library" ;
+    schema:url <https://www.socialaw.com/> ;
+    geo:asWKT "POINT(-71.0611127 42.358874)"^^geo:wktLiteral .
+
+poi_data:00044 a schema:Library ;
+    rdfs:label "Harriet M. Spaulding Library" ;
+    geo:asWKT "POINT(-71.0861271 42.3413628)"^^geo:wktLiteral .
+
+poi_data:00045 a schema:Library ;
+    rdfs:label "William Morris Hunt Memorial Library" ;
+    schema:url <https://www.mfa.org/collections/libraries-and-archives> ;
+    geo:asWKT "POINT(-71.0851429 42.3432777)"^^geo:wktLiteral .
+
+poi_data:00046 a schema:Library ;
+    rdfs:label "Kessler Health Education Library" ;
+    geo:asWKT "POINT(-71.107225 42.3363949)"^^geo:wktLiteral .
+
+poi_data:00047 a schema:Library ;
+    rdfs:label "Boston Renaissance Charter School Media Center" ;
+    geo:asWKT "POINT(-71.0690611 42.3501823)"^^geo:wktLiteral .
+
+poi_data:00048 a schema:Library ;
+    rdfs:label "Tufts University Hirsh Health Sciences Library" ;
+    geo:asWKT "POINT(-71.0622921 42.3500662)"^^geo:wktLiteral .
+
+poi_data:00049 a schema:Library ;
+    rdfs:label "Bunker Hill Community College Library" ;
+    geo:asWKT "POINT(-71.0702095 42.3759427)"^^geo:wktLiteral .
+
+poi_data:00050 a schema:Library ;
+    rdfs:label "West Roxbury High School Library" ;
+    geo:asWKT "POINT(-71.1745376 42.2821815)"^^geo:wktLiteral .
+
+poi_data:00051 a schema:Library ;
+    rdfs:label "Stan Getz Media Center And Library" ;
+    geo:asWKT "POINT(-71.0871413 42.3466437)"^^geo:wktLiteral .
+
+poi_data:00052 a schema:Library ;
+    rdfs:label "Dorchester High School Library" ;
+    geo:asWKT "POINT(-71.0758634 42.2857024)"^^geo:wktLiteral .
+
+poi_data:00053 a schema:Library ;
+    rdfs:label "Stohlman Library" ;
+    geo:asWKT "POINT(-71.14805 42.34973)"^^geo:wktLiteral .
+
+poi_data:00054 a schema:Library ;
+    rdfs:label "State Library Of Massachusetts" ;
+    schema:url <https://www.mass.gov/orgs/state-library-of-massachusetts> ;
+    geo:asWKT "POINT(-71.0638705 42.3592441)"^^geo:wktLiteral .
+
+poi_data:00055 a schema:Library ;
+    rdfs:label "Snowden International School Library" ;
+    geo:asWKT "POINT(-71.0779829 42.3505737)"^^geo:wktLiteral .
+
+poi_data:00056 a schema:Library ;
+    rdfs:label "Advent School Library" ;
+    geo:asWKT "POINT(-71.0721306 42.3582426)"^^geo:wktLiteral .
+
+poi_data:00057 a schema:Library ;
+    rdfs:label "Patient And Family Learning Center" ;
+    geo:asWKT "POINT(-71.0685994 42.3629815)"^^geo:wktLiteral .
+
+poi_data:00058 a schema:Library ;
+    rdfs:label "Harrison Lyman Library" ;
+    geo:asWKT "POINT(-71.070508 42.367256)"^^geo:wktLiteral .
+
+poi_data:00059 a schema:Library ;
+    rdfs:label "The Learning Center" ;
+    geo:asWKT "POINT(-71.10468 42.34128)"^^geo:wktLiteral .
+
+poi_data:00060 a schema:Library ;
+    rdfs:label "Alumni Library" ;
+    geo:asWKT "POINT(-71.0955638 42.3356047)"^^geo:wktLiteral .
+
+poi_data:00061 a schema:Library ;
+    rdfs:label "Moakley Law Library" ;
+    geo:asWKT "POINT(-71.0609706 42.3568568)"^^geo:wktLiteral .
+
+poi_data:00062 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Glover" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0747241 42.3528312)"^^geo:wktLiteral .
+
+poi_data:00063 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Patrick Andrew Collins" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0768505 42.3522574)"^^geo:wktLiteral .
+
+poi_data:00064 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Lloyd Garrison" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0790616 42.3516609)"^^geo:wktLiteral .
+
+poi_data:00065 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Samuel Eliot Morison" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0808339 42.351183)"^^geo:wktLiteral .
+
+poi_data:00066 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Domingo Sarmiento" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0851991 42.3500058)"^^geo:wktLiteral .
+
+poi_data:00067 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Leif Ericson" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0913657 42.3490264)"^^geo:wktLiteral .
+
+poi_data:00068 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Alexander Hamilton" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.0724436 42.3534455)"^^geo:wktLiteral .
+
+poi_data:00069 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Benjamin Franklin Birthplace Site" ;
+    geo:asWKT "POINT(-71.058419 42.3567197)"^^geo:wktLiteral .
+
+poi_data:00070 a schema:Museum ;
+    rdfs:label "Boston Tea Party - Ships and Museum" ;
+    schema:url <https://www.bostonteapartyship.com/> ;
+    geo:asWKT "POINT(-71.0513039 42.3521988)"^^geo:wktLiteral .
+
+poi_data:00071 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Robert Gould Shaw and Fifty-fourth Regiment Memorial" ;
+    geo:asWKT "POINT(-71.0635011 42.3574806)"^^geo:wktLiteral .
+
+poi_data:00072 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Blackstone Memorial Tablet" ;
+    geo:asWKT "POINT(-71.0622493 42.3566188)"^^geo:wktLiteral .
+
+poi_data:00073 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ether Monument" ;
+    geo:asWKT "POINT(-71.0714514 42.3548286)"^^geo:wktLiteral .
+
+poi_data:00074 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "George Washington Statue" ;
+    geo:asWKT "POINT(-71.070949 42.3538483)"^^geo:wktLiteral .
+
+poi_data:00075 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Mary Dyer" ;
+    geo:asWKT "POINT(-71.0628995 42.3580479)"^^geo:wktLiteral .
+
+poi_data:00076 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Soldiers and Sailors Monument" ;
+    geo:asWKT "POINT(-71.0664122 42.3554667)"^^geo:wktLiteral .
+
+poi_data:00077 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Washington Monument" ;
+    geo:asWKT "POINT(-71.0539822 42.3537581)"^^geo:wktLiteral .
+
+poi_data:00078 a schema:Library ;
+    rdfs:label "Roxbury Community College Learning Resources Center" ;
+    geo:asWKT "POINT(-71.0956974 42.328983)"^^geo:wktLiteral .
+
+poi_data:00079 a schema:Library ;
+    rdfs:label "Art Institute of Boston Library" ;
+    geo:asWKT "POINT(-71.0993601 42.3485174)"^^geo:wktLiteral .
+
+poi_data:00080 a schema:Library ;
+    rdfs:label "Arnold Arboretum Horticulture Library" ;
+    geo:asWKT "POINT(-71.1209438 42.3074545)"^^geo:wktLiteral .
+
+poi_data:00081 a schema:Library ;
+    rdfs:label "Massachusetts Eye and Ear Infirmary Libraries" ;
+    geo:asWKT "POINT(-71.070327 42.362633)"^^geo:wktLiteral .
+
+poi_data:00082 a schema:Library ;
+    rdfs:label "Palmer-Davis Library" ;
+    geo:asWKT "POINT(-71.0694958 42.3631529)"^^geo:wktLiteral .
+
+poi_data:00083 a schema:Library ;
+    rdfs:label "Boston Public Library North End Branch" ;
+    geo:asWKT "POINT(-71.054998 42.364013)"^^geo:wktLiteral .
+
+poi_data:00084 a schema:Library ;
+    rdfs:label "Paul Revere Pottery and Library Clubhouse" ;
+    geo:asWKT "POINT(-71.0547732 42.3664863)"^^geo:wktLiteral .
+
+poi_data:00085 a schema:Library ;
+    rdfs:label "Charles Hayden Memorial Library" ;
+    geo:asWKT "POINT(-71.064401 42.3758355)"^^geo:wktLiteral .
+
+poi_data:00086 a schema:Library ;
+    rdfs:label "Colpoys Library" ;
+    geo:asWKT "POINT(-71.0653281 42.2775987)"^^geo:wktLiteral .
+
+poi_data:00087 a schema:Library ;
+    rdfs:label "Office of the Attorney General of Massachusetts Law Library" ;
+    geo:asWKT "POINT(-71.0624351 42.3593032)"^^geo:wktLiteral .
+
+poi_data:00088 a schema:Library ;
+    rdfs:label "Massachusetts State Laboratory Institute Medical Center Library" ;
+    geo:asWKT "POINT(-71.1173949 42.3009101)"^^geo:wktLiteral .
+
+poi_data:00089 a schema:Library ;
+    rdfs:label "Monsignor Ryan Memorial High School Library" ;
+    geo:asWKT "POINT(-71.0667942 42.2743234)"^^geo:wktLiteral .
+
+poi_data:00090 a schema:Library ;
+    rdfs:label "Northeastern University School of Law Library" ;
+    geo:asWKT "POINT(-71.0908403 42.3392519)"^^geo:wktLiteral .
+
+poi_data:00091 a schema:Library ;
+    rdfs:label "Boston Latin School Library" ;
+    geo:asWKT "POINT(-71.1010185 42.3376504)"^^geo:wktLiteral .
+
+poi_data:00092 a schema:Library ;
+    rdfs:label "Boston University School of Theology Library" ;
+    geo:asWKT "POINT(-71.1072 42.3505)"^^geo:wktLiteral .
+
+poi_data:00093 a schema:Library ;
+    rdfs:label "Children's Trust Fund Resource Library" ;
+    geo:asWKT "POINT(-71.059 42.3566)"^^geo:wktLiteral .
+
+poi_data:00094 a schema:Library ;
+    rdfs:label "William Howard Taft Middle School Library" ;
+    geo:asWKT "POINT(-71.1206362 42.352203)"^^geo:wktLiteral .
+
+poi_data:00095 a schema:Library ;
+    rdfs:label "The Mary Baker Eddy Library for the Betterment of Humanity" ;
+    schema:url <https://www.marybakereddylibrary.org/> ;
+    geo:asWKT "POINT(-71.0862018 42.3451224)"^^geo:wktLiteral .
+
+poi_data:00096 a schema:Museum ;
+    rdfs:label "Gibson House" ;
+    schema:url <https://www.thegibsonhouse.org/> ;
+    geo:asWKT "POINT(-71.0741161 42.3547395)"^^geo:wktLiteral .
+
+poi_data:00097 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Carnegie Building" ;
+    geo:asWKT "POINT(-71.1058692 42.3364557)"^^geo:wktLiteral .
+
+poi_data:00098 a schema:Museum ;
+    rdfs:label "Pierce/Hichborn House Museum" ;
+    schema:url <https://www.paulreverehouse.org/pierce-hichborn-house/> ;
+    geo:asWKT "POINT(-71.0537681 42.3635312)"^^geo:wktLiteral .
+
+poi_data:00099 a schema:Library ;
+    rdfs:label "Children's Museum Resource Center" ;
+    geo:asWKT "POINT(-71.049933 42.3515213)"^^geo:wktLiteral .
+
+poi_data:00100 a schema:Museum ;
+    rdfs:label "Alexander Graham Bell Room Museum" ;
+    geo:asWKT "POINT(-71.0551111 42.3555869)"^^geo:wktLiteral .
+
+poi_data:00101 a schema:Museum ;
+    rdfs:label "Boston Fire Museum" ;
+    schema:url <https://bostonfiremuseum.com/> ;
+    geo:asWKT "POINT(-71.048725 42.350814)"^^geo:wktLiteral .
+
+poi_data:00102 a schema:Museum ;
+    rdfs:label "Boston Marine Society Museum" ;
+    geo:asWKT "POINT(-71.0537324 42.3755245)"^^geo:wktLiteral .
+
+poi_data:00103 a schema:Museum ;
+    rdfs:label "First Corps of Cadets Museum" ;
+    geo:asWKT "POINT(-71.0821849 42.3512413)"^^geo:wktLiteral .
+
+poi_data:00104 a schema:Museum ;
+    rdfs:label "Nichols House Museum" ;
+    schema:url <https://www.nicholshousemuseum.org/> ;
+    geo:asWKT "POINT(-71.0659941 42.3585095)"^^geo:wktLiteral .
+
+poi_data:00105 a schema:Museum ;
+    rdfs:label "Ancient and Honorable Artillery Company Museum" ;
+    schema:url <http://www.ahac.us.com/> ;
+    geo:asWKT "POINT(-71.0561189 42.3601131)"^^geo:wktLiteral .
+
+poi_data:00106 a schema:Museum ;
+    rdfs:label "Boston Children's Museum" ;
+    schema:url <https://www.bostonchildrensmuseum.org/> ;
+    geo:asWKT "POINT(-71.0495782 42.3518954)"^^geo:wktLiteral .
+
+poi_data:00107 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Arthur Fiedler Memorial" ;
+    schema:url <https://helmicksculpture.com/portfolio/arthur-fiedler-memorial> ;
+    geo:asWKT "POINT(-71.0754454 42.3565005)"^^geo:wktLiteral .
+
+poi_data:00108 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Massacre Site" ;
+    geo:asWKT "POINT(-71.0571703 42.3587814)"^^geo:wktLiteral .
+
+poi_data:00109 a schema:Library ;
+    rdfs:label "Fields Corner Library" ;
+    geo:asWKT "POINT(-71.0603971 42.2988842)"^^geo:wktLiteral .
+
+poi_data:00110 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Westland Gate" ;
+    geo:asWKT "POINT(-71.0900234 42.3441258)"^^geo:wktLiteral .
+
+poi_data:00111 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fort Strong" ;
+    geo:asWKT "POINT(-70.9559361 42.3298322)"^^geo:wktLiteral .
+
+poi_data:00112 a schema:Museum ;
+    rdfs:label "Warren Anatomical Museum" ;
+    schema:url <https://www.countway.harvard.edu/chom/warren-anatomical-museum> ;
+    geo:asWKT "POINT(-71.1037583 42.3353572)"^^geo:wktLiteral .
+
+poi_data:00113 a schema:Library ;
+    rdfs:label "School of Law Library" ;
+    geo:asWKT "POINT(-71.1072949 42.3509676)"^^geo:wktLiteral .
+
+poi_data:00114 a schema:Library ;
+    rdfs:label "Shelton Hall 9th Floor Study Lounge" ;
+    geo:asWKT "POINT(-71.0970259 42.3503152)"^^geo:wktLiteral .
+
+poi_data:00115 a schema:Library ;
+    rdfs:label "Pickering Educational Resources Library" ;
+    geo:asWKT "POINT(-71.1006718 42.3496876)"^^geo:wktLiteral .
+
+poi_data:00116 a schema:Library ;
+    rdfs:label "Frederick S Pardee Management Library" ;
+    geo:asWKT "POINT(-71.0996764 42.3496167)"^^geo:wktLiteral .
+
+poi_data:00117 a schema:Library ;
+    rdfs:label "Warren Towers Quiet Study Lounge" ;
+    geo:asWKT "POINT(-71.1040876 42.3494549)"^^geo:wktLiteral .
+
+poi_data:00118 a schema:Library ;
+    rdfs:label "Makechnie Study" ;
+    geo:asWKT "POINT(-71.1021483 42.3498525)"^^geo:wktLiteral .
+
+poi_data:00119 a schema:Library ;
+    rdfs:label "Hojo Study Lounge" ;
+    geo:asWKT "POINT(-71.0986788 42.3494594)"^^geo:wktLiteral .
+
+poi_data:00120 a schema:Library ;
+    rdfs:label "Athlete Study Hall" ;
+    geo:asWKT "POINT(-71.121003 42.3540783)"^^geo:wktLiteral .
+
+poi_data:00121 a schema:Library ;
+    rdfs:label "Undergraduate Study Lounge" ;
+    geo:asWKT "POINT(-71.1000179 42.3496719)"^^geo:wktLiteral .
+
+poi_data:00122 a schema:Library ;
+    rdfs:label "George Sherman Union- Study spot" ;
+    geo:asWKT "POINT(-71.1089901 42.3508927)"^^geo:wktLiteral .
+
+poi_data:00123 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bernard M. Gordon Tribute To Engineering" ;
+    geo:asWKT "POINT(-71.0886405 42.3381166)"^^geo:wktLiteral .
+
+poi_data:00124 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Eliot Hotel" ;
+    schema:url <https://www.eliothotel.com/> ;
+    geo:asWKT "POINT(-71.0887471 42.3486873)"^^geo:wktLiteral .
+
+poi_data:00125 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Hancock" ;
+    geo:asWKT "POINT(-71.06215 42.3572136)"^^geo:wktLiteral .
+
+poi_data:00126 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Admiral David Farragut statue" ;
+    geo:asWKT "POINT(-71.0240078 42.3358285)"^^geo:wktLiteral .
+
+poi_data:00127 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Colonel William Prescott" ;
+    geo:asWKT "POINT(-71.0608733 42.3761529)"^^geo:wktLiteral .
+
+poi_data:00128 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Paul Revere Statue" ;
+    geo:asWKT "POINT(-71.0532619 42.3655856)"^^geo:wktLiteral .
+
+poi_data:00129 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John F. Fitzgerald Expressway Plaque" ;
+    geo:asWKT "POINT(-71.0574495 42.3523809)"^^geo:wktLiteral .
+
+poi_data:00130 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Vietnam War Memorial" ;
+    geo:asWKT "POINT(-71.0450264 42.3117531)"^^geo:wktLiteral .
+
+poi_data:00131 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Soldier's Monument" ;
+    geo:asWKT "POINT(-71.1157849 42.3094264)"^^geo:wktLiteral .
+
+poi_data:00132 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston 3 Miles" ;
+    geo:asWKT "POINT(-71.0936248 42.3294872)"^^geo:wktLiteral .
+
+poi_data:00133 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Benjamin Franklin Statue" ;
+    geo:asWKT "POINT(-71.0595681 42.357933)"^^geo:wktLiteral .
+
+poi_data:00134 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Swan Boats" ;
+    schema:url <https://swanboats.com/> ;
+    geo:asWKT "POINT(-71.0696551 42.3540368)"^^geo:wktLiteral .
+
+poi_data:00135 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bishop Riley" ;
+    geo:asWKT "POINT(-71.1227152 42.2547081)"^^geo:wktLiteral .
+
+poi_data:00136 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cohituate Standpipe" ;
+    geo:asWKT "POINT(-71.0946273 42.3252783)"^^geo:wktLiteral .
+
+poi_data:00137 a schema:Museum ;
+    rdfs:label "The Sports Museum" ;
+    schema:url <https://www.sportsmuseum.org/> ;
+    geo:asWKT "POINT(-71.0617378 42.3665016)"^^geo:wktLiteral .
+
+poi_data:00138 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Samuel Adams" ;
+    geo:asWKT "POINT(-71.0567717 42.3599824)"^^geo:wktLiteral .
+
+poi_data:00139 a schema:Museum ;
+    rdfs:label "The West End Museum" ;
+    schema:url <https://thewestendmuseum.org/> ;
+    geo:asWKT "POINT(-71.0637633 42.364276)"^^geo:wktLiteral .
+
+poi_data:00140 a schema:Library ;
+    rdfs:label "Norman B. Leventhal Map Center" ;
+    schema:url <https://leventhalmap.org> ;
+    geo:asWKT "POINT(-71.0781642 42.3494397)"^^geo:wktLiteral .
+
+poi_data:00141 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Logan International Airport 9/11 Memorial" ;
+    geo:asWKT "POINT(-71.0225682 42.3662652)"^^geo:wktLiteral .
+
+poi_data:00142 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Rabbi Joseph Shalom Memorial" ;
+    geo:asWKT "POINT(-71.1522074 42.3398198)"^^geo:wktLiteral .
+
+poi_data:00143 a schema:Museum ;
+    rdfs:label "Ether Dome" ;
+    geo:asWKT "POINT(-71.0679004 42.3634958)"^^geo:wktLiteral .
+
+poi_data:00144 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "World War II Memorial" ;
+    geo:asWKT "POINT(-71.0940191 42.3420207)"^^geo:wktLiteral .
+
+poi_data:00145 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Vietnam War Memorial" ;
+    geo:asWKT "POINT(-71.0937971 42.3423018)"^^geo:wktLiteral .
+
+poi_data:00146 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Japanese Temple Bell" ;
+    geo:asWKT "POINT(-71.0940861 42.3411742)"^^geo:wktLiteral .
+
+poi_data:00147 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Korean War Memorial" ;
+    geo:asWKT "POINT(-71.0940791 42.3423555)"^^geo:wktLiteral .
+
+poi_data:00148 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Veterans Memoriall Park plaque" ;
+    geo:asWKT "POINT(-71.0939926 42.3421112)"^^geo:wktLiteral .
+
+poi_data:00149 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boylston" ;
+    schema:url <https://www.mbta.com/stops/place-boyls> ;
+    geo:asWKT "POINT(-71.064534 42.3532022)"^^geo:wktLiteral .
+
+poi_data:00150 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "East Boston Vietnam Memorial" ;
+    geo:asWKT "POINT(-71.0405156 42.3722998)"^^geo:wktLiteral .
+
+poi_data:00151 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Commemorative Relief of Noodle Island" ;
+    geo:asWKT "POINT(-71.0403352 42.3683656)"^^geo:wktLiteral .
+
+poi_data:00152 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ralph Correale Memorial" ;
+    geo:asWKT "POINT(-71.0303403 42.3638858)"^^geo:wktLiteral .
+
+poi_data:00153 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Stephen J. McHugh Memorial" ;
+    geo:asWKT "POINT(-71.0295451 42.3635974)"^^geo:wktLiteral .
+
+poi_data:00154 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Joseph Porzio Memorial Park" ;
+    geo:asWKT "POINT(-71.028491 42.3647905)"^^geo:wktLiteral .
+
+poi_data:00155 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Veterans Memorial" ;
+    geo:asWKT "POINT(-71.0282757 42.3647102)"^^geo:wktLiteral .
+
+poi_data:00156 a schema:Museum ;
+    rdfs:label "Edward M. Kennedy Institute for the U.S. Senate" ;
+    schema:url <https://www.emkinstitute.org/> ;
+    geo:asWKT "POINT(-71.035208 42.3156646)"^^geo:wktLiteral .
+
+poi_data:00157 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Paul C. \"Puzzy\" Carter Marine PFC Memorial" ;
+    geo:asWKT "POINT(-71.1259651 42.2429556)"^^geo:wktLiteral .
+
+poi_data:00158 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston 4 Miles" ;
+    geo:asWKT "POINT(-71.1107495 42.3329278)"^^geo:wktLiteral .
+
+poi_data:00159 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston 6 Miles" ;
+    geo:asWKT "POINT(-71.1316359 42.3518067)"^^geo:wktLiteral .
+
+poi_data:00160 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston 7 Miles" ;
+    geo:asWKT "POINT(-71.1301272 42.3615993)"^^geo:wktLiteral .
+
+poi_data:00161 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Parkman Memorial" ;
+    geo:asWKT "POINT(-71.124401 42.3178688)"^^geo:wktLiteral .
+
+poi_data:00162 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Massachusetts Fallen Firefighters Memorial" ;
+    schema:url <https://www.skylightstudiosinc.com/project/massachusetts-fallen-firefighters-memorial/> ;
+    geo:asWKT "POINT(-71.0631839 42.3587616)"^^geo:wktLiteral .
+
+poi_data:00163 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "LoPresti Park" ;
+    geo:asWKT "POINT(-71.0434068 42.3703295)"^^geo:wktLiteral .
+
+poi_data:00164 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Korean War Memorial" ;
+    geo:asWKT "POINT(-71.0362654 42.3708765)"^^geo:wktLiteral .
+
+poi_data:00165 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Amerena" ;
+    geo:asWKT "POINT(-71.0339722 42.3697685)"^^geo:wktLiteral .
+
+poi_data:00166 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Frederick J. Carey Monument" ;
+    geo:asWKT "POINT(-71.0319884 42.3773953)"^^geo:wktLiteral .
+
+poi_data:00167 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "in memory of the 850" ;
+    geo:asWKT "POINT(-70.964554 42.3519257)"^^geo:wktLiteral .
+
+poi_data:00168 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Marathon Memorial" ;
+    geo:asWKT "POINT(-71.0810149 42.3491769)"^^geo:wktLiteral .
+
+poi_data:00169 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Marathon Memorial" ;
+    schema:url <https://pabloeduardosculpture.com/boston-marathon-marker-memorial/> ;
+    geo:asWKT "POINT(-71.0788824 42.3497545)"^^geo:wktLiteral .
+
+poi_data:00170 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Mothers of Maverick Street" ;
+    geo:asWKT "POINT(-71.0333346 42.367901)"^^geo:wktLiteral .
+
+poi_data:00171 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Endecott" ;
+    geo:asWKT "POINT(-71.0929215 42.340637)"^^geo:wktLiteral .
+
+poi_data:00172 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Puerto Rican Veterans Memorial" ;
+    geo:asWKT "POINT(-71.0712752 42.340752)"^^geo:wktLiteral .
+
+poi_data:00173 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Phillips Brooks Memorial" ;
+    schema:url <https://www.trinitychurchboston.org/art-and-architecture> ;
+    geo:asWKT "POINT(-71.075566 42.3501613)"^^geo:wktLiteral .
+
+poi_data:00174 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Strong" ;
+    schema:url <http://bostonstrong.org/> ;
+    geo:asWKT "POINT(-71.0924553 42.34887)"^^geo:wktLiteral .
+
+poi_data:00175 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Beacon Hill Eagle Monument" ;
+    geo:asWKT "POINT(-71.0632498 42.3589995)"^^geo:wktLiteral .
+
+poi_data:00176 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Massachusetts Law Enforcement Memorial" ;
+    geo:asWKT "POINT(-71.0633192 42.3592615)"^^geo:wktLiteral .
+
+poi_data:00177 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "James Michael Curley Memorial" ;
+    geo:asWKT "POINT(-71.0570327 42.3605558)"^^geo:wktLiteral .
+
+poi_data:00178 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Stone" ;
+    geo:asWKT "POINT(-71.0568342 42.3617016)"^^geo:wktLiteral .
+
+poi_data:00179 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Founders Memorial" ;
+    schema:url <https://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=ariall&source=~!siartinventories&uri=full=3100001~!18171~!0#focus> ;
+    geo:asWKT "POINT(-71.0675817 42.3564942)"^^geo:wktLiteral .
+
+poi_data:00180 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "George Robert White Memorial" ;
+    geo:asWKT "POINT(-71.0721559 42.3553535)"^^geo:wktLiteral .
+
+poi_data:00181 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Victory" ;
+    geo:asWKT "POINT(-71.0644098 42.3542792)"^^geo:wktLiteral .
+
+poi_data:00182 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Declaration of Independence Tablet" ;
+    schema:url <https://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=ariall&source=~!siartinventories&uri=full=3100001~!297740~!0#focus> ;
+    geo:asWKT "POINT(-71.0639058 42.354631)"^^geo:wktLiteral .
+
+poi_data:00183 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Garden of Peace" ;
+    schema:url <https://www.mass.gov/orgs/garden-of-peace> ;
+    geo:asWKT "POINT(-71.0617232 42.360031)"^^geo:wktLiteral .
+
+poi_data:00184 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Marvin E. Goody Memorial" ;
+    geo:asWKT "POINT(-71.0686 42.353614)"^^geo:wktLiteral .
+
+poi_data:00185 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "David Ignatius Walsh" ;
+    geo:asWKT "POINT(-71.074 42.3562913)"^^geo:wktLiteral .
+
+poi_data:00186 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Massachusetts Korean War Veterans Memorial" ;
+    geo:asWKT "POINT(-71.0535435 42.3744202)"^^geo:wktLiteral .
+
+poi_data:00187 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charlestown Firefighters Memorial" ;
+    geo:asWKT "POINT(-71.0706279 42.3827936)"^^geo:wktLiteral .
+
+poi_data:00188 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fort Warren" ;
+    geo:asWKT "POINT(-70.9278038 42.3203532)"^^geo:wktLiteral .
+
+poi_data:00189 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Basinger" ;
+    geo:asWKT "POINT(-70.9554761 42.3304596)"^^geo:wktLiteral .
+
+poi_data:00190 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Smyth" ;
+    geo:asWKT "POINT(-70.956964 42.3284849)"^^geo:wktLiteral .
+
+poi_data:00191 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Hitchcock" ;
+    geo:asWKT "POINT(-70.9552809 42.3297526)"^^geo:wktLiteral .
+
+poi_data:00192 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Drum" ;
+    geo:asWKT "POINT(-70.9563419 42.3301588)"^^geo:wktLiteral .
+
+poi_data:00193 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Stevens" ;
+    geo:asWKT "POINT(-70.9598339 42.3259396)"^^geo:wktLiteral .
+
+poi_data:00194 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Battery Ward" ;
+    geo:asWKT "POINT(-70.9550304 42.3296042)"^^geo:wktLiteral .
+
+poi_data:00195 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jackie Liebergott Black Box Theatre" ;
+    geo:asWKT "POINT(-71.0632714 42.3538901)"^^geo:wktLiteral .
+
+poi_data:00196 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Paramount Theatre" ;
+    geo:asWKT "POINT(-71.062501 42.3537152)"^^geo:wktLiteral .
+
+poi_data:00197 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bright Family Screening Room" ;
+    geo:asWKT "POINT(-71.0631293 42.3538862)"^^geo:wktLiteral .
+
+poi_data:00198 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Joseph F. Fiandaca" ;
+    geo:asWKT "POINT(-71.0388505 42.3711503)"^^geo:wktLiteral .
+
+poi_data:00199 a schema:Library ;
+    rdfs:label "Boston Public Library Chinatown" ;
+    schema:url <https://www.bpl.org/locations/83/> ;
+    geo:asWKT "POINT(-71.0630441 42.3521678)"^^geo:wktLiteral .
+
+poi_data:00200 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Josiah Quincy III" ;
+    geo:asWKT "POINT(-71.0593561 42.3578524)"^^geo:wktLiteral .
+
+poi_data:00201 a schema:Library ;
+    rdfs:label "New England College of Optometry Library" ;
+    schema:url <https://library.neco.edu/> ;
+    geo:asWKT "POINT(-71.0868521 42.351948)"^^geo:wktLiteral .
+
+poi_data:00202 a schema:Library ;
+    rdfs:label "Boston Public Library Grove Hall Branch" ;
+    geo:asWKT "POINT(-71.0812108 42.3079423)"^^geo:wktLiteral .
+
+poi_data:00203 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jordan Hall" ;
+    geo:asWKT "POINT(-71.0862053 42.3410873)"^^geo:wktLiteral .
+
+poi_data:00204 a schema:Museum ;
+    rdfs:label "MassArt Art Museum" ;
+    schema:url <https://maam.massart.edu/> ;
+    geo:asWKT "POINT(-71.0984304 42.3368655)"^^geo:wktLiteral .
+
+poi_data:00205 a schema:Library ;
+    rdfs:label "New England Conservatory of Music Performance Library" ;
+    geo:asWKT "POINT(-71.086368 42.340609)"^^geo:wktLiteral .
+
+poi_data:00206 a schema:Library ;
+    rdfs:label "Isabelle Firestone Audio Library" ;
+    geo:asWKT "POINT(-71.0862634 42.3406817)"^^geo:wktLiteral .
+
+poi_data:00207 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Marathon Finish Line" ;
+    schema:url <https://www.baa.org/races/boston-marathon> ;
+    geo:asWKT "POINT(-71.0786162 42.3497514)"^^geo:wktLiteral .
+
+poi_data:00208 a schema:Library ;
+    rdfs:label "Henrietta DeBenedictis Library" ;
+    geo:asWKT "POINT(-71.1013817 42.3365133)"^^geo:wktLiteral .
+
+poi_data:00209 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "South Boston Vietnam Memorial" ;
+    geo:asWKT "POINT(-71.0323583 42.3365585)"^^geo:wktLiteral .
+
+poi_data:00210 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Lombard Lamp" ;
+    schema:url <http://www.wfrjr.com/data/monument/Boston/Lombard.html> ;
+    geo:asWKT "POINT(-71.0942486 42.3489954)"^^geo:wktLiteral .
+
+poi_data:00211 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Swan Boat Landing" ;
+    geo:asWKT "POINT(-71.0695294 42.3539923)"^^geo:wktLiteral .
+
+poi_data:00212 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Seal of Boston" ;
+    schema:url <https://www.boston.gov/departments/tourism-sports-and-entertainment/symbols-city-boston> ;
+    geo:asWKT "POINT(-71.0714474 42.3537141)"^^geo:wktLiteral .
+
+poi_data:00213 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "U.S. Army Cannon" ;
+    geo:asWKT "POINT(-71.0740151 42.3574323)"^^geo:wktLiteral .
+
+poi_data:00214 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Oliver Wendell Holmes Memorial" ;
+    schema:url <https://collections.countway.harvard.edu/onview/items/show/17846> ;
+    geo:asWKT "POINT(-71.0805403 42.3542374)"^^geo:wktLiteral .
+
+poi_data:00215 a schema:Library ;
+    rdfs:label "Massachusetts Historical Society" ;
+    schema:url <https://www.masshist.org/> ;
+    geo:asWKT "POINT(-71.089955 42.3464702)"^^geo:wktLiteral .
+
+poi_data:00216 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Edwin Upton Curtis Memorial" ;
+    geo:asWKT "POINT(-71.0743254 42.3571603)"^^geo:wktLiteral .
+
+poi_data:00217 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Edwin Upton Curtis Memorial" ;
+    geo:asWKT "POINT(-71.0743294 42.3571969)"^^geo:wktLiteral .
+
+poi_data:00218 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cherry Tree Plaque" ;
+    geo:asWKT "POINT(-71.0742439 42.3569913)"^^geo:wktLiteral .
+
+poi_data:00219 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Fire Department Memorial" ;
+    schema:url <https://bostonfirehistory.org/personnel/firefighter-memorials/> ;
+    geo:asWKT "POINT(-71.0780652 42.3518821)"^^geo:wktLiteral .
+
+poi_data:00220 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Evelyn F. Moakley Bridge Plaque" ;
+    schema:url <https://moakleyarchive.omeka.net/items/show/625> ;
+    geo:asWKT "POINT(-71.0513812 42.3545399)"^^geo:wktLiteral .
+
+poi_data:00221 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Harry Houdini" ;
+    geo:asWKT "POINT(-71.0899615 42.3521049)"^^geo:wktLiteral .
+
+poi_data:00222 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John F. Fitzgerald" ;
+    geo:asWKT "POINT(-71.054948 42.3622306)"^^geo:wktLiteral .
+
+poi_data:00223 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Central Artery Tunnel" ;
+    schema:url <https://www.mass.gov/info-details/the-big-dig-project-background> ;
+    geo:asWKT "POINT(-71.0546745 42.3624657)"^^geo:wktLiteral .
+
+poi_data:00224 a schema:Museum ;
+    rdfs:label "Commonwealth Museum" ;
+    schema:url <https://www.sec.state.ma.us/mus/> ;
+    geo:asWKT "POINT(-71.0344517 42.3140185)"^^geo:wktLiteral .
+
+poi_data:00225 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Victura" ;
+    geo:asWKT "POINT(-71.0334404 42.3162319)"^^geo:wktLiteral .
+
+poi_data:00226 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Frederick Douglass Square Historic District" ;
+    geo:asWKT "POINT(-71.0837933 42.3361432)"^^geo:wktLiteral .
+
+poi_data:00227 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Soldiers and Sailors Monument" ;
+    geo:asWKT "POINT(-71.0599882 42.3744349)"^^geo:wktLiteral .
+
+poi_data:00228 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Central Library in Copley Square" ;
+    geo:asWKT "POINT(-71.0792487 42.3494629)"^^geo:wktLiteral .
+
+poi_data:00229 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Police Memorial" ;
+    geo:asWKT "POINT(-71.0901404 42.3348576)"^^geo:wktLiteral .
+
+poi_data:00230 a schema:Museum ;
+    rdfs:label "Maritime Museum at Battery Wharf" ;
+    geo:asWKT "POINT(-71.0511564 42.3670381)"^^geo:wktLiteral .
+
+poi_data:00231 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Winthrop" ;
+    schema:url <https://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=ariall&source=~!siartinventories&uri=full=3100001~!299655~!0#focus> ;
+    geo:asWKT "POINT(-71.0749789 42.3537741)"^^geo:wktLiteral .
+
+poi_data:00232 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ted Williams Tunnel" ;
+    schema:url <https://www.skylightstudiosinc.com/project/ted-williams-tunnel-heroic-portrait-plaques/> ;
+    geo:asWKT "POINT(-71.0377579 42.3467284)"^^geo:wktLiteral .
+
+poi_data:00233 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Graphic Arts Building" ;
+    schema:url <https://www.nps.gov/nr/travel/maritime/rus.htm> ;
+    geo:asWKT "POINT(-71.0529583 42.3532449)"^^geo:wktLiteral .
+
+poi_data:00234 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Wharf Co. Sign" ;
+    geo:asWKT "POINT(-71.0509096 42.3502669)"^^geo:wktLiteral .
+
+poi_data:00235 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Royal Navy Plaque" ;
+    geo:asWKT "POINT(-71.0684009 42.3545707)"^^geo:wktLiteral .
+
+poi_data:00236 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William F. Callahan Jr." ;
+    geo:asWKT "POINT(-71.054681 42.3620718)"^^geo:wktLiteral .
+
+poi_data:00237 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Waterfront Park" ;
+    geo:asWKT "POINT(-71.051313 42.3614205)"^^geo:wktLiteral .
+
+poi_data:00238 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "MDC Centennial Memorial" ;
+    geo:asWKT "POINT(-71.0795997 42.3547481)"^^geo:wktLiteral .
+
+poi_data:00239 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Oneida Tablet" ;
+    schema:url <https://soccerhistoryusa.org/episode-notes/the-oneida-football-club/> ;
+    geo:asWKT "POINT(-71.0671781 42.356232)"^^geo:wktLiteral .
+
+poi_data:00240 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "IEEE Milestone" ;
+    schema:url <https://ethw.org/Milestones:Power_System_of_Boston%27s_Rapid_Transit,_1889> ;
+    geo:asWKT "POINT(-71.0625026 42.3564683)"^^geo:wktLiteral .
+
+poi_data:00241 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Anna DeFronzo" ;
+    geo:asWKT "POINT(-71.0283004 42.3654341)"^^geo:wktLiteral .
+
+poi_data:00242 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Billings" ;
+    schema:url <https://www.findagrave.com/memorial/6686735/william-billings> ;
+    geo:asWKT "POINT(-71.0656941 42.3525974)"^^geo:wktLiteral .
+
+poi_data:00243 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Edward A. Filene Memorial" ;
+    geo:asWKT "POINT(-71.067006 42.3526888)"^^geo:wktLiteral .
+
+poi_data:00244 a schema:Library ;
+    rdfs:label "Harvard Musical Association" ;
+    schema:url <https://hmaboston.org/> ;
+    geo:asWKT "POINT(-71.0694294 42.3572176)"^^geo:wktLiteral .
+
+poi_data:00245 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "George D. Hart Way" ;
+    geo:asWKT "POINT(-71.1035425 42.3507247)"^^geo:wktLiteral .
+
+poi_data:00246 a schema:Library ;
+    rdfs:label "South Boston Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.038751 42.3358202)"^^geo:wktLiteral .
+
+poi_data:00247 a schema:Library ;
+    rdfs:label "Massachusetts State Archives" ;
+    schema:url <https://www.sec.state.ma.us/arc> ;
+    geo:asWKT "POINT(-71.0348135 42.3139767)"^^geo:wktLiteral .
+
+poi_data:00248 a schema:Library ;
+    rdfs:label "Uphams Corner Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.067633 42.3147979)"^^geo:wktLiteral .
+
+poi_data:00249 a schema:Library ;
+    rdfs:label "Parker Hill Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.0990632 42.3324772)"^^geo:wktLiteral .
+
+poi_data:00250 a schema:Library ;
+    rdfs:label "Codman Square Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.0708517 42.2875284)"^^geo:wktLiteral .
+
+poi_data:00251 a schema:Library ;
+    rdfs:label "Roslindale Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.1285567 42.2855958)"^^geo:wktLiteral .
+
+poi_data:00252 a schema:Library ;
+    rdfs:label "West Roxbury Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.1574253 42.2833892)"^^geo:wktLiteral .
+
+poi_data:00253 a schema:Library ;
+    rdfs:label "Brighton Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.1527181 42.3475587)"^^geo:wktLiteral .
+
+poi_data:00254 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Christopher Weigl" ;
+    geo:asWKT "POINT(-71.1151965 42.3512164)"^^geo:wktLiteral .
+
+poi_data:00255 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Free at Last" ;
+    geo:asWKT "POINT(-71.1065625 42.3503524)"^^geo:wktLiteral .
+
+poi_data:00256 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Joseph P. Golden Memorial" ;
+    geo:asWKT "POINT(-71.136622 42.3537142)"^^geo:wktLiteral .
+
+poi_data:00257 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Birthplace of the Telephone" ;
+    geo:asWKT "POINT(-71.0601705 42.360634)"^^geo:wktLiteral .
+
+poi_data:00258 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Aerosmith Apartment" ;
+    schema:url <https://www.mmone.org/aerosmith-apartment/> ;
+    geo:asWKT "POINT(-71.135554 42.3485202)"^^geo:wktLiteral .
+
+poi_data:00259 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ghost bike - George Clemmer" ;
+    geo:asWKT "POINT(-71.0847958 42.3428104)"^^geo:wktLiteral .
+
+poi_data:00260 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Tadeausz Kosciuszko Memorial" ;
+    geo:asWKT "POINT(-71.051267 42.3217256)"^^geo:wktLiteral .
+
+poi_data:00261 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Embrace" ;
+    geo:asWKT "POINT(-71.0643675 42.354944)"^^geo:wktLiteral .
+
+poi_data:00262 a schema:Library ;
+    rdfs:label "Children's Hospital Library" ;
+    geo:asWKT "POINT(-71.1051713 42.3367177)"^^geo:wktLiteral .
+
+poi_data:00263 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Sergeant Richard F. Halloran" ;
+    geo:asWKT "POINT(-71.0257601 42.380061)"^^geo:wktLiteral .
+
+poi_data:00264 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "100 Franklin Street" ;
+    geo:asWKT "POINT(-71.0574036 42.3557171)"^^geo:wktLiteral .
+
+poi_data:00265 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ghost bike - Paula Sharaga" ;
+    geo:asWKT "POINT(-71.1028623 42.3433236)"^^geo:wktLiteral .
+
+poi_data:00266 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ghost bike - Anita Kurmann" ;
+    geo:asWKT "POINT(-71.0896566 42.3509256)"^^geo:wktLiteral .
+
+poi_data:00267 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ghost bike - Christopher Weigl" ;
+    geo:asWKT "POINT(-71.1162421 42.3510401)"^^geo:wktLiteral .
+
+poi_data:00268 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Police Superior Officers Federation Memorial" ;
+    geo:asWKT "POINT(-71.0451562 42.2851768)"^^geo:wktLiteral .
+
+poi_data:00269 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Kahil Gibran Memorial" ;
+    geo:asWKT "POINT(-71.0770238 42.3498384)"^^geo:wktLiteral .
+
+poi_data:00270 a schema:Library ;
+    rdfs:label "Lower Mills Branch Library" ;
+    schema:url <https://www.bpl.org/locations/lower-mills/> ;
+    geo:asWKT "POINT(-71.0684432 42.2734109)"^^geo:wktLiteral .
+
+poi_data:00271 a schema:Museum ;
+    rdfs:label "Museum of Science" ;
+    geo:asWKT "POINT(-71.07095248167273 42.36739870548365)"^^geo:wktLiteral .
+
+poi_data:00272 a schema:Library ;
+    rdfs:label "Wheelock College Library" ;
+    geo:asWKT "POINT(-71.104691165102 42.343126667832195)"^^geo:wktLiteral .
+
+poi_data:00273 a schema:Museum ;
+    rdfs:label "The Battle of Bunker Hill Museum" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/bhmuseum.htm> ;
+    geo:asWKT "POINT(-71.06142540537674 42.37559324428314)"^^geo:wktLiteral .
+
+poi_data:00274 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "MGH Institute of Health Professions" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05395075 42.3749581)"^^geo:wktLiteral .
+
+poi_data:00275 a schema:Museum ;
+    rdfs:label "USS Constitution Museum" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.0553961737759 42.37397092004876)"^^geo:wktLiteral .
+
+poi_data:00276 a schema:Museum ;
+    rdfs:label "Pierce House" ;
+    schema:url <https://www.historicnewengland.org/property/pierce-house/> ;
+    geo:asWKT "POINT(-71.05334895 42.2868938)"^^geo:wktLiteral .
+
+poi_data:00277 a schema:Museum ;
+    rdfs:label "Dillaway-Thomas House" ;
+    schema:url <https://www.mass.gov/locations/roxbury-heritage-state-park> ;
+    geo:asWKT "POINT(-71.0907093943004 42.330576378338186)"^^geo:wktLiteral .
+
+poi_data:00278 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Alvah Kittredge House" ;
+    geo:asWKT "POINT(-71.09298611664953 42.32776963953109)"^^geo:wktLiteral .
+
+poi_data:00279 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Faneuil Hall" ;
+    schema:url <http://www.faneuilhall.com/> ;
+    geo:asWKT "POINT(-71.05623415 42.36003349999999)"^^geo:wktLiteral .
+
+poi_data:00280 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jordan Hall Building" ;
+    geo:asWKT "POINT(-71.08637648253949 42.34092143078306)"^^geo:wktLiteral .
+
+poi_data:00281 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Kings Chapel" ;
+    geo:asWKT "POINT(-71.06003006921462 42.358034856157374)"^^geo:wktLiteral .
+
+poi_data:00282 a schema:Museum ;
+    rdfs:label "Shirley-Eustis House" ;
+    schema:url <https://www.shirleyeustishouse.org/> ;
+    geo:asWKT "POINT(-71.07177868551864 42.32352083862167)"^^geo:wktLiteral .
+
+poi_data:00283 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Malcolm X – Ella Little-Collins House" ;
+    geo:asWKT "POINT(-71.08644682244325 42.32139109877791)"^^geo:wktLiteral .
+
+poi_data:00284 a schema:Library ;
+    rdfs:label "Snell Library" ;
+    schema:url <https://library.northeastern.edu/> ;
+    geo:asWKT "POINT(-71.08798018290022 42.33837667052442)"^^geo:wktLiteral .
+
+poi_data:00285 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charles Street Meeting House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/charles-street-meeting-house.htm> ;
+    geo:asWKT "POINT(-71.07064302633268 42.35790735014503)"^^geo:wktLiteral .
+
+poi_data:00286 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Flour and Grain Exchange Building" ;
+    geo:asWKT "POINT(-71.05252764874176 42.35838213133053)"^^geo:wktLiteral .
+
+poi_data:00287 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Quincy Market" ;
+    geo:asWKT "POINT(-71.05480348975038 42.36021732634205)"^^geo:wktLiteral .
+
+poi_data:00288 a schema:Library ;
+    rdfs:label "Roxbury Branch of the Boston Public Library" ;
+    geo:asWKT "POINT(-71.0836003172527 42.328053631305366)"^^geo:wktLiteral .
+
+poi_data:00289 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Parkman Bandstand" ;
+    geo:asWKT "POINT(-71.0655050829849 42.35434338131694)"^^geo:wktLiteral .
+
+poi_data:00290 a schema:Library ;
+    rdfs:label "Boston Public Library - Hyde Park Branch" ;
+    geo:asWKT "POINT(-71.12207897348814 42.25699284577311)"^^geo:wktLiteral .
+
+poi_data:00291 a schema:Library ;
+    rdfs:label "Cardinal Cushing Library" ;
+    geo:asWKT "POINT(-71.10162861685802 42.340397397987)"^^geo:wktLiteral .
+
+poi_data:00292 a schema:Library ;
+    rdfs:label "Connolly Branch Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.111102051619 42.32064656247503)"^^geo:wktLiteral .
+
+poi_data:00293 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Old City Hall" ;
+    geo:asWKT "POINT(-71.05933208397087 42.358109332549624)"^^geo:wktLiteral .
+
+poi_data:00294 a schema:Museum ;
+    rdfs:label "Old State House" ;
+    schema:url <https://revolutionaryspaces.org/> ;
+    geo:asWKT "POINT(-71.05746791669446 42.35873041760332)"^^geo:wktLiteral .
+
+poi_data:00295 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Custom House Block" ;
+    geo:asWKT "POINT(-71.04883562120703 42.36025513783149)"^^geo:wktLiteral .
+
+poi_data:00296 a schema:Museum ;
+    rdfs:label "Old South Meeting Place" ;
+    geo:asWKT "POINT(-71.05837578236795 42.35699003706158)"^^geo:wktLiteral .
+
+poi_data:00297 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Chart House" ;
+    geo:asWKT "POINT(-71.04950188793353 42.36017249399373)"^^geo:wktLiteral .
+
+poi_data:00298 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Donald McKay House" ;
+    geo:asWKT "POINT(-71.03656506102756 42.38080059383442)"^^geo:wktLiteral .
+
+poi_data:00299 a schema:Library ;
+    rdfs:label "Boston Public Library: Egleston Square Branch" ;
+    geo:asWKT "POINT(-71.09571661776901 42.31410610352797)"^^geo:wktLiteral .
+
+poi_data:00300 a schema:Museum ;
+    rdfs:label "McMullen Museum of Art" ;
+    geo:asWKT "POINT(-71.16262019717287 42.34074486376343)"^^geo:wktLiteral .
+
+poi_data:00301 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Rope Walk" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05439353523062 42.376700350689276)"^^geo:wktLiteral .
+
+poi_data:00302 a schema:Library ;
+    rdfs:label "Adams Street Branch Library" ;
+    schema:url <https://www.bpl.org/locations/13/> ;
+    geo:asWKT "POINT(-71.0543850578894 42.28624840009059)"^^geo:wktLiteral .
+
+poi_data:00303 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Dearborn School" ;
+    geo:asWKT "POINT(-71.07770755492909 42.329672962741796)"^^geo:wktLiteral .
+
+poi_data:00304 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Monroe Trotter House" ;
+    geo:asWKT "POINT(-71.06277766722572 42.313022671330764)"^^geo:wktLiteral .
+
+poi_data:00305 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Old North Church" ;
+    geo:asWKT "POINT(-71.05445701790093 42.36631992653938)"^^geo:wktLiteral .
+
+poi_data:00306 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "5 Post Office Square" ;
+    geo:asWKT "POINT(-71.05686687468186 42.357177585840525)"^^geo:wktLiteral .
+
+poi_data:00307 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Orpheum Theatre" ;
+    geo:asWKT "POINT(-71.06080854791702 42.356228350160016)"^^geo:wktLiteral .
+
+poi_data:00308 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Parkside" ;
+    geo:asWKT "POINT(-71.06382346912464 42.353679354369184)"^^geo:wktLiteral .
+
+poi_data:00309 a schema:Library ;
+    rdfs:label "South End Branch - Boston Public Library" ;
+    geo:asWKT "POINT(-71.07696236205358 42.34140142404211)"^^geo:wktLiteral .
+
+poi_data:00310 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Trinity Neighborhood House" ;
+    geo:asWKT "POINT(-71.03953296015628 42.38027370652131)"^^geo:wktLiteral .
+
+poi_data:00311 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "East Boston Head Start & Children's Services" ;
+    schema:url <https://bostonabcd.org/location/east-boston-head-start/> ;
+    geo:asWKT "POINT(-71.03690201021227 42.37817276111652)"^^geo:wktLiteral .
+
+poi_data:00312 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "East Boston Public Library Building" ;
+    geo:asWKT "POINT(-71.03944488087207 42.376546799522814)"^^geo:wktLiteral .
+
+poi_data:00313 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Building #39" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05191639619916 42.376819199562874)"^^geo:wktLiteral .
+
+poi_data:00314 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Traffic Tunnel Administration Building" ;
+    schema:url <https://www.encirclephotos.com/image/traffic-tunnel-administration-building-in-boston-massachusetts/> ;
+    geo:asWKT "POINT(-71.05468304627816 42.36265718315815)"^^geo:wktLiteral .
+
+poi_data:00315 a schema:Museum ;
+    rdfs:label "National Center of Afro-American Artists (NCAAA) Museum" ;
+    schema:url <http://ncaaa.org/visit/> ;
+    geo:asWKT "POINT(-71.09237712800959 42.31637240456114)"^^geo:wktLiteral .
+
+poi_data:00316 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charlestown Navy Yard Visitor Center" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05688999226409 42.373092780867665)"^^geo:wktLiteral .
+
+poi_data:00317 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Walter Street Burying Ground" ;
+    geo:asWKT "POINT(-71.13004500339277 42.29306683841255)"^^geo:wktLiteral .
+
+poi_data:00318 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Phillips School" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/the-phillips-school.htm> ;
+    geo:asWKT "POINT(-71.06787813089332 42.358973391012505)"^^geo:wktLiteral .
+
+poi_data:00319 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Saint Marys Cemetery" ;
+    geo:asWKT "POINT(-71.08020508544283 42.29019825069078)"^^geo:wktLiteral .
+
+poi_data:00320 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Oaklawn Cemetery" ;
+    geo:asWKT "POINT(-71.1133605852576 42.273846882742696)"^^geo:wktLiteral .
+
+poi_data:00321 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Essex Square" ;
+    geo:asWKT "POINT(-71.07043 42.3793918)"^^geo:wktLiteral .
+
+poi_data:00322 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Marine Barracks" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05641702752338 42.37490615238897)"^^geo:wktLiteral .
+
+poi_data:00323 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Commandant's House" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05708800210574 42.37448169921297)"^^geo:wktLiteral .
+
+poi_data:00324 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Chapman House" ;
+    geo:asWKT "POINT(-71.03701097286739 42.37920528686151)"^^geo:wktLiteral .
+
+poi_data:00325 a schema:Library ;
+    rdfs:label "Boston College Theology and Ministry Library" ;
+    geo:asWKT "POINT(-71.16363715 42.342892500000005)"^^geo:wktLiteral .
+
+poi_data:00326 a schema:Library ;
+    rdfs:label "Frances A. Countway Library of Medicine" ;
+    geo:asWKT "POINT(-71.10366982344017 42.335138223789286)"^^geo:wktLiteral .
+
+poi_data:00327 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bricklayers Building 104" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05115278332147 42.376486347389154)"^^geo:wktLiteral .
+
+poi_data:00328 a schema:Museum ;
+    rdfs:label "Loring-Greenough House" ;
+    schema:url <https://loring-greenough.org/> ;
+    geo:asWKT "POINT(-71.11493556024803 42.30956571386856)"^^geo:wktLiteral .
+
+poi_data:00329 a schema:Museum ;
+    rdfs:label "Otis House Museum" ;
+    geo:asWKT "POINT(-71.06456272182848 42.361541959851024)"^^geo:wktLiteral .
+
+poi_data:00330 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Zakrzewska Building" ;
+    geo:asWKT "POINT(-71.09698096608521 42.319278849521794)"^^geo:wktLiteral .
+
+poi_data:00331 a schema:Library ;
+    rdfs:label "Faneuil Branch of the Boston Public Library" ;
+    schema:url <https://www.bpl.org/> ;
+    geo:asWKT "POINT(-71.1678632411856 42.35134448727899)"^^geo:wktLiteral .
+
+poi_data:00332 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Eliot Cemetery" ;
+    geo:asWKT "POINT(-71.08115157998877 42.33194786450815)"^^geo:wktLiteral .
+
+poi_data:00333 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Angell Memorial Square" ;
+    geo:asWKT "POINT(-71.05612832436738 42.3570531175481)"^^geo:wktLiteral .
+
+poi_data:00334 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Saint James the Apostle Cemetery" ;
+    geo:asWKT "POINT(-71.17436763018137 42.285358097468)"^^geo:wktLiteral .
+
+poi_data:00335 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Kings Chapel Burying Ground" ;
+    geo:asWKT "POINT(-71.05982900124026 42.35827331096981)"^^geo:wktLiteral .
+
+poi_data:00336 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Wolcott Sq" ;
+    geo:asWKT "POINT(-71.13244042045402 42.23743207065182)"^^geo:wktLiteral .
+
+poi_data:00337 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fairview Cemetery" ;
+    geo:asWKT "POINT(-71.14185328557903 42.24696550091188)"^^geo:wktLiteral .
+
+poi_data:00338 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Camp Meigs Playground" ;
+    geo:asWKT "POINT(-71.13190019411307 42.234804679697426)"^^geo:wktLiteral .
+
+poi_data:00339 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Phipps Street Cemetery" ;
+    geo:asWKT "POINT(-71.06770501507128 42.376276474481166)"^^geo:wktLiteral .
+
+poi_data:00340 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Irish Famine Memorial" ;
+    geo:asWKT "POINT(-71.0586578533742 42.35734000600378)"^^geo:wktLiteral .
+
+poi_data:00341 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "St Francis De Sales Cemetery" ;
+    geo:asWKT "POINT(-71.06573402293502 42.381588420967084)"^^geo:wktLiteral .
+
+poi_data:00342 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "New Calvary Cemetery" ;
+    geo:asWKT "POINT(-71.103121987895 42.27941777211346)"^^geo:wktLiteral .
+
+poi_data:00343 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "South End South Burying Ground" ;
+    geo:asWKT "POINT(-71.07394981103214 42.33795321413169)"^^geo:wktLiteral .
+
+poi_data:00344 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Flagship Wharf" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05197887869663 42.373419453416965)"^^geo:wktLiteral .
+
+poi_data:00345 a schema:Library ;
+    rdfs:label "Boston Public Library Jamaica Plain Branch" ;
+    schema:url <https://www.bpl.org/locations/jamaica-plain/> ;
+    geo:asWKT "POINT(-71.11491060057234 42.30864705631044)"^^geo:wktLiteral .
+
+poi_data:00346 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "North Square" ;
+    geo:asWKT "POINT(-71.05339960074056 42.363869734133466)"^^geo:wktLiteral .
+
+poi_data:00347 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cunningham Park" ;
+    geo:asWKT "POINT(-71.14774386666667 42.35013476666666)"^^geo:wktLiteral .
+
+poi_data:00348 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Westerly Cemetery" ;
+    geo:asWKT "POINT(-71.15878768608255 42.28151930213099)"^^geo:wktLiteral .
+
+poi_data:00349 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jenny Plaza" ;
+    geo:asWKT "POINT(-71.05328954431891 42.35869887052431)"^^geo:wktLiteral .
+
+poi_data:00350 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Savage Mini Park" ;
+    geo:asWKT "POINT(-71.12982438038918 42.28705114282018)"^^geo:wktLiteral .
+
+poi_data:00351 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Centre Street Memorial Park Cemeteries" ;
+    geo:asWKT "POINT(-71.16488989703686 42.260025686091666)"^^geo:wktLiteral .
+
+poi_data:00352 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cardinal Cushing Memorial Park" ;
+    geo:asWKT "POINT(-71.06228362046578 42.36148972572268)"^^geo:wktLiteral .
+
+poi_data:00353 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Thomas Park" ;
+    geo:asWKT "POINT(-71.04614439130651 42.332868726820756)"^^geo:wktLiteral .
+
+poi_data:00354 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Calvary Cemetery" ;
+    geo:asWKT "POINT(-71.11086484084025 42.277407708091694)"^^geo:wktLiteral .
+
+poi_data:00355 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "James F. Collins Square" ;
+    geo:asWKT "POINT(-71.13327246666667 42.359510699999994)"^^geo:wktLiteral .
+
+poi_data:00356 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Evergreen Cemetery" ;
+    geo:asWKT "POINT(-71.16273437141885 42.3387083024671)"^^geo:wktLiteral .
+
+poi_data:00357 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charlestown Marina" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05010804791297 42.37613070891929)"^^geo:wktLiteral .
+
+poi_data:00358 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Dorchester South Cemetery" ;
+    geo:asWKT "POINT(-71.06706995720333 42.27858058866644)"^^geo:wktLiteral .
+
+poi_data:00359 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Curley Memorial Plaza" ;
+    geo:asWKT "POINT(-71.05701354264788 42.360543202534494)"^^geo:wktLiteral .
+
+poi_data:00360 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jackson Square" ;
+    geo:asWKT "POINT(-71.15273201088206 42.345994819267936)"^^geo:wktLiteral .
+
+poi_data:00361 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "City Square Park" ;
+    geo:asWKT "POINT(-71.06189599040475 42.371680546238764)"^^geo:wktLiteral .
+
+poi_data:00362 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Copp's Hill Burying Ground" ;
+    geo:asWKT "POINT(-71.05585876087854 42.36730667931695)"^^geo:wktLiteral .
+
+poi_data:00363 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Temple Ohabei Shalom Cemetery" ;
+    geo:asWKT "POINT(-71.01492058501883 42.38246731836465)"^^geo:wktLiteral .
+
+poi_data:00364 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charlestown Navy Park" ;
+    geo:asWKT "POINT(-71.05612110364584 42.373422026846086)"^^geo:wktLiteral .
+
+poi_data:00365 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Market St Cemetery" ;
+    geo:asWKT "POINT(-71.15229042347809 42.35043358278524)"^^geo:wktLiteral .
+
+poi_data:00366 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Calf Pasture Pumping Station" ;
+    geo:asWKT "POINT(-71.03750540508939 42.31597781032394)"^^geo:wktLiteral .
+
+poi_data:00367 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Basilica" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05051369136912 42.377670732249214)"^^geo:wktLiteral .
+
+poi_data:00368 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Baker Street Memorial Park" ;
+    geo:asWKT "POINT(-71.18035331143112 42.290459169299005)"^^geo:wktLiteral .
+
+poi_data:00369 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Jeshurun Street Cemeteries" ;
+    geo:asWKT "POINT(-71.15358714372005 42.25919277527715)"^^geo:wktLiteral .
+
+poi_data:00370 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "North Dorchester Cemetery" ;
+    geo:asWKT "POINT(-71.0636148097782 42.31717204543177)"^^geo:wktLiteral .
+
+poi_data:00371 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Granary Burying Ground" ;
+    geo:asWKT "POINT(-71.06176222695493 42.35740670628421)"^^geo:wktLiteral .
+
+poi_data:00372 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Codman Burial Ground" ;
+    geo:asWKT "POINT(-71.07468423738803 42.289385158988885)"^^geo:wktLiteral .
+
+poi_data:00373 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bennington Street Cemetery" ;
+    geo:asWKT "POINT(-71.02099460232994 42.38095236720501)"^^geo:wktLiteral .
+
+poi_data:00374 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bunker Hill Cemetery" ;
+    geo:asWKT "POINT(-71.06177796052819 42.379389679980186)"^^geo:wktLiteral .
+
+poi_data:00375 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Timothy Hoxie House" ;
+    geo:asWKT "POINT(-71.10541808519518 42.33124823589666)"^^geo:wktLiteral .
+
+poi_data:00376 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bellevue Standpipe" ;
+    geo:asWKT "POINT(-71.14372297352367 42.27555642067055)"^^geo:wktLiteral .
+
+poi_data:00377 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Francis D. Martini Memorial Shell" ;
+    geo:asWKT "POINT(-71.12736507185457 42.24311114760593)"^^geo:wktLiteral .
+
+poi_data:00378 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "401 Park" ;
+    schema:url <https://401park.com/> ;
+    geo:asWKT "POINT(-71.10266896014627 42.34457635880274)"^^geo:wktLiteral .
+
+poi_data:00379 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Hoosac Stores" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05785301896897 42.372525883172386)"^^geo:wktLiteral .
+
+poi_data:00380 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Water Intake Structure" ;
+    geo:asWKT "POINT(-71.0530958645068 42.34793897371989)"^^geo:wktLiteral .
+
+poi_data:00381 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Lloyd Garrison School" ;
+    geo:asWKT "POINT(-71.0887816233728 42.30928293163797)"^^geo:wktLiteral .
+
+poi_data:00382 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Old City Hall Grounds" ;
+    geo:asWKT "POINT(-71.05955750340627 42.35790988093005)"^^geo:wktLiteral .
+
+poi_data:00383 a schema:Library ;
+    rdfs:label "Healey Library" ;
+    geo:asWKT "POINT(-71.039738450724 42.31348354264473)"^^geo:wktLiteral .
+
+poi_data:00384 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Grace Federated Church" ;
+    geo:asWKT "POINT(-71.01713413273333 42.38396605775188)"^^geo:wktLiteral .
+
+poi_data:00385 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Noble House" ;
+    geo:asWKT "POINT(-71.02801139253401 42.38028028162412)"^^geo:wktLiteral .
+
+poi_data:00386 a schema:Library ;
+    rdfs:label "Baker Library / Bloomberg Center" ;
+    geo:asWKT "POINT(-71.12279380569021 42.36641957010304)"^^geo:wktLiteral .
+
+poi_data:00387 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fort Standish" ;
+    geo:asWKT "POINT(-70.92758049463174 42.32944811773613)"^^geo:wktLiteral .
+
+poi_data:00388 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Opera House" ;
+    schema:url <https://www.bostonoperahouse.com/> ;
+    geo:asWKT "POINT(-71.06281978137048 42.35418409827638)"^^geo:wktLiteral .
+
+poi_data:00389 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Paramount Theatre" ;
+    schema:url <https://artsemerson.org/Online/> ;
+    geo:asWKT "POINT(-71.06269900096713 42.35374420801)"^^geo:wktLiteral .
+
+poi_data:00390 a schema:Museum ;
+    rdfs:label "The Institute of Contemporary Art" ;
+    schema:url <https://www.icaboston.org/> ;
+    geo:asWKT "POINT(-71.04296280000001 42.352865050000005)"^^geo:wktLiteral .
+
+poi_data:00391 a schema:Library ;
+    rdfs:label "Mugar Memorial Library" ;
+    schema:url <https://www.bu.edu/library/mugar-memorial/> ;
+    geo:asWKT "POINT(-71.10800881015733 42.35102988317647)"^^geo:wktLiteral .
+
+poi_data:00392 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "New England Holocaust Memorial" ;
+    schema:url <https://www.nehm.org/> ;
+    geo:asWKT "POINT(-71.05728160327199 42.361279661652084)"^^geo:wktLiteral .
+
+poi_data:00393 a schema:Museum ;
+    rdfs:label "Paul S. Russell, MD Museum of Medical History and Innovation" ;
+    schema:url <https://www.massgeneral.org/museum> ;
+    geo:asWKT "POINT(-71.06910295657825 42.3613224438465)"^^geo:wktLiteral .
+
+poi_data:00394 a schema:Museum ;
+    rdfs:label "USS Constitution" ;
+    geo:asWKT "POINT(-71.05655845766259 42.372444952648834)"^^geo:wktLiteral .
+
+poi_data:00395 a schema:Museum ;
+    rdfs:label "USS Cassin Young" ;
+    geo:asWKT "POINT(-71.05443440860891 42.37217769826318)"^^geo:wktLiteral .
+
+poi_data:00396 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cyclorama Building" ;
+    geo:asWKT "POINT(-71.0713920335797 42.34469169222514)"^^geo:wktLiteral .
+
+poi_data:00397 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Powder House" ;
+    geo:asWKT "POINT(-70.92767690640484 42.31996187914409)"^^geo:wktLiteral .
+
+poi_data:00398 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fort Warren" ;
+    geo:asWKT "POINT(-70.92829784841982 42.32092803313329)"^^geo:wktLiteral .
+
+poi_data:00399 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Courageous Sailing" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/cny.htm> ;
+    geo:asWKT "POINT(-71.05136706530975 42.37195732000108)"^^geo:wktLiteral .
+
+poi_data:00400 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Chinatown Gate" ;
+    schema:url <http://www.thehendersonfoundation.com/gateway_light_installation.htm> ;
+    geo:asWKT "POINT(-71.05975263384597 42.351186915678134)"^^geo:wktLiteral .
+
+poi_data:00401 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bunker Hill Monument" ;
+    schema:url <https://www.nps.gov/bost/learn/historyculture/bhm.htm> ;
+    geo:asWKT "POINT(-71.06076735556766 42.37635228638148)"^^geo:wktLiteral .
+
+poi_data:00402 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Mount Calvary Church" ;
+    geo:asWKT "POINT(-71.0738711673061 42.290620199445996)"^^geo:wktLiteral .
+
+poi_data:00403 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cutler Majestic Theater" ;
+    geo:asWKT "POINT(-71.06512512545115 42.35154127235875)"^^geo:wktLiteral .
+
+poi_data:00404 a schema:Library ;
+    rdfs:label "John F. Kennedy Presidential Library and Museum" ;
+    schema:url <https://www.jfklibrary.org/> ;
+    geo:asWKT "POINT(-71.03398676506205 42.31621330309651)"^^geo:wktLiteral .
+
+poi_data:00405 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Veterans Memorial" ;
+    geo:asWKT "POINT(-71.08948555602113 42.33772635869659)"^^geo:wktLiteral .
+
+poi_data:00406 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Old Corner Bookstore Building" ;
+    geo:asWKT "POINT(-71.05841825903798 42.357540908149595)"^^geo:wktLiteral .
+
+poi_data:00407 a schema:Museum ;
+    rdfs:label "Paul Revere House" ;
+    schema:url <https://www.paulreverehouse.org> ;
+    geo:asWKT "POINT(-71.0536899675414 42.363734538986854)"^^geo:wktLiteral .
+
+poi_data:00408 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Modern Theatre Residence Hall" ;
+    geo:asWKT "POINT(-71.06207511293304 42.35428588001183)"^^geo:wktLiteral .
+
+poi_data:00409 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ozias Goodwin House" ;
+    geo:asWKT "POINT(-71.05498560597097 42.36765446925455)"^^geo:wktLiteral .
+
+poi_data:00410 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Dorchester Heights National Historic Site" ;
+    geo:asWKT "POINT(-71.04577968615439 42.332874018800624)"^^geo:wktLiteral .
+
+poi_data:00411 a schema:Library ;
+    rdfs:label "East Boston Branch Library" ;
+    geo:asWKT "POINT(-71.02804339714064 42.377787463125145)"^^geo:wktLiteral .
+
+poi_data:00412 a schema:Library ;
+    rdfs:label "West End Branch Boston Public Library" ;
+    geo:asWKT "POINT(-71.06502057897461 42.361538220454726)"^^geo:wktLiteral .
+
+poi_data:00413 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Hooper Mansion" ;
+    schema:url <https://www.hacin.com/portfolio/hooper-mansion/> ;
+    geo:asWKT "POINT(-71.08729960274151 42.35170216862652)"^^geo:wktLiteral .
+
+poi_data:00414 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Charlesgate" ;
+    geo:asWKT "POINT(-71.09133160849996 42.35011418142883)"^^geo:wktLiteral .
+
+poi_data:00415 a schema:Library ;
+    rdfs:label "French Cultural Center" ;
+    schema:url <https://frenchculturalcenter.org/> ;
+    geo:asWKT "POINT(-71.07474136984186 42.35412491915927)"^^geo:wktLiteral .
+
+poi_data:00416 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cushing-Endicott House" ;
+    geo:asWKT "POINT(-71.07915178134412 42.35293953670029)"^^geo:wktLiteral .
+
+poi_data:00417 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John F. Andrew House" ;
+    schema:url <https://backbayhouses.org/32-hereford/> ;
+    geo:asWKT "POINT(-71.08613763303799 42.35020854776878)"^^geo:wktLiteral .
+
+poi_data:00418 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Ayer Mansion" ;
+    schema:url <https://www.ayermansion.org/> ;
+    geo:asWKT "POINT(-71.09031046338951 42.34951175181164)"^^geo:wktLiteral .
+
+poi_data:00419 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Hotel Agassiz" ;
+    geo:asWKT "POINT(-71.08027172007274 42.35180281476258)"^^geo:wktLiteral .
+
+poi_data:00420 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Louisa Holman Fisk House" ;
+    schema:url <https://www.bu.edu/womensguild/scholarships-awards/fisk-house/> ;
+    geo:asWKT "POINT(-71.07755355788393 42.35160078701965)"^^geo:wktLiteral .
+
+poi_data:00421 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Guildford Hall" ;
+    geo:asWKT "POINT(-71.07564993141705 42.35122409350314)"^^geo:wktLiteral .
+
+poi_data:00422 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Lewis and Harriet Hayden House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/lewis-and-harriet-hayden-house.htm> ;
+    geo:asWKT "POINT(-71.06904387669724 42.36018549763561)"^^geo:wktLiteral .
+
+poi_data:00423 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Vilna Shul, Boston's Center for Jewish Culture" ;
+    geo:asWKT "POINT(-71.06723925822983 42.360092857908754)"^^geo:wktLiteral .
+
+poi_data:00424 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Abiel Smith School" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/abiel-smith-school.htm> ;
+    geo:asWKT "POINT(-71.06521450311837 42.359991244397236)"^^geo:wktLiteral .
+
+poi_data:00425 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William C. Nell House" ;
+    geo:asWKT "POINT(-71.06536605 42.3601445)"^^geo:wktLiteral .
+
+poi_data:00426 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "African Meeting House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/amh.htm> ;
+    geo:asWKT "POINT(-71.06546894918594 42.35995442342019)"^^geo:wktLiteral .
+
+poi_data:00427 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Coburn House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/john-coburn-house.htm> ;
+    geo:asWKT "POINT(-71.06648705 42.36023049999999)"^^geo:wktLiteral .
+
+poi_data:00428 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Nichols House" ;
+    geo:asWKT "POINT(-71.06598944518964 42.35860126514884)"^^geo:wktLiteral .
+
+poi_data:00429 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John J. Smith House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/john-j-smith-house.htm> ;
+    geo:asWKT "POINT(-71.0697070169601 42.358736813493344)"^^geo:wktLiteral .
+
+poi_data:00430 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Francis Parkman House" ;
+    geo:asWKT "POINT(-71.06858167357039 42.357156878566684)"^^geo:wktLiteral .
+
+poi_data:00431 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Colburn House" ;
+    geo:asWKT "POINT(-71.0681305469236 42.35672532077854)"^^geo:wktLiteral .
+
+poi_data:00432 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Sunflower Castle" ;
+    geo:asWKT "POINT(-71.07078974766166 42.35758868341653)"^^geo:wktLiteral .
+
+poi_data:00433 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "UBC Clubhouse" ;
+    schema:url <https://pauli-uribe.com/portfolios/institutional-commercial/union-boat-club-boston-ma> ;
+    geo:asWKT "POINT(-71.07280003453087 42.35621573718106)"^^geo:wktLiteral .
+
+poi_data:00434 a schema:Museum ;
+    rdfs:label "William Hickling Prescott House" ;
+    schema:url <https://nscdama.org/william-hickling-prescott-house/> ;
+    geo:asWKT "POINT(-71.06824135913293 42.356718504468304)"^^geo:wktLiteral .
+
+poi_data:00435 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Deutsch House" ;
+    schema:url <https://sah-archipedia.org/buildings/MA-01-BH48> ;
+    geo:asWKT "POINT(-71.07213097622143 42.35601714368369)"^^geo:wktLiteral .
+
+poi_data:00436 a schema:Library ;
+    rdfs:label "Boston Athenaeum" ;
+    schema:url <https://www.bostonathenaeum.org> ;
+    geo:asWKT "POINT(-71.06204645373623 42.35794814686723)"^^geo:wktLiteral .
+
+poi_data:00437 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Clough House" ;
+    schema:url <https://oldnorth.com/still-standing-300-years-of-the-clough-house-at-old-north/> ;
+    geo:asWKT "POINT(-71.05427722556924 42.366047902446965)"^^geo:wktLiteral .
+
+poi_data:00438 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Rachel Revere Park" ;
+    geo:asWKT "POINT(-71.05349709663702 42.36352972767719)"^^geo:wktLiteral .
+
+poi_data:00439 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Codman Building" ;
+    geo:asWKT "POINT(-71.0556964795149 42.357839402545366)"^^geo:wktLiteral .
+
+poi_data:00440 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Roxbury High Fort" ;
+    geo:asWKT "POINT(-71.09478594182956 42.32536304965179)"^^geo:wktLiteral .
+
+poi_data:00441 a schema:Library ;
+    rdfs:label "Boston Public Library Kirstein Business Branch" ;
+    geo:asWKT "POINT(-71.05887807157457 42.358118278487346)"^^geo:wktLiteral .
+
+poi_data:00442 a schema:Museum ;
+    rdfs:label "James Blake House" ;
+    geo:asWKT "POINT(-71.06002 42.319634799999996)"^^geo:wktLiteral .
+
+poi_data:00443 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Cedar Grove Cemetery" ;
+    geo:asWKT "POINT(-71.05813003065987 42.2773450123144)"^^geo:wktLiteral .
+
+poi_data:00444 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Franklin Park Overlook Shelter Ruins" ;
+    schema:url <http://www.franklinparkcoalition.org/about-franklin-park/places/overlook-shelter-ruins/> ;
+    geo:asWKT "POINT(-71.09684213245951 42.30803717531447)"^^geo:wktLiteral .
+
+poi_data:00445 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Old Bear Dens" ;
+    geo:asWKT "POINT(-71.0940992044765 42.31142052215342)"^^geo:wktLiteral .
+
+poi_data:00446 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Schoolmaster Hill" ;
+    geo:asWKT "POINT(-71.09569092861547 42.30299194458351)"^^geo:wktLiteral .
+
+poi_data:00447 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Veterans Memorial Park" ;
+    geo:asWKT "POINT(-71.09402009979743 42.34217280835951)"^^geo:wktLiteral .
+
+poi_data:00448 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "St. Leonard's Church" ;
+    geo:asWKT "POINT(-71.05425086085607 42.364775857821165)"^^geo:wktLiteral .
+
+poi_data:00449 a schema:Museum ;
+    rdfs:label "Metropolitan Waterworks Museum" ;
+    geo:asWKT "POINT(-71.15576483625166 42.33162678114332)"^^geo:wktLiteral .
+
+poi_data:00450 a schema:Museum ;
+    rdfs:label "ICA Watershed" ;
+    geo:asWKT "POINT(-71.03323298969826 42.36350021757855)"^^geo:wktLiteral .
+
+poi_data:00451 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Saint Mary's Cemetery" ;
+    geo:asWKT "POINT(-71.15591929024228 42.25948283832904)"^^geo:wktLiteral .
+
+poi_data:00452 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Adath Jeshurun Cemetery" ;
+    geo:asWKT "POINT(-71.15494623861484 42.257965410232494)"^^geo:wktLiteral .
+
+poi_data:00453 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Chinatown Archaeological Site" ;
+    geo:asWKT "POINT(-71.05980975 42.35080645)"^^geo:wktLiteral .
+
+poi_data:00454 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Graves Light" ;
+    geo:asWKT "POINT(-70.86916178740523 42.36515923186435)"^^geo:wktLiteral .
+
+poi_data:00455 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Michael S. Dukakis South Station Transportation Center" ;
+    geo:asWKT "POINT(-71.05510901605426 42.35192057532036)"^^geo:wktLiteral .
+
+poi_data:00456 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "James & Helen Storrow Memorial" ;
+    schema:url <https://www.wikiwand.com/en/James_J._and_Helen_Storrow_Memorial> ;
+    geo:asWKT "POINT(-71.0859667568636 42.35290203311571)"^^geo:wktLiteral .
+
+poi_data:00457 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Lotta Fountain" ;
+    schema:url <https://esplanade.org/projects-programs/lotta-fountain/> ;
+    geo:asWKT "POINT(-71.07622529464018 42.35549891223276)"^^geo:wktLiteral .
+
+poi_data:00458 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bulfinch Triangle" ;
+    geo:asWKT "POINT(-71.06061653917526 42.364369491658785)"^^geo:wktLiteral .
+
+poi_data:00459 a schema:Museum ;
+    rdfs:label "Museum of African American History" ;
+    schema:url <https://www.maah.org/> ;
+    geo:asWKT "POINT(-71.06536595100147 42.35996964701535)"^^geo:wktLiteral .
+
+poi_data:00460 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Garden of Remembrance" ;
+    geo:asWKT "POINT(-71.07075064719258 42.35272797260832)"^^geo:wktLiteral .
+
+poi_data:00461 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "George Middleton House" ;
+    schema:url <https://www.nps.gov/boaf/learn/historyculture/george-middleton-house.htm> ;
+    geo:asWKT "POINT(-71.06532169796893 42.35890416397008)"^^geo:wktLiteral .
+
+poi_data:00462 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Guild Steps" ;
+    geo:asWKT "POINT(-71.06504345 42.35703725)"^^geo:wktLiteral .
+
+poi_data:00463 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Copley Square Fountain" ;
+    schema:url <https://friendsofcopleysquare.org/fountian/> ;
+    geo:asWKT "POINT(-71.0761806213438 42.3501228410837)"^^geo:wktLiteral .
+
+poi_data:00464 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Bullfinch Place" ;
+    geo:asWKT "POINT(-71.06224324321686 42.359995342745215)"^^geo:wktLiteral .
+
+poi_data:00465 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Nixes Mate" ;
+    geo:asWKT "POINT(-70.94419409190337 42.33148719429179)"^^geo:wktLiteral .
+
+poi_data:00466 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Young Men's Christian Union" ;
+    geo:asWKT "POINT(-71.06386564415718 42.352001889653664)"^^geo:wktLiteral .
+
+poi_data:00467 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Fairmont Copley Plaza Hotel" ;
+    schema:url <https://www.fairmont.com/copley-plaza-boston/> ;
+    geo:asWKT "POINT(-71.07618126913087 42.34906393104284)"^^geo:wktLiteral .
+
+poi_data:00468 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "William Lloyd Garrison House" ;
+    geo:asWKT "POINT(-71.09366409625511 42.32589496857593)"^^geo:wktLiteral .
+
+poi_data:00469 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Shirley–Eustis House Grounds" ;
+    geo:asWKT "POINT(-71.07202377653032 42.323411766462534)"^^geo:wktLiteral .
+
+poi_data:00470 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Schoolmaster Hill" ;
+    geo:asWKT "POINT(-71.09588367512787 42.303001933752874)"^^geo:wktLiteral .
+
+poi_data:00471 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Union Burying Ground" ;
+    geo:asWKT "POINT(-71.03452387567083 42.3341016527682)"^^geo:wktLiteral .
+
+poi_data:00472 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Hawes Burying Ground" ;
+    geo:asWKT "POINT(-71.03452689062742 42.33430864387065)"^^geo:wktLiteral .
+
+poi_data:00473 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "9/11 Memorial" ;
+    schema:url <http://massfund.org/memorials-remembrance/boston-public-garden-memorial/> ;
+    geo:asWKT "POINT(-71.07078022889374 42.352723747334096)"^^geo:wktLiteral .
+
+poi_data:00474 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Storrow Lagoon" ;
+    geo:asWKT "POINT(-71.08055429516975 42.35465091991469)"^^geo:wktLiteral .
+
+poi_data:00475 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Boston Women's Memorial" ;
+    schema:url <https://www.boston.gov/departments/womens-advancement/boston-womens-memorial> ;
+    geo:asWKT "POINT(-71.08335985877896 42.350502085874034)"^^geo:wktLiteral .
+
+poi_data:00476 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "B.A.A. Boston Marathon" ;
+    schema:url <https://web.archive.org/web/20160126213654/http://www.publicartboston.com/content/boston-marathon-memorial> ;
+    geo:asWKT "POINT(-71.07679050014492 42.350096611662714)"^^geo:wktLiteral .
+
+poi_data:00477 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Frederick Douglass Square Historic District" ;
+    geo:asWKT "POINT(-71.08378086556938 42.33596214558419)"^^geo:wktLiteral .
+
+poi_data:00478 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Vendome Firefighters’ Memorial" ;
+    schema:url <https://friendsofthepublicgarden.org/our-parks/the-mall/> ;
+    geo:asWKT "POINT(-71.07782992378455 42.35198659413053)"^^geo:wktLiteral .
+
+poi_data:00479 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charles Eliot Memorial" ;
+    schema:url <http://www.halvorsondesign.com/charles-eliot-memorial> ;
+    geo:asWKT "POINT(-71.07306800821284 42.35948557169498)"^^geo:wktLiteral .
+
+poi_data:00480 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Brewery" ;
+    schema:url <https://jpndc.org/brewery/> ;
+    geo:asWKT "POINT(-71.10338839286493 42.31458775690076)"^^geo:wktLiteral .
+
+poi_data:00481 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Massachusetts Beirut Memorial" ;
+    schema:url <http://massbeirutmemorial.com/> ;
+    geo:asWKT "POINT(-71.0510282174537 42.361946731092424)"^^geo:wktLiteral .
+
+poi_data:00482 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Civil War Monument" ;
+    schema:url <https://macivilwarmonuments.com/2018/06/27/dorchester/> ;
+    geo:asWKT "POINT(-71.06278953615069 42.30818522421988)"^^geo:wktLiteral .
+
+poi_data:00483 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Audubon Circle" ;
+    schema:url <https://www.auduboncircle.org/> ;
+    geo:asWKT "POINT(-71.10509715791443 42.34662191611032)"^^geo:wktLiteral .
+
+poi_data:00484 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Deeb Corner" ;
+    schema:url <http://winthroptranscript.com/2020/07/23/appreciation-remembering-ernest-deeb-a-true-american-hero/> ;
+    geo:asWKT "POINT(-71.06931140525364 42.34301696442022)"^^geo:wktLiteral .
+
+poi_data:00485 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Boston Fish Pier" ;
+    geo:asWKT "POINT(-71.03834881757714 42.35066227532081)"^^geo:wktLiteral .
+
+poi_data:00486 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "NANTUCKET Lightship/LV112" ;
+    schema:url <http://www.nantucketlightshiplv-112.org/> ;
+    geo:asWKT "POINT(-71.03511601818926 42.361052196558376)"^^geo:wktLiteral .
+
+poi_data:00487 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "The Gardens Cemetery: Gethsemane" ;
+    geo:asWKT "POINT(-71.1792261076185 42.28692535076965)"^^geo:wktLiteral .
+
+poi_data:00488 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Long Wharf" ;
+    geo:asWKT "POINT(-71.04862442888869 42.360209802936026)"^^geo:wktLiteral .
+
+poi_data:00489 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Nix's Mate Daybeacon" ;
+    geo:asWKT "POINT(-70.94420008357491 42.331485748086315)"^^geo:wktLiteral .
+
+poi_data:00490 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Charlestown Navy Yard" ;
+    geo:asWKT "POINT(-71.05198496826945 42.375136915428435)"^^geo:wktLiteral .
+
+poi_data:00491 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Soldiers Monument" ;
+    geo:asWKT "POINT(-71.16208908346754 42.338551261443776)"^^geo:wktLiteral .
+
+poi_data:00492 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Monument Square" ;
+    geo:asWKT "POINT(-71.06079030173318 42.37631691527889)"^^geo:wktLiteral .
+
+poi_data:00493 a schema:Library ;
+    rdfs:label "Boston Public Library" ;
+    schema:url <https://bpl.org/> ;
+    geo:asWKT "POINT(-71.07833509652319 42.349313937385)"^^geo:wktLiteral .
+
+poi_data:00494 a schema:Museum ;
+    rdfs:label "Museum of Fine Arts" ;
+    schema:url <https://www.mfa.org/> ;
+    geo:asWKT "POINT(-71.09415061235966 42.33948594893266)"^^geo:wktLiteral .
+
+poi_data:00495 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Fort Independence" ;
+    geo:asWKT "POINT(-71.0110965405599 42.33829740262605)"^^geo:wktLiteral .
+
+poi_data:00496 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Joseph H. Barnes School" ;
+    geo:asWKT "POINT(-71.03684845813713 42.3768157317181)"^^geo:wktLiteral .
+
+poi_data:00497 a schema:Library ;
+    rdfs:label "Honan-Allston Branch Library" ;
+    geo:asWKT "POINT(-71.12794056016455 42.36015069074796)"^^geo:wktLiteral .
+
+poi_data:00498 a schema:Library ;
+    rdfs:label "Mattapan Branch of the Boston Public Library" ;
+    schema:url <https://www.bpl.org/branches/mattapan.php> ;
+    geo:asWKT "POINT(-71.09303355211605 42.27726360878738)"^^geo:wktLiteral .
+
+poi_data:00499 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "John Adams Courthouse" ;
+    geo:asWKT "POINT(-71.06111749874921 42.35921380462961)"^^geo:wktLiteral .
+
+poi_data:00500 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Saint Michael Cemetery" ;
+    geo:asWKT "POINT(-71.10972420015112 42.28815023566836)"^^geo:wktLiteral .
+
+poi_data:00501 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Forest Hills Cemetery" ;
+    geo:asWKT "POINT(-71.10643506459445 42.29450098758087)"^^geo:wktLiteral .
+
+poi_data:00502 a schema:LandmarksOrHistoricalBuildings ;
+    rdfs:label "Saint Joseph Cemetery" ;
+    geo:asWKT "POINT(-71.17446693558385 42.29324172009602)"^^geo:wktLiteral .
+

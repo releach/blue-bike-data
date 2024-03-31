@@ -1,1440 +1,1444 @@
+@prefix bike_taxonomy: <https://bluebikes.com/system-data/rdf/bike_taxonomy#>
+@prefix bike_ontology: <https://bluebikes.com/system-data/rdf/ontology#>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32000> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Fan Pier" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Union Square - Brighton Ave at Cambridge St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:A32000 a bike_ontology:Station;
+  rdfs:label "Fan Pier" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Ave at Agganis Way";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32003 a bike_ontology:Station;
+  rdfs:label "B.U. Central - 725 Comm. Ave.";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "B.U. Central - 725 Comm. Ave.";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:A32001 a bike_ontology:Station;
+  rdfs:label "Union Square - Brighton Ave at Cambridge St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Longwood Ave at Binney St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32002 a bike_ontology:Station;
+  rdfs:label "Commonwealth Ave at Agganis Way";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Brighton Mills - 370 Western Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32004 a bike_ontology:Station;
+  rdfs:label "Longwood Ave at Binney St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Soldiers Field Park - 111 Western Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32005 a bike_ontology:Station;
+  rdfs:label "Brighton Mills - 370 Western Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Park Dr at Buswell St" .
+bike_taxonomy:A32006 a bike_ontology:Station;
+  rdfs:label "Soldiers Field Park - 111 Western Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "South End Library - Tremont St at W Newton St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32008 a bike_ontology:Station;
+  rdfs:label "Park Dr at Buswell St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "South Station - 700 Atlantic Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 47 .
+bike_taxonomy:A32009 a bike_ontology:Station;
+  rdfs:label "South End Library - Tremont St at W Newton St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Innovation Lab - 125 Western Ave at Batten Way";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:A32010 a bike_ontology:Station;
+  rdfs:label "South Station - 700 Atlantic Ave";
+  bike_ontology:numDocks 47 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Packard's Corner - Commonwealth Ave at Brighton Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 27 .
+bike_taxonomy:A32011 a bike_ontology:Station;
+  rdfs:label "Innovation Lab - 125 Western Ave at Batten Way";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Surface Rd at India St" .
+bike_taxonomy:A32012 a bike_ontology:Station;
+  rdfs:label "Packard's Corner - Commonwealth Ave at Brighton Ave";
+  bike_ontology:numDocks 27 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Ave at Griggs St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32013 a bike_ontology:Station;
+  rdfs:label "Surface Rd at India St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32019> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "175 N Harvard St" .
+bike_taxonomy:A32017 a bike_ontology:Station;
+  rdfs:label "Commonwealth Ave at Griggs St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Edwards Playground - Main St at Eden St" .
+bike_taxonomy:A32019 a bike_ontology:Station;
+  rdfs:label "175 N Harvard St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bunker Hill Community College" .
+bike_taxonomy:A32022 a bike_ontology:Station;
+  rdfs:label "Edwards Playground - Main St at Eden St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32025> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Nashua Street at Red Auerbach Way";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 36 .
+bike_taxonomy:A32023 a bike_ontology:Station;
+  rdfs:label "Bunker Hill Community College" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32026> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Purchase St at Pearl St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:A32025 a bike_ontology:Station;
+  rdfs:label "Nashua Street at Red Auerbach Way";
+  bike_ontology:numDocks 36 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32028> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bennington St at Byron St" .
+bike_taxonomy:A32026 a bike_ontology:Station;
+  rdfs:label "Purchase St at Pearl St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32030> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Maverick Square - Lewis Mall" .
+bike_taxonomy:A32028 a bike_ontology:Station;
+  rdfs:label "Bennington St at Byron St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32031> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "East Boston Neighborhood Health Center - 20 Maverick Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 16 .
+bike_taxonomy:A32030 a bike_ontology:Station;
+  rdfs:label "Maverick Square - Lewis Mall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32032> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bremen St at Marion St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:A32031 a bike_ontology:Station;
+  rdfs:label "East Boston Neighborhood Health Center - 20 Maverick Square";
+  bike_ontology:numDocks 16 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32033> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "The Eddy - New St at Sumner St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32032 a bike_ontology:Station;
+  rdfs:label "Bremen St at Marion St";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Orient Heights T Stop - Bennington St at Saratoga St" .
+bike_taxonomy:A32033 a bike_ontology:Station;
+  rdfs:label "The Eddy - New St at Sumner St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boston East - 126 Border St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32035 a bike_ontology:Station;
+  rdfs:label "Orient Heights T Stop - Bennington St at Saratoga St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32039> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bennington St at Constitution Beach" .
+bike_taxonomy:A32036 a bike_ontology:Station;
+  rdfs:label "Boston East - 126 Border St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32040> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Honan Library" .
+bike_taxonomy:A32039 a bike_ontology:Station;
+  rdfs:label "Bennington St at Constitution Beach" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32041> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Central Square East Boston" .
+bike_taxonomy:A32040 a bike_ontology:Station;
+  rdfs:label "Honan Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32042> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Surface Rd at Summer St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 27 .
+bike_taxonomy:A32041 a bike_ontology:Station;
+  rdfs:label "Central Square East Boston" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32044> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Maverick St at Massport Path";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32042 a bike_ontology:Station;
+  rdfs:label "Surface Rd at Summer St";
+  bike_ontology:numDocks 27 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32045> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boston Landing" .
+bike_taxonomy:A32044 a bike_ontology:Station;
+  rdfs:label "Maverick St at Massport Path";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32049> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Gove St at Orleans St" .
+bike_taxonomy:A32045 a bike_ontology:Station;
+  rdfs:label "Boston Landing" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32050> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Porzio Park" .
+bike_taxonomy:A32049 a bike_ontology:Station;
+  rdfs:label "Gove St at Orleans St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32051> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Day Sq" .
+bike_taxonomy:A32050 a bike_ontology:Station;
+  rdfs:label "Porzio Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32052> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Stadium: N. Harvard St at Soldiers Field Rd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:A32051 a bike_ontology:Station;
+  rdfs:label "Day Sq" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32053> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Valenti Way at Haverhill St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 24 .
+bike_taxonomy:A32052 a bike_ontology:Station;
+  rdfs:label "Harvard Stadium: N. Harvard St at Soldiers Field Rd";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32056> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Riverway at Brookline Ave" .
+bike_taxonomy:A32053 a bike_ontology:Station;
+  rdfs:label "Valenti Way at Haverhill St";
+  bike_ontology:numDocks 24 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32057> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lewis Mall Wharf" .
+bike_taxonomy:A32056 a bike_ontology:Station;
+  rdfs:label "Riverway at Brookline Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#A32058> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St. at Court St." .
+bike_taxonomy:A32057 a bike_ontology:Station;
+  rdfs:label "Lewis Mall Wharf" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Arlington> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:A32058 a bike_ontology:Station;
+  rdfs:label "Tremont St. at Court St." .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd" .
+bike_taxonomy:Arlington a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave" .
+bike_taxonomy:B32002 a bike_ontology:Station;
+  rdfs:label "Ruggles T Stop - Columbus Ave at Melnea Cass Blvd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Aquarium T Stop - 200 Atlantic Ave" .
+bike_taxonomy:B32003 a bike_ontology:Station;
+  rdfs:label "HMS/HSPH - Avenue Louis Pasteur at Longwood Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Christian Science Plaza - Massachusetts Ave at Westland Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:B32004 a bike_ontology:Station;
+  rdfs:label "Aquarium T Stop - 200 Atlantic Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Colleges of the Fenway - Fenway at Avenue Louis Pasteur" .
+bike_taxonomy:B32005 a bike_ontology:Station;
+  rdfs:label "Christian Science Plaza - Massachusetts Ave at Westland Ave";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Seaport Square - Seaport Blvd at Northern Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:B32006 a bike_ontology:Station;
+  rdfs:label "Colleges of the Fenway - Fenway at Avenue Louis Pasteur" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boston City Hall - 28 State St" .
+bike_taxonomy:B32007 a bike_ontology:Station;
+  rdfs:label "Seaport Square - Seaport Blvd at Northern Ave";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Kenmore Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 26 .
+bike_taxonomy:B32008 a bike_ontology:Station;
+  rdfs:label "Boston City Hall - 28 State St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Brigham Circle - Francis St at Huntington Ave" .
+bike_taxonomy:B32010 a bike_ontology:Station;
+  rdfs:label "Kenmore Square";
+  bike_ontology:numDocks 26 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Seaport Hotel - Congress St at Seaport Ln" .
+bike_taxonomy:B32013 a bike_ontology:Station;
+  rdfs:label "Brigham Circle - Francis St at Huntington Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Landmark Center - Brookline Ave at Park Dr" .
+bike_taxonomy:B32014 a bike_ontology:Station;
+  rdfs:label "Seaport Hotel - Congress St at Seaport Ln" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dudley Square - Bolling Building";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 0 .
+bike_taxonomy:B32015 a bike_ontology:Station;
+  rdfs:label "Landmark Center - Brookline Ave at Park Dr" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Massachusetts Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:B32017 a bike_ontology:Station;
+  rdfs:label "Dudley Square - Bolling Building";
+  bike_ontology:numDocks 0 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32020> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Burlington Ave at Brookline Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:B32018 a bike_ontology:Station;
+  rdfs:label "Boylston St at Massachusetts Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32021> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Wentworth Institute of Technology - Huntington Ave at Vancouver St" .
+bike_taxonomy:B32020 a bike_ontology:Station;
+  rdfs:label "Burlington Ave at Brookline Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Roxbury YMCA - Warren St at MLK Blvd" .
+bike_taxonomy:B32021 a bike_ontology:Station;
+  rdfs:label "Wentworth Institute of Technology - Huntington Ave at Vancouver St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MLK Blvd at Washington St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:B32022 a bike_ontology:Station;
+  rdfs:label "Roxbury YMCA - Warren St at MLK Blvd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32026> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Melnea Cass Blvd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:B32023 a bike_ontology:Station;
+  rdfs:label "MLK Blvd at Washington St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32027> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "NCAAA - Walnut Ave at Crawford St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:B32026 a bike_ontology:Station;
+  rdfs:label "Washington St at Melnea Cass Blvd";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32028> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Grove Hall Library - 41 Geneva Ave" .
+bike_taxonomy:B32027 a bike_ontology:Station;
+  rdfs:label "NCAAA - Walnut Ave at Crawford St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32029> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Columbia Rd at Ceylon St" .
+bike_taxonomy:B32028 a bike_ontology:Station;
+  rdfs:label "Grove Hall Library - 41 Geneva Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32031> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bowdoin St at Quincy St" .
+bike_taxonomy:B32029 a bike_ontology:Station;
+  rdfs:label "Columbia Rd at Ceylon St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32032> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Government Center - Cambridge St at Court St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 35 .
+bike_taxonomy:B32031 a bike_ontology:Station;
+  rdfs:label "Bowdoin St at Quincy St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32033> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Huntington Ave at Mass Art" .
+bike_taxonomy:B32032 a bike_ontology:Station;
+  rdfs:label "Government Center - Cambridge St at Court St";
+  bike_ontology:numDocks 35 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32034> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Jersey St" .
+bike_taxonomy:B32033 a bike_ontology:Station;
+  rdfs:label "Huntington Ave at Mass Art" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cleveland Circle" .
+bike_taxonomy:B32034 a bike_ontology:Station;
+  rdfs:label "Boylston St at Jersey St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "One Brigham Circle" .
+bike_taxonomy:B32035 a bike_ontology:Station;
+  rdfs:label "Cleveland Circle" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32037> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Deerfield St at Commonwealth Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:B32036 a bike_ontology:Station;
+  rdfs:label "One Brigham Circle" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32055> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bartlett St at John Elliot Sq" .
+bike_taxonomy:B32037 a bike_ontology:Station;
+  rdfs:label "Deerfield St at Commonwealth Ave";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32056> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St at Hamilton Pl" .
+bike_taxonomy:B32055 a bike_ontology:Station;
+  rdfs:label "Bartlett St at John Elliot Sq" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32058> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lansdowne T Stop" .
+bike_taxonomy:B32056 a bike_ontology:Station;
+  rdfs:label "Tremont St at Hamilton Pl" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32059> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Whittier St Health Center";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:B32058 a bike_ontology:Station;
+  rdfs:label "Lansdowne T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32060> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "700 Commonwealth Ave." .
+bike_taxonomy:B32059 a bike_ontology:Station;
+  rdfs:label "Whittier St Health Center";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32061> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "One Beacon St" .
+bike_taxonomy:B32060 a bike_ontology:Station;
+  rdfs:label "700 Commonwealth Ave." .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32062> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Forsyth St at Huntington Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:B32061 a bike_ontology:Station;
+  rdfs:label "One Beacon St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32063> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "St. Alphonsus St at Tremont St" .
+bike_taxonomy:B32062 a bike_ontology:Station;
+  rdfs:label "Forsyth St at Huntington Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#B32064> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Flat 9 at Whittier" .
+bike_taxonomy:B32063 a bike_ontology:Station;
+  rdfs:label "St. Alphonsus St at Tremont St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Boston> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:B32064 a bike_ontology:Station;
+  rdfs:label "Flat 9 at Whittier" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Brookline> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:Boston a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C23109> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cedar Grove T Stop" .
+bike_taxonomy:Brookline a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32000> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St at E Berkeley St" .
+bike_taxonomy:C23109 a bike_ontology:Station;
+  rdfs:label "Cedar Grove T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Roxbury Crossing T Stop - Columbus Ave at Tremont St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:C32000 a bike_ontology:Station;
+  rdfs:label "Tremont St at E Berkeley St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Back Bay T Stop - Dartmouth St at Stuart St" .
+bike_taxonomy:C32001 a bike_ontology:Station;
+  rdfs:label "Roxbury Crossing T Stop - Columbus Ave at Tremont St";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts Ave at Columbus Ave" .
+bike_taxonomy:C32003 a bike_ontology:Station;
+  rdfs:label "Back Bay T Stop - Dartmouth St at Stuart St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Lenox St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32004 a bike_ontology:Station;
+  rdfs:label "Massachusetts Ave at Columbus Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Rutland St" .
+bike_taxonomy:C32005 a bike_ontology:Station;
+  rdfs:label "Washington St at Lenox St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Prudential Center - 101 Huntington Ave" .
+bike_taxonomy:C32006 a bike_ontology:Station;
+  rdfs:label "Washington St at Rutland St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Fairfield St" .
+bike_taxonomy:C32007 a bike_ontology:Station;
+  rdfs:label "Prudential Center - 101 Huntington Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dorchester Ave at Gillette Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32008 a bike_ontology:Station;
+  rdfs:label "Boylston St at Fairfield St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "JFK/UMass T Stop" .
+bike_taxonomy:C32009 a bike_ontology:Station;
+  rdfs:label "Dorchester Ave at Gillette Park";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "University of Massachusetts Boston - Campus Center" .
+bike_taxonomy:C32013 a bike_ontology:Station;
+  rdfs:label "JFK/UMass T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave" .
+bike_taxonomy:C32014 a bike_ontology:Station;
+  rdfs:label "University of Massachusetts Boston - Campus Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "W Broadway at Dorchester St" .
+bike_taxonomy:C32015 a bike_ontology:Station;
+  rdfs:label "Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "South Boston Library - 646 E Broadway";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32016 a bike_ontology:Station;
+  rdfs:label "W Broadway at Dorchester St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32020> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ID Building East" .
+bike_taxonomy:C32017 a bike_ontology:Station;
+  rdfs:label "South Boston Library - 646 E Broadway";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32021> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ID Building West" .
+bike_taxonomy:C32020 a bike_ontology:Station;
+  rdfs:label "ID Building East" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32021 a bike_ontology:Station;
+  rdfs:label "ID Building West" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Murphy Skating Rink - 1880 Day Blvd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:C32022 a bike_ontology:Station;
+  rdfs:label "Newmarket Square T Stop - Massachusetts Ave at Newmarket Square";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32024> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "State Street at Channel Center";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:C32023 a bike_ontology:Station;
+  rdfs:label "Murphy Skating Rink - 1880 Day Blvd";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32025> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ink Block - Harrison Ave at Herald St" .
+bike_taxonomy:C32024 a bike_ontology:Station;
+  rdfs:label "State Street at Channel Center";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32027> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Franklin Park - Seaver St at Humboldt Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32025 a bike_ontology:Station;
+  rdfs:label "Ink Block - Harrison Ave at Herald St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32028> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "The Lawn on D" .
+bike_taxonomy:C32027 a bike_ontology:Station;
+  rdfs:label "Franklin Park - Seaver St at Humboldt Ave";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32029> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "W Broadway at D St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 20 .
+bike_taxonomy:C32028 a bike_ontology:Station;
+  rdfs:label "The Lawn on D" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32030> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave" .
+bike_taxonomy:C32029 a bike_ontology:Station;
+  rdfs:label "W Broadway at D St";
+  bike_ontology:numDocks 20 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32032> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Congress St at Northern Ave" .
+bike_taxonomy:C32030 a bike_ontology:Station;
+  rdfs:label "Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32033> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Savin Hill T Stop - S Sydney St at Bay St" .
+bike_taxonomy:C32032 a bike_ontology:Station;
+  rdfs:label "Congress St at Northern Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32034> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Watermark Seaport - Boston Wharf Rd at Seaport Blvd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32033 a bike_ontology:Station;
+  rdfs:label "Savin Hill T Stop - S Sydney St at Bay St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Troy Boston" .
+bike_taxonomy:C32034 a bike_ontology:Station;
+  rdfs:label "Watermark Seaport - Boston Wharf Rd at Seaport Blvd";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Seaport Blvd at Sleeper St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32035 a bike_ontology:Station;
+  rdfs:label "Troy Boston" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32037> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Four Corners - 157 Washington St" .
+bike_taxonomy:C32036 a bike_ontology:Station;
+  rdfs:label "Seaport Blvd at Sleeper St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32038> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Talbot Ave" .
+bike_taxonomy:C32037 a bike_ontology:Station;
+  rdfs:label "Four Corners - 157 Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32040> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Gallivan Blvd at Adams St" .
+bike_taxonomy:C32038 a bike_ontology:Station;
+  rdfs:label "Washington St at Talbot Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32041> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Fields Corner T Stop" .
+bike_taxonomy:C32040 a bike_ontology:Station;
+  rdfs:label "Gallivan Blvd at Adams St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32043> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Talbot Ave At Blue Hill Ave" .
+bike_taxonomy:C32041 a bike_ontology:Station;
+  rdfs:label "Fields Corner T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32044> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Blue Hill Ave at Almont St" .
+bike_taxonomy:C32043 a bike_ontology:Station;
+  rdfs:label "Talbot Ave At Blue Hill Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32045> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mattapan T Stop" .
+bike_taxonomy:C32044 a bike_ontology:Station;
+  rdfs:label "Blue Hill Ave at Almont St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32046> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Roslindale Village - Washington St" .
+bike_taxonomy:C32045 a bike_ontology:Station;
+  rdfs:label "Mattapan T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32047> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Roslindale Village - South St" .
+bike_taxonomy:C32046 a bike_ontology:Station;
+  rdfs:label "Roslindale Village - Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32048> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Archdale Rd at Washington St" .
+bike_taxonomy:C32047 a bike_ontology:Station;
+  rdfs:label "Roslindale Village - South St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32050> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mattapan Library" .
+bike_taxonomy:C32048 a bike_ontology:Station;
+  rdfs:label "Archdale Rd at Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32051> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Farragut Rd at E. 6th St" .
+bike_taxonomy:C32050 a bike_ontology:Station;
+  rdfs:label "Mattapan Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32052> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Columbia Rd at Tierney Community Center" .
+bike_taxonomy:C32051 a bike_ontology:Station;
+  rdfs:label "Farragut Rd at E. 6th St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32053> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway T Stop";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:C32052 a bike_ontology:Station;
+  rdfs:label "Columbia Rd at Tierney Community Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32055> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Codman Square Library" .
+bike_taxonomy:C32053 a bike_ontology:Station;
+  rdfs:label "Broadway T Stop";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32056> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St at Northampton St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:C32055 a bike_ontology:Station;
+  rdfs:label "Codman Square Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32057> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harrison Ave at Mullins Way" .
+bike_taxonomy:C32056 a bike_ontology:Station;
+  rdfs:label "Tremont St at Northampton St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32059> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Belgrade Ave at Walworth St" .
+bike_taxonomy:C32057 a bike_ontology:Station;
+  rdfs:label "Harrison Ave at Mullins Way" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32060> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St at W. Dedham St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32059 a bike_ontology:Station;
+  rdfs:label "Belgrade Ave at Walworth St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32061> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Albany St at E. Brookline St" .
+bike_taxonomy:C32060 a bike_ontology:Station;
+  rdfs:label "Tremont St at W. Dedham St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32062> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ashmont T Stop" .
+bike_taxonomy:C32061 a bike_ontology:Station;
+  rdfs:label "Albany St at E. Brookline St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32063> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mass Ave T Station" .
+bike_taxonomy:C32062 a bike_ontology:Station;
+  rdfs:label "Ashmont T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32064> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Sydney St at Carson St" .
+bike_taxonomy:C32063 a bike_ontology:Station;
+  rdfs:label "Mass Ave T Station" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32066> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dorchester Ave at King St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:C32064 a bike_ontology:Station;
+  rdfs:label "Sydney St at Carson St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32077> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Columbus Ave at W. Canton St" .
+bike_taxonomy:C32066 a bike_ontology:Station;
+  rdfs:label "Dorchester Ave at King St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32079> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "American Legion Hwy at Cummins Hwy" .
+bike_taxonomy:C32077 a bike_ontology:Station;
+  rdfs:label "Columbus Ave at W. Canton St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32085> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Centre St at W. Roxbury Post Office" .
+bike_taxonomy:C32079 a bike_ontology:Station;
+  rdfs:label "American Legion Hwy at Cummins Hwy" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32086> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Centre St at Parkway YMCA" .
+bike_taxonomy:C32085 a bike_ontology:Station;
+  rdfs:label "Centre St at W. Roxbury Post Office" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32087> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Spring St at Powell St" .
+bike_taxonomy:C32086 a bike_ontology:Station;
+  rdfs:label "Centre St at Parkway YMCA" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32089> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hyde Park Ave at Walk Hill St" .
+bike_taxonomy:C32087 a bike_ontology:Station;
+  rdfs:label "Spring St at Powell St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32090> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Geiger Gibson Community Health Center" .
+bike_taxonomy:C32089 a bike_ontology:Station;
+  rdfs:label "Hyde Park Ave at Walk Hill St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32091> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "645 Summer St" .
+bike_taxonomy:C32090 a bike_ontology:Station;
+  rdfs:label "Geiger Gibson Community Health Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32092> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Blue Hill Ave at Havelock St" .
+bike_taxonomy:C32091 a bike_ontology:Station;
+  rdfs:label "645 Summer St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32093> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harrison Ave at E. Dedham St" .
+bike_taxonomy:C32092 a bike_ontology:Station;
+  rdfs:label "Blue Hill Ave at Havelock St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32094> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "2 Hummingbird Lane at Olmsted Green" .
+bike_taxonomy:C32093 a bike_ontology:Station;
+  rdfs:label "Harrison Ave at E. Dedham St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32099> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Circuit Drive at American Legion Hwy" .
+bike_taxonomy:C32094 a bike_ontology:Station;
+  rdfs:label "2 Hummingbird Lane at Olmsted Green" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32102> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Walnut Ave at School St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:C32099 a bike_ontology:Station;
+  rdfs:label "Circuit Drive at American Legion Hwy" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32103> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Morton St at Gallivan Blvd" .
+bike_taxonomy:C32102 a bike_ontology:Station;
+  rdfs:label "Walnut Ave at School St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32104> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cleary Sq" .
+bike_taxonomy:C32103 a bike_ontology:Station;
+  rdfs:label "Morton St at Gallivan Blvd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32105> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "606 American Legion Hwy at Canterbury St" .
+bike_taxonomy:C32104 a bike_ontology:Station;
+  rdfs:label "Cleary Sq" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32106> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "555 Metropolitan Ave" .
+bike_taxonomy:C32105 a bike_ontology:Station;
+  rdfs:label "606 American Legion Hwy at Canterbury St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32107> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Pier 4 Blvd at Autumn Ln" .
+bike_taxonomy:C32106 a bike_ontology:Station;
+  rdfs:label "555 Metropolitan Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32108> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Beach St at Freeport St" .
+bike_taxonomy:C32107 a bike_ontology:Station;
+  rdfs:label "Pier 4 Blvd at Autumn Ln" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32110> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Talbot Ave T Station" .
+bike_taxonomy:C32108 a bike_ontology:Station;
+  rdfs:label "Beach St at Freeport St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32111> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Four Corners/Geneva T Stop" .
+bike_taxonomy:C32110 a bike_ontology:Station;
+  rdfs:label "Talbot Ave T Station" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32112> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Meaney Playground - Pleasant St at E Cottage St" .
+bike_taxonomy:C32111 a bike_ontology:Station;
+  rdfs:label "Four Corners/Geneva T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#C32113> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hancock St at Pleasant St" .
+bike_taxonomy:C32112 a bike_ontology:Station;
+  rdfs:label "Meaney Playground - Pleasant St at E Cottage St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Cambridge> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:C32113 a bike_ontology:Station;
+  rdfs:label "Hancock St at Pleasant St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Chelsea> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:Cambridge a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32000> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge St at Joy St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:Chelsea a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "New Balance - 20 Guest St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 14 .
+bike_taxonomy:D32000 a bike_ontology:Station;
+  rdfs:label "Cambridge St at Joy St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Waltham St" .
+bike_taxonomy:D32001 a bike_ontology:Station;
+  rdfs:label "New Balance - 20 Guest St";
+  bike_ontology:numDocks 14 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Copley Square - Dartmouth St at Boylston St" .
+bike_taxonomy:D32002 a bike_ontology:Station;
+  rdfs:label "Washington St at Waltham St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lewis Wharf at Atlantic Ave" .
+bike_taxonomy:D32005 a bike_ontology:Station;
+  rdfs:label "Copley Square - Dartmouth St at Boylston St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Arlington St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 31 .
+bike_taxonomy:D32006 a bike_ontology:Station;
+  rdfs:label "Lewis Wharf at Atlantic Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Rowes Wharf at Atlantic Ave" .
+bike_taxonomy:D32007 a bike_ontology:Station;
+  rdfs:label "Boylston St at Arlington St";
+  bike_ontology:numDocks 31 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Congress St at Boston City Hall" .
+bike_taxonomy:D32008 a bike_ontology:Station;
+  rdfs:label "Rowes Wharf at Atlantic Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cross St at Hanover St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32009 a bike_ontology:Station;
+  rdfs:label "Congress St at Boston City Hall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Stuart St at Charles St" .
+bike_taxonomy:D32010 a bike_ontology:Station;
+  rdfs:label "Cross St at Hanover St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Berkeley St" .
+bike_taxonomy:D32011 a bike_ontology:Station;
+  rdfs:label "Stuart St at Charles St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tremont St at West St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:D32013 a bike_ontology:Station;
+  rdfs:label "Boylston St at Berkeley St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Chinatown Gate Plaza" .
+bike_taxonomy:D32014 a bike_ontology:Station;
+  rdfs:label "Tremont St at West St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Charles Circle - Charles St at Cambridge St" .
+bike_taxonomy:D32015 a bike_ontology:Station;
+  rdfs:label "Chinatown Gate Plaza" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mugar Way at Beacon St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32016 a bike_ontology:Station;
+  rdfs:label "Charles Circle - Charles St at Cambridge St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boston Convention and Exhibition Center - Summer St at West Side Dr" .
+bike_taxonomy:D32017 a bike_ontology:Station;
+  rdfs:label "Mugar Way at Beacon St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32019> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Chinatown T Stop" .
+bike_taxonomy:D32018 a bike_ontology:Station;
+  rdfs:label "Boston Convention and Exhibition Center - Summer St at West Side Dr" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32020> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Main St at Austin St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:D32019 a bike_ontology:Station;
+  rdfs:label "Chinatown T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32021> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Warren St at Chelsea St" .
+bike_taxonomy:D32020 a bike_ontology:Station;
+  rdfs:label "Main St at Austin St";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "West End Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 35 .
+bike_taxonomy:D32021 a bike_ontology:Station;
+  rdfs:label "Warren St at Chelsea St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Spaulding Rehabilitation Hospital - Charlestown Navy Yard" .
+bike_taxonomy:D32022 a bike_ontology:Station;
+  rdfs:label "West End Park";
+  bike_ontology:numDocks 35 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32024> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Beacon St at Charles St" .
+bike_taxonomy:D32023 a bike_ontology:Station;
+  rdfs:label "Spaulding Rehabilitation Hospital - Charlestown Navy Yard" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32028> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Brighton Center - Washington St at Cambridge St" .
+bike_taxonomy:D32024 a bike_ontology:Station;
+  rdfs:label "Beacon St at Charles St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32029> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Brock St" .
+bike_taxonomy:D32028 a bike_ontology:Station;
+  rdfs:label "Brighton Center - Washington St at Cambridge St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32031> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Oak Square - 615 Washington St" .
+bike_taxonomy:D32029 a bike_ontology:Station;
+  rdfs:label "Washington St at Brock St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32032> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Silber Way";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32031 a bike_ontology:Station;
+  rdfs:label "Oak Square - 615 Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32033> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Ave at Chiswick Rd" .
+bike_taxonomy:D32032 a bike_ontology:Station;
+  rdfs:label "Silber Way";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32034> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Ave at Kelton St" .
+bike_taxonomy:D32033 a bike_ontology:Station;
+  rdfs:label "Commonwealth Ave at Chiswick Rd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Ave at Brainerd Rd" .
+bike_taxonomy:D32034 a bike_ontology:Station;
+  rdfs:label "Commonwealth Ave at Kelton St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Main St at Baldwin St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32035 a bike_ontology:Station;
+  rdfs:label "Harvard Ave at Brainerd Rd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32037> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Medford St at Charlestown BCYF" .
+bike_taxonomy:D32036 a bike_ontology:Station;
+  rdfs:label "Main St at Baldwin St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32038> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Main St at Thompson Sq";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:D32037 a bike_ontology:Station;
+  rdfs:label "Medford St at Charlestown BCYF" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32039> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Charlestown Navy Yard" .
+bike_taxonomy:D32038 a bike_ontology:Station;
+  rdfs:label "Main St at Thompson Sq";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32040> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Williams St at Washington St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:D32039 a bike_ontology:Station;
+  rdfs:label "Charlestown Navy Yard" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32041> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Stony Brook T Stop";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32040 a bike_ontology:Station;
+  rdfs:label "Williams St at Washington St";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32042> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Park Plaza at Charles St S.";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32041 a bike_ontology:Station;
+  rdfs:label "Stony Brook T Stop";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32043> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harrison Ave at Bennet St" .
+bike_taxonomy:D32042 a bike_ontology:Station;
+  rdfs:label "Park Plaza at Charles St S.";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32045> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dartmouth St at Newbury St" .
+bike_taxonomy:D32043 a bike_ontology:Station;
+  rdfs:label "Harrison Ave at Bennet St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32046> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boylston St at Exeter St" .
+bike_taxonomy:D32045 a bike_ontology:Station;
+  rdfs:label "Dartmouth St at Newbury St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32048> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Shawmut Ave at Oak St W";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:D32046 a bike_ontology:Station;
+  rdfs:label "Boylston St at Exeter St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32049> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Stuart St at Berkeley St" .
+bike_taxonomy:D32048 a bike_ontology:Station;
+  rdfs:label "Shawmut Ave at Oak St W";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32052> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Jamaica St at South St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:D32049 a bike_ontology:Station;
+  rdfs:label "Stuart St at Berkeley St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32053> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Sullivan Square" .
+bike_taxonomy:D32052 a bike_ontology:Station;
+  rdfs:label "Jamaica St at South St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32054> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "The Overlook at St. Gabriel's" .
+bike_taxonomy:D32053 a bike_ontology:Station;
+  rdfs:label "Sullivan Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32057> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Clinton St at North St" .
+bike_taxonomy:D32054 a bike_ontology:Station;
+  rdfs:label "The Overlook at St. Gabriel's" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32059> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Shawmut Ave at Lenox St" .
+bike_taxonomy:D32057 a bike_ontology:Station;
+  rdfs:label "Clinton St at North St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32060> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hood Park" .
+bike_taxonomy:D32059 a bike_ontology:Station;
+  rdfs:label "Shawmut Ave at Lenox St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#D32061> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lenox St at Kendall St" .
+bike_taxonomy:D32060 a bike_ontology:Station;
+  rdfs:label "Hood Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#District> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:D32061 a bike_ontology:Station;
+  rdfs:label "Lenox St at Kendall St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Districts> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Districts" .
+bike_taxonomy:District a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#DockedBike> a <https://bluebikes.com/system-data/rdf/ontology#Rideable> .
+bike_taxonomy:Districts a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  rdfs:label "Districts" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Curtis Hall - South St at Centre St" .
+bike_taxonomy:DockedBike a bike_ontology:Rideable .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hyde Square - Barbara St at Centre St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:E32001 a bike_ontology:Station;
+  rdfs:label "Curtis Hall - South St at Centre St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Egleston Square - Atherton St at Washington St" .
+bike_taxonomy:E32003 a bike_ontology:Station;
+  rdfs:label "Hyde Square - Barbara St at Centre St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Green Street T Stop - Green St at Amory St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:E32004 a bike_ontology:Station;
+  rdfs:label "Egleston Square - Atherton St at Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Jackson Square T Stop" .
+bike_taxonomy:E32005 a bike_ontology:Station;
+  rdfs:label "Green Street T Stop - Green St at Amory St";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "S Huntington Ave at Heath St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:E32006 a bike_ontology:Station;
+  rdfs:label "Jackson Square T Stop" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Shawmut T Stop";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:E32007 a bike_ontology:Station;
+  rdfs:label "S Huntington Ave at Heath St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Forest Hills" .
+bike_taxonomy:E32009 a bike_ontology:Station;
+  rdfs:label "Shawmut T Stop";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "The Dimock Center" .
+bike_taxonomy:E32010 a bike_ontology:Station;
+  rdfs:label "Forest Hills" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Martha Eliot Health Center" .
+bike_taxonomy:E32011 a bike_ontology:Station;
+  rdfs:label "The Dimock Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hyde Park Library" .
+bike_taxonomy:E32012 a bike_ontology:Station;
+  rdfs:label "Martha Eliot Health Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#E32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ross Playground" .
+bike_taxonomy:E32013 a bike_ontology:Station;
+  rdfs:label "Hyde Park Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Everett> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:E32014 a bike_ontology:Station;
+  rdfs:label "Ross Playground" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Main St at Brooks Park" .
+bike_taxonomy:Everett a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Medford Sq - Riverside Ave at River St" .
+bike_taxonomy:F32001 a bike_ontology:Station;
+  rdfs:label "Main St at Brooks Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tufts Sq - Main St at Medford St" .
+bike_taxonomy:F32002 a bike_ontology:Station;
+  rdfs:label "Medford Sq - Riverside Ave at River St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harris Park" .
+bike_taxonomy:F32003 a bike_ontology:Station;
+  rdfs:label "Tufts Sq - Main St at Medford St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Haines Square" .
+bike_taxonomy:F32004 a bike_ontology:Station;
+  rdfs:label "Harris Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#F32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hormel Stadium" .
+bike_taxonomy:F32005 a bike_ontology:Station;
+  rdfs:label "Haines Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Malden Center T Station" .
+bike_taxonomy:F32006 a bike_ontology:Station;
+  rdfs:label "Hormel Stadium" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Northern Strand at Main St" .
+bike_taxonomy:G32001 a bike_ontology:Station;
+  rdfs:label "Malden Center T Station" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#G32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Malden High School" .
+bike_taxonomy:G32002 a bike_ontology:Station;
+  rdfs:label "Northern Strand at Main St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cary Square" .
+bike_taxonomy:G32003 a bike_ontology:Station;
+  rdfs:label "Malden High School" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bellingham Square" .
+bike_taxonomy:H32001 a bike_ontology:Station;
+  rdfs:label "Cary Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Chelsea Square" .
+bike_taxonomy:H32002 a bike_ontology:Station;
+  rdfs:label "Bellingham Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Gerrish Ave" .
+bike_taxonomy:H32003 a bike_ontology:Station;
+  rdfs:label "Chelsea Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Chelsea Station" .
+bike_taxonomy:H32004 a bike_ontology:Station;
+  rdfs:label "Broadway at Gerrish Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#H32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "855 Broadway" .
+bike_taxonomy:H32005 a bike_ontology:Station;
+  rdfs:label "Chelsea Station" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Coolidge Corner - Beacon St at Centre St" .
+bike_taxonomy:H32006 a bike_ontology:Station;
+  rdfs:label "855 Broadway" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Beacon St at Tappan St" .
+bike_taxonomy:K32001 a bike_ontology:Station;
+  rdfs:label "Coolidge Corner - Beacon St at Centre St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Brookline Village - Station Street at MBTA" .
+bike_taxonomy:K32002 a bike_ontology:Station;
+  rdfs:label "Beacon St at Tappan St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "JFK Crossing at Harvard St. / Thorndike St." .
+bike_taxonomy:K32003 a bike_ontology:Station;
+  rdfs:label "Brookline Village - Station Street at MBTA" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Brookline Town Hall" .
+bike_taxonomy:K32004 a bike_ontology:Station;
+  rdfs:label "JFK Crossing at Harvard St. / Thorndike St." .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Commonwealth Ave At Babcock St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:K32005 a bike_ontology:Station;
+  rdfs:label "Brookline Town Hall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "St Mary's" .
+bike_taxonomy:K32006 a bike_ontology:Station;
+  rdfs:label "Commonwealth Ave At Babcock St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Tappan St at Brookline Hills MBTA";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:K32007 a bike_ontology:Station;
+  rdfs:label "St Mary's" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cypress St at Clark Playground" .
+bike_taxonomy:K32008 a bike_ontology:Station;
+  rdfs:label "Tappan St at Brookline Hills MBTA";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "High St at Cypress St" .
+bike_taxonomy:K32009 a bike_ontology:Station;
+  rdfs:label "Cypress St at Clark Playground" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington Sq";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:K32010 a bike_ontology:Station;
+  rdfs:label "High St at Cypress St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Marion St at Harvard St" .
+bike_taxonomy:K32011 a bike_ontology:Station;
+  rdfs:label "Washington Sq";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "1200 Beacon St" .
+bike_taxonomy:K32012 a bike_ontology:Station;
+  rdfs:label "Marion St at Harvard St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#K32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard St and Stedman St" .
+bike_taxonomy:K32015 a bike_ontology:Station;
+  rdfs:label "1200 Beacon St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Railroad Lot and Minuteman Bikeway";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:K32017 a bike_ontology:Station;
+  rdfs:label "Harvard St and Stedman St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Linwood St at Minuteman Bikeway" .
+bike_taxonomy:L32001 a bike_ontology:Station;
+  rdfs:label "Railroad Lot and Minuteman Bikeway";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#L32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Thorndike Field at Minuteman Bikeway";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:L32002 a bike_ontology:Station;
+  rdfs:label "Linwood St at Minuteman Bikeway" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "One Kendall Square at Hampshire St / Portland St" .
+bike_taxonomy:L32005 a bike_ontology:Station;
+  rdfs:label "Thorndike Field at Minuteman Bikeway";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "One Broadway / Kendall Sq at Main St / 3rd St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:M32002 a bike_ontology:Station;
+  rdfs:label "One Kendall Square at Hampshire St / Portland St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Kendall T";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:M32003 a bike_ontology:Station;
+  rdfs:label "One Broadway / Kendall Sq at Main St / 3rd St";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT Stata Center at Vassar St / Main St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 35 .
+bike_taxonomy:M32004 a bike_ontology:Station;
+  rdfs:label "Kendall T";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT at Mass Ave / Amherst St" .
+bike_taxonomy:M32005 a bike_ontology:Station;
+  rdfs:label "MIT Stata Center at Vassar St / Main St";
+  bike_ontology:numDocks 35 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge St - at Columbia St / Webster Ave" .
+bike_taxonomy:M32006 a bike_ontology:Station;
+  rdfs:label "MIT at Mass Ave / Amherst St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lafayette Square at Mass Ave / Main St / Columbia St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:M32007 a bike_ontology:Station;
+  rdfs:label "Cambridge St - at Columbia St / Webster Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Central Square at Mass Ave / Essex St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32009 a bike_ontology:Station;
+  rdfs:label "Lafayette Square at Mass Ave / Main St / Columbia St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 17 .
+bike_taxonomy:M32011 a bike_ontology:Station;
+  rdfs:label "Central Square at Mass Ave / Essex St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge Main Library at Broadway / Trowbridge St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32012 a bike_ontology:Station;
+  rdfs:label "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St";
+  bike_ontology:numDocks 17 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University Housing - 115 Putnam Ave at Peabody Terrace" .
+bike_taxonomy:M32013 a bike_ontology:Station;
+  rdfs:label "Cambridge Main Library at Broadway / Trowbridge St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Kennedy School at Bennett St / Eliot St" .
+bike_taxonomy:M32014 a bike_ontology:Station;
+  rdfs:label "Harvard University Housing - 115 Putnam Ave at Peabody Terrace" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Square at Brattle St / Eliot St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:M32016 a bike_ontology:Station;
+  rdfs:label "Harvard Kennedy School at Bennett St / Eliot St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Square at Mass Ave/ Dunster";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32017 a bike_ontology:Station;
+  rdfs:label "Harvard Square at Brattle St / Eliot St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32019> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "CambridgeSide Galleria - CambridgeSide PL at Land Blvd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:M32018 a bike_ontology:Station;
+  rdfs:label "Harvard Square at Mass Ave/ Dunster";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32020> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Law School at Mass Ave / Jarvis St" .
+bike_taxonomy:M32019 a bike_ontology:Station;
+  rdfs:label "CambridgeSide Galleria - CambridgeSide PL at Land Blvd";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32021> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University Gund Hall at Quincy St / Kirkland St" .
+bike_taxonomy:M32020 a bike_ontology:Station;
+  rdfs:label "Harvard Law School at Mass Ave / Jarvis St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lower Cambridgeport at Magazine St / Riverside Rd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32021 a bike_ontology:Station;
+  rdfs:label "Harvard University Gund Hall at Quincy St / Kirkland St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St" .
+bike_taxonomy:M32022 a bike_ontology:Station;
+  rdfs:label "Lower Cambridgeport at Magazine St / Riverside Rd";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32024> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University Radcliffe Quadrangle at Shepard St / Garden St" .
+bike_taxonomy:M32023 a bike_ontology:Station;
+  rdfs:label "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32025> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Linear Park - Mass. Ave. at Cameron Ave.";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32024 a bike_ontology:Station;
+  rdfs:label "Harvard University Radcliffe Quadrangle at Shepard St / Garden St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32026> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "359 Broadway - Broadway at Fayette Street" .
+bike_taxonomy:M32025 a bike_ontology:Station;
+  rdfs:label "Linear Park - Mass. Ave. at Cameron Ave.";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32027> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Binney St / Sixth St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32026 a bike_ontology:Station;
+  rdfs:label "359 Broadway - Broadway at Fayette Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32029> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Porter Square Station" .
+bike_taxonomy:M32027 a bike_ontology:Station;
+  rdfs:label "Binney St / Sixth St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32030> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Dana Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32029 a bike_ontology:Station;
+  rdfs:label "Porter Square Station" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32031> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Danehy Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 17 .
+bike_taxonomy:M32030 a bike_ontology:Station;
+  rdfs:label "Dana Park";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32032> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Kendall Street" .
+bike_taxonomy:M32031 a bike_ontology:Station;
+  rdfs:label "Danehy Park";
+  bike_ontology:numDocks 17 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32033> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Alewife Station at Russell Field";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:M32032 a bike_ontology:Station;
+  rdfs:label "Kendall Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32034> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "EF - North Point Park" .
+bike_taxonomy:M32033 a bike_ontology:Station;
+  rdfs:label "Alewife Station at Russell Field";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Rogers St & Land Blvd" .
+bike_taxonomy:M32034 a bike_ontology:Station;
+  rdfs:label "EF - North Point Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Rindge Avenue - O'Neill Library" .
+bike_taxonomy:M32035 a bike_ontology:Station;
+  rdfs:label "Rogers St & Land Blvd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32037> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ames St at Main St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32036 a bike_ontology:Station;
+  rdfs:label "Rindge Avenue - O'Neill Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32038> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard University River Houses at DeWolfe St / Cowperthwaite St" .
+bike_taxonomy:M32037 a bike_ontology:Station;
+  rdfs:label "Ames St at Main St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32039> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lesley University" .
+bike_taxonomy:M32038 a bike_ontology:Station;
+  rdfs:label "Harvard University River Houses at DeWolfe St / Cowperthwaite St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32040> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "University Park" .
+bike_taxonomy:M32039 a bike_ontology:Station;
+  rdfs:label "Lesley University" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32041> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT Pacific St at Purrington St" .
+bike_taxonomy:M32040 a bike_ontology:Station;
+  rdfs:label "University Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32042> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT Vassar St" .
+bike_taxonomy:M32041 a bike_ontology:Station;
+  rdfs:label "MIT Pacific St at Purrington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32043> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mt Auburn" .
+bike_taxonomy:M32042 a bike_ontology:Station;
+  rdfs:label "MIT Vassar St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32044> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Huron Ave At Vassal Lane";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32043 a bike_ontology:Station;
+  rdfs:label "Mt Auburn" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32045> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Museum of Science";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32044 a bike_ontology:Station;
+  rdfs:label "Huron Ave At Vassal Lane";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32046> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Alewife MBTA at Steel Place";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32045 a bike_ontology:Station;
+  rdfs:label "Museum of Science";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32047> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Sidney Research Campus/Erie Street at Waverly" .
+bike_taxonomy:M32046 a bike_ontology:Station;
+  rdfs:label "Alewife MBTA at Steel Place";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32048> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Third at Binney";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:M32047 a bike_ontology:Station;
+  rdfs:label "Sidney Research Campus/Erie Street at Waverly" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32049> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Child Street at Brian P. Murphy Staircase";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:M32048 a bike_ontology:Station;
+  rdfs:label "Third at Binney";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32050> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Verizon Innovation Hub 10 Ware Street" .
+bike_taxonomy:M32049 a bike_ontology:Station;
+  rdfs:label "Child Street at Brian P. Murphy Staircase";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32051> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Fresh Pond Reservation";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 17 .
+bike_taxonomy:M32050 a bike_ontology:Station;
+  rdfs:label "Verizon Innovation Hub 10 Ware Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32052> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge Dept. of Public Works -147 Hampshire St." .
+bike_taxonomy:M32051 a bike_ontology:Station;
+  rdfs:label "Fresh Pond Reservation";
+  bike_ontology:numDocks 17 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32053> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "One Memorial Drive" .
+bike_taxonomy:M32052 a bike_ontology:Station;
+  rdfs:label "Cambridge Dept. of Public Works -147 Hampshire St." .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32054> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "699 Mt Auburn St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 25 .
+bike_taxonomy:M32053 a bike_ontology:Station;
+  rdfs:label "One Memorial Drive" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32055> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Harvard St at Greene-Rose Heritage Park" .
+bike_taxonomy:M32054 a bike_ontology:Station;
+  rdfs:label "699 Mt Auburn St";
+  bike_ontology:numDocks 25 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32056> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mass Ave at Hadley/Walden";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32055 a bike_ontology:Station;
+  rdfs:label "Harvard St at Greene-Rose Heritage Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32057> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Vassal Lane at Tobin/VLUS" .
+bike_taxonomy:M32056 a bike_ontology:Station;
+  rdfs:label "Mass Ave at Hadley/Walden";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32058> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "84 Cambridgepark Dr";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 27 .
+bike_taxonomy:M32057 a bike_ontology:Station;
+  rdfs:label "Vassal Lane at Tobin/VLUS" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32059> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ames St at Broadway" .
+bike_taxonomy:M32058 a bike_ontology:Station;
+  rdfs:label "84 Cambridgepark Dr";
+  bike_ontology:numDocks 27 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32060> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "700 Huron Ave" .
+bike_taxonomy:M32059 a bike_ontology:Station;
+  rdfs:label "Ames St at Broadway" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32061> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mass Ave at Albany St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 18 .
+bike_taxonomy:M32060 a bike_ontology:Station;
+  rdfs:label "700 Huron Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32062> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Inman Square at Springfield St." .
+bike_taxonomy:M32061 a bike_ontology:Station;
+  rdfs:label "Mass Ave at Albany St";
+  bike_ontology:numDocks 18 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32063> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Sennott Park Broadway at Norfolk Street";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32062 a bike_ontology:Station;
+  rdfs:label "Inman Square at Springfield St." .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32064> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "75 Binney St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32063 a bike_ontology:Station;
+  rdfs:label "Sennott Park Broadway at Norfolk Street";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32065> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Kennedy-Longfellow School 158 Spring St" .
+bike_taxonomy:M32064 a bike_ontology:Station;
+  rdfs:label "75 Binney St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32066> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Discovery Park - 30 Acorn Park Drive" .
+bike_taxonomy:M32065 a bike_ontology:Station;
+  rdfs:label "Kennedy-Longfellow School 158 Spring St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32067> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Berkshire Street at Cambridge Street" .
+bike_taxonomy:M32066 a bike_ontology:Station;
+  rdfs:label "Discovery Park - 30 Acorn Park Drive" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32068> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Graham and Parks School ? Linnaean St at Walker St" .
+bike_taxonomy:M32067 a bike_ontology:Station;
+  rdfs:label "Berkshire Street at Cambridge Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32069> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Smith Pl at Wilson Rd" .
+bike_taxonomy:M32068 a bike_ontology:Station;
+  rdfs:label "Graham and Parks School ? Linnaean St at Walker St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32070> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT Carleton St at Amherst St" .
+bike_taxonomy:M32069 a bike_ontology:Station;
+  rdfs:label "Smith Pl at Wilson Rd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32071> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "MIT Hayward St at Amherst St" .
+bike_taxonomy:M32070 a bike_ontology:Station;
+  rdfs:label "MIT Carleton St at Amherst St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32072> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Galileo Galilei Way at Main Street";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32071 a bike_ontology:Station;
+  rdfs:label "MIT Hayward St at Amherst St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32073> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "955 Mass Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32072 a bike_ontology:Station;
+  rdfs:label "Galileo Galilei Way at Main Street";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32074> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Concord Ave at Spinelli Place";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32073 a bike_ontology:Station;
+  rdfs:label "955 Mass Ave";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32075> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Danehy Park at New Street" .
+bike_taxonomy:M32074 a bike_ontology:Station;
+  rdfs:label "Concord Ave at Spinelli Place";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32076> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Old Morse Park at Putnam Ave" .
+bike_taxonomy:M32075 a bike_ontology:Station;
+  rdfs:label "Danehy Park at New Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32077> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cambridge Crossing at North First Street";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 23 .
+bike_taxonomy:M32076 a bike_ontology:Station;
+  rdfs:label "Old Morse Park at Putnam Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32078> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Galileo Galilei Way at Fulkerson St/Binney St" .
+bike_taxonomy:M32077 a bike_ontology:Station;
+  rdfs:label "Cambridge Crossing at North First Street";
+  bike_ontology:numDocks 23 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32079> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Raymond Park at Walden St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32078 a bike_ontology:Station;
+  rdfs:label "Galileo Galilei Way at Fulkerson St/Binney St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32080> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Main Street/Albany Street/Technology Square" .
+bike_taxonomy:M32079 a bike_ontology:Station;
+  rdfs:label "Raymond Park at Walden St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32081> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Gore Street at Lambert Street" .
+bike_taxonomy:M32080 a bike_ontology:Station;
+  rdfs:label "Main Street/Albany Street/Technology Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32082> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broad Canal Way at Third Street";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32081 a bike_ontology:Station;
+  rdfs:label "Gore Street at Lambert Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32083> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "John Ahern Field at Kennedy-Longfellow School";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:M32082 a bike_ontology:Station;
+  rdfs:label "Broad Canal Way at Third Street";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32084> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "87-101 Cambridgepark Drive" .
+bike_taxonomy:M32083 a bike_ontology:Station;
+  rdfs:label "John Ahern Field at Kennedy-Longfellow School";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32085> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mass Ave/Lafayette Square" .
+bike_taxonomy:M32084 a bike_ontology:Station;
+  rdfs:label "87-101 Cambridgepark Drive" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32086> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Morgan Ave at North First St" .
+bike_taxonomy:M32085 a bike_ontology:Station;
+  rdfs:label "Mass Ave/Lafayette Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32087> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Church St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:M32086 a bike_ontology:Station;
+  rdfs:label "Morgan Ave at North First St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#M32088> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "55 Wheeler Street" .
+bike_taxonomy:M32087 a bike_ontology:Station;
+  rdfs:label "Church St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Malden> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:M32088 a bike_ontology:Station;
+  rdfs:label "55 Wheeler Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Medford> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:Malden a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32000> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Centre St at Washington St" .
+bike_taxonomy:Medford a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Crafts St" .
+bike_taxonomy:N32000 a bike_ontology:Station;
+  rdfs:label "Centre St at Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Nonantum Library" .
+bike_taxonomy:N32001 a bike_ontology:Station;
+  rdfs:label "Washington St at Crafts St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bacon St at Washington St" .
+bike_taxonomy:N32002 a bike_ontology:Station;
+  rdfs:label "Nonantum Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "West Newton" .
+bike_taxonomy:N32003 a bike_ontology:Station;
+  rdfs:label "Bacon St at Washington St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Watertown St at Albemarle Rd" .
+bike_taxonomy:N32005 a bike_ontology:Station;
+  rdfs:label "West Newton" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Langley Lot" .
+bike_taxonomy:N32006 a bike_ontology:Station;
+  rdfs:label "Watertown St at Albemarle Rd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boston College T" .
+bike_taxonomy:N32008 a bike_ontology:Station;
+  rdfs:label "Langley Lot" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Newton Highlands T" .
+bike_taxonomy:N32009 a bike_ontology:Station;
+  rdfs:label "Boston College T" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "California at Chapel" .
+bike_taxonomy:N32010 a bike_ontology:Station;
+  rdfs:label "Newton Highlands T" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Beacon at Walnut" .
+bike_taxonomy:N32011 a bike_ontology:Station;
+  rdfs:label "California at Chapel" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Newton Library" .
+bike_taxonomy:N32012 a bike_ontology:Station;
+  rdfs:label "Beacon at Walnut" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St at Walnut St" .
+bike_taxonomy:N32013 a bike_ontology:Station;
+  rdfs:label "Newton Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Auburndale" .
+bike_taxonomy:N32014 a bike_ontology:Station;
+  rdfs:label "Washington St at Walnut St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#N32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Centre St at Commonwealth Ave" .
+bike_taxonomy:N32015 a bike_ontology:Station;
+  rdfs:label "Auburndale" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Newton> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:N32018 a bike_ontology:Station;
+  rdfs:label "Centre St at Commonwealth Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Sumner St at Shirley Ave" .
+bike_taxonomy:Newton a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Orr Sq (Shirley Ave)" .
+bike_taxonomy:R32001 a bike_ontology:Station;
+  rdfs:label "Sumner St at Shirley Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Revere City Hall" .
+bike_taxonomy:R32002 a bike_ontology:Station;
+  rdfs:label "Orr Sq (Shirley Ave)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#R32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Revere Public Library" .
+bike_taxonomy:R32006 a bike_ontology:Station;
+  rdfs:label "Revere City Hall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Revere> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:R32007 a bike_ontology:Station;
+  rdfs:label "Revere Public Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#RideableTypes> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Rideable Types" .
+bike_taxonomy:Revere a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Somerville City Hall" .
+bike_taxonomy:RideableTypes a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  rdfs:label "Rideable Types" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Union Square - Somerville";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32001 a bike_ontology:Station;
+  rdfs:label "Somerville City Hall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Conway Park - Somerville Avenue" .
+bike_taxonomy:S32002 a bike_ontology:Station;
+  rdfs:label "Union Square - Somerville";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Wilson Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32004 a bike_ontology:Station;
+  rdfs:label "Conway Park - Somerville Avenue" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Davis Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 25 .
+bike_taxonomy:S32005 a bike_ontology:Station;
+  rdfs:label "Wilson Square";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Ball Sq";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32006 a bike_ontology:Station;
+  rdfs:label "Davis Square";
+  bike_ontology:numDocks 25 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Powder House Circle - Nathan Tufts Park" .
+bike_taxonomy:S32007 a bike_ontology:Station;
+  rdfs:label "Ball Sq";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Packard Ave at Powderhouse Blvd" .
+bike_taxonomy:S32008 a bike_ontology:Station;
+  rdfs:label "Powder House Circle - Nathan Tufts Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Clarendon Hill at Broadway" .
+bike_taxonomy:S32009 a bike_ontology:Station;
+  rdfs:label "Packard Ave at Powderhouse Blvd" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Teele Square";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32010 a bike_ontology:Station;
+  rdfs:label "Clarendon Hill at Broadway" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Magoun Square at Trum Field" .
+bike_taxonomy:S32011 a bike_ontology:Station;
+  rdfs:label "Teele Square";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway St at Mt Pleasant St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32013 a bike_ontology:Station;
+  rdfs:label "Magoun Square at Trum Field" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Foss Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32014 a bike_ontology:Station;
+  rdfs:label "Broadway St at Mt Pleasant St";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Central St" .
+bike_taxonomy:S32015 a bike_ontology:Station;
+  rdfs:label "Foss Park";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "East Somerville Library (Broadway and Illinois)";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32016 a bike_ontology:Station;
+  rdfs:label "Broadway at Central St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Assembly Square T";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32017 a bike_ontology:Station;
+  rdfs:label "East Somerville Library (Broadway and Illinois)";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32019> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Grove St at Community Path" .
+bike_taxonomy:S32018 a bike_ontology:Station;
+  rdfs:label "Assembly Square T";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32020> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Somerville Hospital";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32019 a bike_ontology:Station;
+  rdfs:label "Grove St at Community Path" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32022> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Community Path at Cedar Street" .
+bike_taxonomy:S32020 a bike_ontology:Station;
+  rdfs:label "Somerville Hospital";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32023> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "30 Dane St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:S32022 a bike_ontology:Station;
+  rdfs:label "Community Path at Cedar Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32034> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Perry Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32023 a bike_ontology:Station;
+  rdfs:label "30 Dane St";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32035> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "191 Beacon St" .
+bike_taxonomy:S32034 a bike_ontology:Station;
+  rdfs:label "Perry Park";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32036> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Somerville City Hall Annex" .
+bike_taxonomy:S32035 a bike_ontology:Station;
+  rdfs:label "191 Beacon St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32038> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Edgerly Education Center" .
+bike_taxonomy:S32036 a bike_ontology:Station;
+  rdfs:label "Somerville City Hall Annex" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32040> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Community Path at Lowell St" .
+bike_taxonomy:S32038 a bike_ontology:Station;
+  rdfs:label "Edgerly Education Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32041> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Union Square East" .
+bike_taxonomy:S32040 a bike_ontology:Station;
+  rdfs:label "Community Path at Lowell St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32042> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Trum Field @ Cedar St (Temp Winter Station)" .
+bike_taxonomy:S32041 a bike_ontology:Station;
+  rdfs:label "Union Square East" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32043> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Washington St @ New Washington St (Temp Winter Station)" .
+bike_taxonomy:S32042 a bike_ontology:Station;
+  rdfs:label "Trum Field @ Cedar St (Temp Winter Station)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32045> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Conway Park @ Bleachery Ct (Temp Winter Station)" .
+bike_taxonomy:S32043 a bike_ontology:Station;
+  rdfs:label "Washington St @ New Washington St (Temp Winter Station)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32046> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Gilman Square T at Medford St" .
+bike_taxonomy:S32045 a bike_ontology:Station;
+  rdfs:label "Conway Park @ Bleachery Ct (Temp Winter Station)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32047> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Foley St at Grand Union Blvd";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32046 a bike_ontology:Station;
+  rdfs:label "Gilman Square T at Medford St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32048> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Somerville High School & Central Library" .
+bike_taxonomy:S32047 a bike_ontology:Station;
+  rdfs:label "Foley St at Grand Union Blvd";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32049> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "515 Somerville Ave (Temp. Winter Location)" .
+bike_taxonomy:S32048 a bike_ontology:Station;
+  rdfs:label "Somerville High School & Central Library" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#S32050> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Boynton Yards at 101 South Street";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:S32049 a bike_ontology:Station;
+  rdfs:label "515 Somerville Ave (Temp. Winter Location)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Salem> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:S32050 a bike_ontology:Station;
+  rdfs:label "Boynton Yards at 101 South Street";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Somerville> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:Salem a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Stations> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Stations" .
+bike_taxonomy:Somerville a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Shetland Park - Congress at Peabody St" .
+bike_taxonomy:Stations a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  rdfs:label "Stations" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Mayor Salvo Path at Mill St" .
+bike_taxonomy:T32003 a bike_ontology:Station;
+  rdfs:label "Shetland Park - Congress at Peabody St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Salem MBTA - Washington at Federal St" .
+bike_taxonomy:T32004 a bike_ontology:Station;
+  rdfs:label "Mayor Salvo Path at Mill St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Lafayette at Leach St" .
+bike_taxonomy:T32005 a bike_ontology:Station;
+  rdfs:label "Salem MBTA - Washington at Federal St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Salem State University - Bike Path at Loring Ave" .
+bike_taxonomy:T32006 a bike_ontology:Station;
+  rdfs:label "Lafayette at Leach St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hawthorne Boulevard" .
+bike_taxonomy:T32007 a bike_ontology:Station;
+  rdfs:label "Salem State University - Bike Path at Loring Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32010> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Forest River Park" .
+bike_taxonomy:T32008 a bike_ontology:Station;
+  rdfs:label "Hawthorne Boulevard" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Essex St at Dalton Parkway" .
+bike_taxonomy:T32010 a bike_ontology:Station;
+  rdfs:label "Forest River Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Salem MBTA - Lower Level" .
+bike_taxonomy:T32011 a bike_ontology:Station;
+  rdfs:label "Essex St at Dalton Parkway" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Community Life Center" .
+bike_taxonomy:T32012 a bike_ontology:Station;
+  rdfs:label "Salem MBTA - Lower Level" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Goodhue St at Grove St" .
+bike_taxonomy:T32013 a bike_ontology:Station;
+  rdfs:label "Community Life Center" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "North St at Liberty Hill Ave" .
+bike_taxonomy:T32014 a bike_ontology:Station;
+  rdfs:label "Goodhue St at Grove St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bridge Street Neck" .
+bike_taxonomy:T32015 a bike_ontology:Station;
+  rdfs:label "North St at Liberty Hill Ave" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32017> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Vinnin Square" .
+bike_taxonomy:T32016 a bike_ontology:Station;
+  rdfs:label "Bridge Street Neck" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#T32018> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Derby Street" .
+bike_taxonomy:T32017 a bike_ontology:Station;
+  rdfs:label "Vinnin Square" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "7 Acre Park" .
+bike_taxonomy:T32018 a bike_ontology:Station;
+  rdfs:label "Derby Street" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32003> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Everett Square (Broadway at Chelsea St)" .
+bike_taxonomy:V32001 a bike_ontology:Station;
+  rdfs:label "7 Acre Park" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Lynde St" .
+bike_taxonomy:V32003 a bike_ontology:Station;
+  rdfs:label "Everett Square (Broadway at Chelsea St)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Encore";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:V32004 a bike_ontology:Station;
+  rdfs:label "Broadway at Lynde St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Glendale Square (Ferry St at Broadway)" .
+bike_taxonomy:V32005 a bike_ontology:Station;
+  rdfs:label "Encore";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Swan St. Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 15 .
+bike_taxonomy:V32006 a bike_ontology:Station;
+  rdfs:label "Glendale Square (Ferry St at Broadway)" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32008> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Maple St" .
+bike_taxonomy:V32007 a bike_ontology:Station;
+  rdfs:label "Swan St. Park";
+  bike_ontology:numDocks 15 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32009> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Pope John High School" .
+bike_taxonomy:V32008 a bike_ontology:Station;
+  rdfs:label "Broadway at Maple St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32011> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Beacham St" .
+bike_taxonomy:V32009 a bike_ontology:Station;
+  rdfs:label "Pope John High School" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32012> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Hale Park";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:V32011 a bike_ontology:Station;
+  rdfs:label "Broadway at Beacham St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32013> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Kearins Playground" .
+bike_taxonomy:V32012 a bike_ontology:Station;
+  rdfs:label "Hale Park";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32014> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Wellington MBTA";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:V32013 a bike_ontology:Station;
+  rdfs:label "Kearins Playground" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32015> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Gramsdorf Playground" .
+bike_taxonomy:V32014 a bike_ontology:Station;
+  rdfs:label "Wellington MBTA";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#V32016> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Chelsea St at Vine St" .
+bike_taxonomy:V32015 a bike_ontology:Station;
+  rdfs:label "Gramsdorf Playground" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32001> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Coolidge Sq.";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 12 .
+bike_taxonomy:V32016 a bike_ontology:Station;
+  rdfs:label "Chelsea St at Vine St" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32002> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Watertown Sq" .
+bike_taxonomy:W32001 a bike_ontology:Station;
+  rdfs:label "Coolidge Sq.";
+  bike_ontology:numDocks 12 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32004> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Arsenal Yards";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 14 .
+bike_taxonomy:W32002 a bike_ontology:Station;
+  rdfs:label "Watertown Sq" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32005> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Watertown City Hall" .
+bike_taxonomy:W32004 a bike_ontology:Station;
+  rdfs:label "Arsenal Yards";
+  bike_ontology:numDocks 14 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32006> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "160 Arsenal St";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 11 .
+bike_taxonomy:W32005 a bike_ontology:Station;
+  rdfs:label "Watertown City Hall" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#W32007> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Nichols Ave. at Watertown Greenway";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 12 .
+bike_taxonomy:W32006 a bike_ontology:Station;
+  rdfs:label "160 Arsenal St";
+  bike_ontology:numDocks 11 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Watertown> a <https://bluebikes.com/system-data/rdf/ontology#District> .
+bike_taxonomy:W32007 a bike_ontology:Station;
+  rdfs:label "Nichols Ave. at Watertown Greenway";
+  bike_ontology:numDocks 12 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32997> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Parker St at Huntington Ave";
-  <https://bluebikes.com/system-data/rdf/ontology#numDocks> 19 .
+bike_taxonomy:Watertown a bike_ontology:District .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32998> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Broadway at Kittie Knox Bike Path" .
+bike_taxonomy:Z32997 a bike_ontology:Station;
+  rdfs:label "Parker St at Huntington Ave";
+  bike_ontology:numDocks 19 .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#Z32999> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Cummins Highway at Blue Hill Ave T Stop" .
+bike_taxonomy:Z32998 a bike_ontology:Station;
+  rdfs:label "Broadway at Kittie Knox Bike Path" .
 
-<https://bluebikes.com/system-data/rdf/bike_taxonomy#ZZ32996> a <https://bluebikes.com/system-data/rdf/ontology#Station>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Auburn St. at Mystic River" .
+bike_taxonomy:Z32999 a bike_ontology:Station;
+  rdfs:label "Cummins Highway at Blue Hill Ave T Stop" .
+
+bike_taxonomy:ZZ32996 a bike_ontology:Station;
+  rdfs:label "Auburn St. at Mystic River" .
 
 <urn:x-evn-master:bike_supplementary_taxonomies> a <http://www.w3.org/2002/07/owl#Ontology>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "Bike Supplementary Taxonomies" .
+  rdfs:label "Bike Supplementary Taxonomies" .
